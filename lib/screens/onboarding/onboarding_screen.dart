@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import '../models/user_profile.dart';
-import '../providers/user_provider.dart';
-import '../services/notification_service.dart';
-import '../utils/constants.dart';
+import '../../models/user_profile.dart';
+import '../../providers/user_provider.dart';
+import '../../services/notification_service.dart';
+import '../../utils/constants.dart';
 
 class OnboardingScreen extends StatefulWidget {
   const OnboardingScreen({super.key});
