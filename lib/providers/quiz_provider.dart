@@ -1,35 +1,32 @@
 import 'package:flutter/material.dart';
 import '../models/question.dart';
-import '../data/quiz_data.dart';
+import '../services/json_loader_service.dart';
 
 class QuizProvider with ChangeNotifier {
   String? _currentSetId;
   List<Question> _questions = [];
   int _currentQuestionIndex = 0;
   int _score = 0;
-  String? _selectedAnswer;
+  int _correctAttemptsCount = 0;
+  int? _selectedAnswerIndex;
   bool _hasAnswered = false;
   bool _isCorrect = false;
-  bool _isCorrect = false;
+  bool _showFeedback = false;
   List<Map<String, dynamic>> _answers = [];
   bool _isQuizActive = false;
-
-  // Shuffled options for the current question: List of pairs [OptionText, IsCorrect]
-  List<MapEntry<String, bool>> _currentShuffledOptions = [];
 
   // Getters
   String? get currentSetId => _currentSetId;
   List<Question> get questions => _questions;
   int get currentQuestionIndex => _currentQuestionIndex;
   int get score => _score;
-  String? get selectedAnswer => _selectedAnswer;
+  int get correctAttemptsCount => _correctAttemptsCount;
+  int? get selectedAnswerIndex => _selectedAnswerIndex;
   bool get hasAnswered => _hasAnswered;
   bool get isCorrect => _isCorrect;
-  bool get isQuizActive => _isQuizActive;
+  bool get showFeedback => _showFeedback;
   bool get isQuizActive => _isQuizActive;
   List<Map<String, dynamic>> get answers => _answers;
-  List<MapEntry<String, bool>> get currentShuffledOptions =>
-      _currentShuffledOptions;
 
   Question? get currentQuestion {
     if (_questions.isEmpty || _currentQuestionIndex >= _questions.length) {
@@ -49,66 +46,46 @@ class QuizProvider with ChangeNotifier {
   }
 
   // Quiz control methods
-  void startQuiz(String setId) {
+  Future<void> startQuiz(String setId) async {
     _currentSetId = setId;
-    _currentSetId = setId;
-    _questions = QuizData.getQuestionsForSet(setId);
+    _questions = await JsonLoaderService.loadShuffledQuestions(setId);
     _currentQuestionIndex = 0;
-    _prepareCurrentQuestion();
     _score = 0;
-    _selectedAnswer = null;
+    _correctAttemptsCount = 0;
+    _selectedAnswerIndex = null;
     _hasAnswered = false;
     _isCorrect = false;
+    _showFeedback = false;
     _answers = [];
     _isQuizActive = true;
     notifyListeners();
   }
 
-  void selectAnswer(String answer) {
+  void selectAnswer(int answerIndex) {
     if (_hasAnswered || currentQuestion == null) return;
 
-    _selectedAnswer = answer; // 'A', 'B', 'C', or 'D' (index in shuffled list)
+    _selectedAnswerIndex = answerIndex;
     _hasAnswered = true;
-
-    // In the new system, 'answer' is the INDEX of the selected option in _currentShuffledOptions
-    // We need to map 'A', 'B', 'C', 'D' to 0, 1, 2, 3
-    final index = _optionLabelToIndex(answer);
-    if (index >= 0 && index < _currentShuffledOptions.length) {
-      _isCorrect = _currentShuffledOptions[index].value;
-    } else {
-      _isCorrect = false;
-    }
-
-    // For backward mapping in analytics, we need to find which ORIGINAL option this was
-    // But for now, we just store the text
-    final selectedText = _currentShuffledOptions[index].key;
+    _isCorrect = currentQuestion!.checkAnswer(answerIndex);
+    _showFeedback = true;
 
     if (_isCorrect) {
       _score++;
+      _correctAttemptsCount++;
     }
 
     // Record the answer
     _answers.add({
       'questionIndex': _currentQuestionIndex,
+      'questionId': currentQuestion!.id,
       'question': currentQuestion!.questionText,
-      'selectedAnswer': answer, // Keeps A/B/C/D format for UI consistency
-      'selectedText': selectedText,
+      'selectedIndex': answerIndex,
+      'selectedAnswer': currentQuestion!.getOptionText(answerIndex),
+      'correctIndex': currentQuestion!.correctIndex,
       'correctAnswer': currentQuestion!.correctAnswer,
       'isCorrect': _isCorrect,
-      'options': {
-        'A': _currentShuffledOptions.isNotEmpty
-            ? _currentShuffledOptions[0].key
-            : '',
-        'B': _currentShuffledOptions.length > 1
-            ? _currentShuffledOptions[1].key
-            : '',
-        'C': _currentShuffledOptions.length > 2
-            ? _currentShuffledOptions[2].key
-            : '',
-        'D': _currentShuffledOptions.length > 3
-            ? _currentShuffledOptions[3].key
-            : '',
-      },
+      'englishTranslation': currentQuestion!.englishTranslation,
+      'explanation': currentQuestion!.explanation,
     });
 
     notifyListeners();
@@ -117,10 +94,10 @@ class QuizProvider with ChangeNotifier {
   void nextQuestion() {
     if (!isLastQuestion) {
       _currentQuestionIndex++;
-      _prepareCurrentQuestion();
-      _selectedAnswer = null;
+      _selectedAnswerIndex = null;
       _hasAnswered = false;
       _isCorrect = false;
+      _showFeedback = false;
       notifyListeners();
     }
   }
@@ -134,16 +111,23 @@ class QuizProvider with ChangeNotifier {
         orElse: () => {},
       );
       if (previousAnswer.isNotEmpty) {
-        _selectedAnswer = previousAnswer['selectedAnswer'];
+        _selectedAnswerIndex = previousAnswer['selectedIndex'];
         _hasAnswered = true;
         _isCorrect = previousAnswer['isCorrect'];
+        _showFeedback = true;
       } else {
-        _selectedAnswer = null;
+        _selectedAnswerIndex = null;
         _hasAnswered = false;
         _isCorrect = false;
+        _showFeedback = false;
       }
       notifyListeners();
     }
+  }
+
+  void hideFeedback() {
+    _showFeedback = false;
+    notifyListeners();
   }
 
   void endQuiz() {
@@ -163,9 +147,11 @@ class QuizProvider with ChangeNotifier {
     _questions = [];
     _currentQuestionIndex = 0;
     _score = 0;
-    _selectedAnswer = null;
+    _correctAttemptsCount = 0;
+    _selectedAnswerIndex = null;
     _hasAnswered = false;
     _isCorrect = false;
+    _showFeedback = false;
     _answers = [];
     notifyListeners();
   }
@@ -185,17 +171,17 @@ class QuizProvider with ChangeNotifier {
   String getPerformanceMessage() {
     final percentage = (_score / _questions.length) * 100;
     if (percentage >= 90) {
-      return 'Outstanding! You have mastered this level!';
+      return 'Hervorragend! Outstanding! You have mastered this level!';
     } else if (percentage >= 80) {
-      return 'Excellent work! You have a strong understanding.';
+      return 'Ausgezeichnet! Excellent work! You have a strong understanding.';
     } else if (percentage >= 70) {
-      return 'Great job! You are making good progress.';
+      return 'Sehr gut! Great job! You are making good progress.';
     } else if (percentage >= 60) {
-      return 'Good effort! Keep practicing to improve.';
+      return 'Gut! Good effort! Keep practicing to improve.';
     } else if (percentage >= 50) {
-      return 'Not bad! Consider reviewing some material.';
+      return 'Es geht! Not bad! Consider reviewing some material.';
     } else {
-      return 'Keep trying! Practice makes perfect.';
+      return 'Weiter üben! Keep trying! Practice makes perfect.';
     }
   }
 

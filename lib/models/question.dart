@@ -1,63 +1,61 @@
 class Question {
+  final int id;
   final String questionText;
-  final String optionA;
-  final String optionB;
-  final String optionC;
-  final String optionD;
-  final String correctAnswer;
+  final String englishTranslation;
+  final List<String> options;
+  final int correctIndex;
+  final String explanation;
 
   Question({
+    required this.id,
     required this.questionText,
-    required this.optionA,
-    required this.optionB,
-    required this.optionC,
-    required this.optionD,
-    required this.correctAnswer,
+    required this.englishTranslation,
+    required this.options,
+    required this.correctIndex,
+    required this.explanation,
   });
 
-  bool checkAnswer(String userChoice) {
-    final options = {'A': optionA, 'B': optionB, 'C': optionC, 'D': optionD};
-    final selectedOption = options[userChoice.toUpperCase().trim()];
-    return selectedOption == correctAnswer;
+  /// Get the correct answer text
+  String get correctAnswer {
+    if (correctIndex >= 0 && correctIndex < options.length) {
+      return options[correctIndex];
+    }
+    return '';
   }
 
-  String getOptionText(String choice) {
-    final options = {'A': optionA, 'B': optionB, 'C': optionC, 'D': optionD};
-    return options[choice.toUpperCase()] ?? '';
+  /// Check if the selected index is correct
+  bool checkAnswer(int selectedIndex) {
+    return selectedIndex == correctIndex;
   }
 
-  /// Get shuffled options for this question
-  /// Returns a list of [option text, is correct] pairs
-  List<MapEntry<String, bool>> getShuffledOptions() {
-    final options = [
-      MapEntry(optionA, optionA == correctAnswer),
-      MapEntry(optionB, optionB == correctAnswer),
-      MapEntry(optionC, optionC == correctAnswer),
-      MapEntry(optionD, optionD == correctAnswer),
-    ];
-    options.shuffle();
-    return options;
+  /// Get option text by index (0-3)
+  String getOptionText(int index) {
+    if (index >= 0 && index < options.length) {
+      return options[index];
+    }
+    return '';
   }
 
+  /// Convert from JSON (from assets/questions/*.json files)
   factory Question.fromJson(Map<String, dynamic> json) {
     return Question(
-      questionText: json['question'],
-      optionA: json['A'],
-      optionB: json['B'],
-      optionC: json['C'],
-      optionD: json['D'],
-      correctAnswer: json['R'],
+      id: json['id'] as int,
+      questionText: json['question'] as String,
+      englishTranslation: json['englishTranslation'] as String,
+      options: List<String>.from(json['options'] as List),
+      correctIndex: json['correctIndex'] as int,
+      explanation: json['explanation'] as String,
     );
   }
 
   Map<String, dynamic> toJson() {
     return {
+      'id': id,
       'question': questionText,
-      'A': optionA,
-      'B': optionB,
-      'C': optionC,
-      'D': optionD,
-      'R': correctAnswer,
+      'englishTranslation': englishTranslation,
+      'options': options,
+      'correctIndex': correctIndex,
+      'explanation': explanation,
     };
   }
 }
