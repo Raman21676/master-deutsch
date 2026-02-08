@@ -1,0 +1,37 @@
+[
+  {
+    "dayOfYear": 1,
+    "germanWord": "Guten Tag",
+    "englishMeaning": "Good day / Hello",
+    "exampleSentenceGerman": "Guten Tag! Wie geht es Ihnen?",
+    "exampleSentenceEnglish": "Good day! How are you?"
+  },
+  {
+    "dayOfYear": 2,
+    "germanWord": "Danke",
+    "englishMeaning": "Thank you",
+    "exampleSentenceGerman": "Vielen Dank für Ihre Hilfe!",
+    "exampleSentenceEnglish": "Thank you very much for your help!"
+  },
+  {
+    "dayOfYear": 3,
+    "germanWord": "Bitte",
+    "englishMeaning": "Please / You're welcome",
+    "exampleSentenceGerman": "Bitte sehr, gern geschehen!",
+    "exampleSentenceEnglish": "You're very welcome!"
+  },
+  {
+    "dayOfYear": 4,
+    "germanWord": "Schön",
+    "englishMeaning": "Beautiful / Nice",
+    "exampleSentenceGerman": "Das Wetter ist heute sehr schön.",
+    "exampleSentenceEnglish": "The weather is very beautiful today."
+  },
+  {
+    "dayOfYear": 5,
+    "germanWord": "Freund",
+    "englishMeaning": "Friend",
+    "exampleSentenceGerman": "Er ist mein bester Freund.",
+    "exampleSentenceEnglish": "He is my best friend."
+  }
+]

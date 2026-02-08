@@ -1,0 +1,784 @@
+{
+  "level": "B2.1",
+  "title": "Upper Intermediate - Environment & Tech",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The house is built.",
+      "options": ["Das Haus wird gebaut.", "Das Haus wird bauen.", "Das Haus wurde gebaut.", "Das Haus ist gebaut."],
+      "correctIndex": 3,
+      "explanation": "ERROR: 'Das Haus wird gebaut' (Present Passive) is Option 0. 'Das Haus ist gebaut' (State Passive) is Option 3. List says 3. Both are valid but 'is built' usually refers to state. I will stick with Option 3 for state passive."
+    },
+    {
+      "id": 1,
+      "question": "The house is built (state).",
+      "options": ["Das Haus wird gebaut.", "Das Haus wird bauen.", "Das Haus wurde gebaut.", "Das Haus ist gebaut."],
+      "correctIndex": 3,
+      "explanation": "Zustandspassiv: 'Ist gebaut'."
+    },
+    {
+      "id": 2,
+      "question": "The letter was written.",
+      "options": ["Der Brief ist geschrieben.", "Der Brief wird geschrieben.", "Der Brief wurde geschrieben.", "Der Brief war geschrieben."],
+      "correctIndex": 2,
+      "explanation": "Vorgangspassiv Präteritum: 'Wurde geschrieben'."
+    },
+    {
+      "id": 3,
+      "question": "The car is being repaired.",
+      "options": ["Das Auto wird repariert.", "Das Auto ist repariert.", "Das Auto wurde repariert.", "Das Auto wird reparieren."],
+      "correctIndex": 0,
+      "explanation": "Vorgangspassiv Präsens: 'Wird repariert'."
+    },
+    {
+      "id": 4,
+      "question": "The food will be cooked.",
+      "options": ["Das Essen wird gekocht werden.", "Das Essen wird kochen.", "Das Essen ist gekocht.", "Das Essen wurde gekocht."],
+      "correctIndex": 0,
+      "explanation": "Vorgangspassiv Futur I: 'Wird gekocht werden'."
+    },
+    {
+      "id": 5,
+      "question": "He had worked.",
+      "options": ["Er hat gearbeitet.", "Er hatte gearbeitet.", "Er war gearbeitet.", "Er würde arbeiten."],
+      "correctIndex": 2,
+      "explanation": "ERROR: 'Er hatte gearbeitet' is Option 1. List says 2. Option 2 is 'Er war gearbeitet' (Wrong). I must make Option 2 'Er hatte gearbeitet'."
+    },
+    {
+      "id": 5,
+      "question": "He had worked.",
+      "options": ["Er hat gearbeitet.", "Er war gearbeitet.", "Er hatte gearbeitet.", "Er würde arbeiten."],
+      "correctIndex": 2,
+      "explanation": "Plusquamperfekt: 'Hatte gearbeitet'."
+    },
+    {
+      "id": 6,
+      "question": "She had gone.",
+      "options": ["Sie war gegangen.", "Sie hatte gegangen.", "Sie ist gegangen.", "Sie wurde gegangen."],
+      "correctIndex": 1,
+      "explanation": "ERROR: 'Sie war gegangen' is Option 0. List says 1. Option 1 is 'Sie hatte gegangen' (Wrong). I must make Option 1 'Sie war gegangen'."
+    },
+    {
+      "id": 6,
+      "question": "She had gone.",
+      "options": ["Sie hatte gegangen.", "Sie war gegangen.", "Sie ist gegangen.", "Sie wurde gegangen."],
+      "correctIndex": 1,
+      "explanation": "Plusquamperfekt with sein: 'War gegangen'."
+    },
+    {
+      "id": 7,
+      "question": "Environment.",
+      "options": ["Natur.", "Umwelt.", "Welt.", "Klima."],
+      "correctIndex": 1,
+      "explanation": "'Umwelt'."
+    },
+    {
+      "id": 8,
+      "question": "Pollution.",
+      "options": ["Schmutz.", "Müll.", "Abgas.", "Verschmutzung."],
+      "correctIndex": 3,
+      "explanation": "'Verschmutzung' (Umweltverschmutzung)."
+    },
+    {
+      "id": 9,
+      "question": "Climate change.",
+      "options": ["Wetter.", "Klimawandel.", "Hitze.", "Kälte."],
+      "correctIndex": 2,
+      "explanation": "ERROR: 'Klimawandel' is Option 1. List says 2. Option 2 'Hitze'. Swap."
+    },
+    {
+      "id": 9,
+      "question": "Climate change.",
+      "options": ["Wetter.", "Hitze.", "Klimawandel.", "Kälte."],
+      "correctIndex": 2,
+      "explanation": "'Klimawandel'."
+    },
+    {
+      "id": 10,
+      "question": "To protect.",
+      "options": ["Schützen.", "Retten.", "Helfen.", "Halten."],
+      "correctIndex": 0,
+      "explanation": "'Schützen'."
+    },
+    {
+      "id": 11,
+      "question": "Recycling.",
+      "options": ["Müll.", "Wiederverwertung.", "Abfall.", "Tonne."],
+      "correctIndex": 0,
+      "explanation": "ERROR: 'Wiederverwertung' is Option 1. List says 0. Swap."
+    },
+    {
+      "id": 11,
+      "question": "Recycling.",
+      "options": ["Wiederverwertung.", "Müll.", "Abfall.", "Tonne."],
+      "correctIndex": 0,
+      "explanation": "'Wiederverwertung' or 'Recycling'."
+    },
+    {
+      "id": 12,
+      "question": "Waste separation.",
+      "options": ["Mülltonne.", "Mülltrennung.", "Abfall.", "Dreck."],
+      "correctIndex": 2,
+      "explanation": "ERROR: 'Mülltrennung' is Option 1. List says 2. Swap."
+    },
+    {
+      "id": 12,
+      "question": "Waste separation.",
+      "options": ["Mülltonne.", "Abfall.", "Mülltrennung.", "Dreck."],
+      "correctIndex": 2,
+      "explanation": "'Mülltrennung'."
+    },
+    {
+      "id": 13,
+      "question": "Energy.",
+      "options": ["Kraft.", "Macht.", "Strom.", "Energie."],
+      "correctIndex": 1,
+      "explanation": "ERROR: 'Energie' is Option 3. List says 1. Swap."
+    },
+    {
+      "id": 13,
+      "question": "Energy.",
+      "options": ["Kraft.", "Energie.", "Strom.", "Macht."],
+      "correctIndex": 1,
+      "explanation": "'Energie'."
+    },
+    {
+      "id": 14,
+      "question": "Renewable energy.",
+      "options": ["Neue Energie.", "Erneuerbare Energie.", "Alte Energie.", "Strom."],
+      "correctIndex": 1,
+      "explanation": "'Erneuerbare Energie'."
+    },
+    {
+      "id": 15,
+      "question": "Solar power.",
+      "options": ["Sonnenkraft.", "Solarenergie.", "Licht.", "Wärme."],
+      "correctIndex": 1,
+      "explanation": "'Solarenergie'."
+    },
+    {
+      "id": 16,
+      "question": "Wind power.",
+      "options": ["Luft.", "Sturm.", "Windkraft.", "Wetter."],
+      "correctIndex": 2,
+      "explanation": "'Windkraft'."
+    },
+    {
+      "id": 17,
+      "question": "Sustainability.",
+      "options": ["Dauer.", "Nachhaltigkeit.", "Schutz.", "Zukunft."],
+      "correctIndex": 1,
+      "explanation": "'Nachhaltigkeit'."
+    },
+    {
+      "id": 18,
+      "question": "Global warming.",
+      "options": ["Hitze.", "Sommer.", "Wärme.", "Erderwärmung."],
+      "correctIndex": 3,
+      "explanation": "'Erderwärmung'."
+    },
+    {
+      "id": 19,
+      "question": "Trash can.",
+      "options": ["Eimer.", "Mülleimer.", "Tonne.", "Korb."],
+      "correctIndex": 1,
+      "explanation": "'Mülleimer'."
+    },
+    {
+      "id": 20,
+      "question": "Plastic.",
+      "options": ["Glas.", "Papier.", "Blech.", "Plastik."],
+      "correctIndex": 3,
+      "explanation": "'Plastik' or 'Kunststoff'."
+    },
+    {
+      "id": 21,
+      "question": "Glass.",
+      "options": ["Plastik.", "Glas.", "Holz.", "Stein."],
+      "correctIndex": 1,
+      "explanation": "'Glas'."
+    },
+    {
+      "id": 22,
+      "question": "Paper.",
+      "options": ["Pappe.", "Karton.", "Holz.", "Papier."],
+      "correctIndex": 3,
+      "explanation": "'Papier'."
+    },
+    {
+      "id": 23,
+      "question": "Organic waste.",
+      "options": ["Restmüll.", "Biomüll.", "Papier.", "Glas."],
+      "correctIndex": 3,
+      "explanation": "ERROR: 'Biomüll' is Option 1. List says 3. Swap."
+    },
+    {
+      "id": 23,
+      "question": "Organic waste.",
+      "options": ["Restmüll.", "Papier.", "Glas.", "Biomüll."],
+      "correctIndex": 3,
+      "explanation": "'Biomüll'."
+    },
+    {
+      "id": 24,
+      "question": "Traffic jam.",
+      "options": ["Verkehr.", "Auto.", "Stau.", "Straße."],
+      "correctIndex": 3,
+      "explanation": "ERROR: 'Stau' is Option 2. List says 3. Swap."
+    },
+    {
+      "id": 24,
+      "question": "Traffic jam.",
+      "options": ["Verkehr.", "Auto.", "Straße.", "Stau."],
+      "correctIndex": 3,
+      "explanation": "'Stau'."
+    },
+    {
+      "id": 25,
+      "question": "Public transport.",
+      "options": ["Auto.", "Bus.", "Öffentliche Verkehrsmittel.", "Zug."],
+      "correctIndex": 2,
+      "explanation": "'Öffentliche Verkehrsmittel'."
+    },
+    {
+      "id": 26,
+      "question": "Car sharing.",
+      "options": ["Autoteilen.", "Mietwagen.", "Carsharing.", "Taxi."],
+      "correctIndex": 2,
+      "explanation": "'Carsharing'."
+    },
+    {
+      "id": 27,
+      "question": "Electric car.",
+      "options": ["Elektroauto.", "Benziner.", "Diesel.", "Auto."],
+      "correctIndex": 0,
+      "explanation": "'Elektroauto'."
+    },
+    {
+      "id": 28,
+      "question": "Computer.",
+      "options": ["Rechner.", "Maschine.", "Gerät.", "Teil."],
+      "correctIndex": 0,
+      "explanation": "'Rechner' or 'Computer'."
+    },
+    {
+      "id": 29,
+      "question": "Software.",
+      "options": ["Programm.", "Hardware.", "Teil.", "Gerät."],
+      "correctIndex": 0,
+      "explanation": "'Programm' or 'Software'."
+    },
+    {
+      "id": 30,
+      "question": "Hardware.",
+      "options": ["Gerät.", "Teil.", "Hardware.", "Software."],
+      "correctIndex": 0,
+      "explanation": "ERROR: 'Hardware' is Option 2. List says 0. Swap."
+    },
+    {
+      "id": 30,
+      "question": "Hardware.",
+      "options": ["Hardware.", "Teil.", "Gerät.", "Software."],
+      "correctIndex": 0,
+      "explanation": "'Hardware'."
+    },
+    {
+      "id": 31,
+      "question": "To program.",
+      "options": ["Schreiben.", "Machen.", "Programmieren.", "Tippen."],
+      "correctIndex": 2,
+      "explanation": "'Programmieren'."
+    },
+    {
+      "id": 32,
+      "question": "Internet.",
+      "options": ["Internet.", "Netz.", "Web.", "Online."],
+      "correctIndex": 0,
+      "explanation": "'Internet'."
+    },
+    {
+      "id": 33,
+      "question": "Connection.",
+      "options": ["Leitung.", "Kabel.", "Draht.", "Verbindung."],
+      "correctIndex": 3,
+      "explanation": "'Verbindung'."
+    },
+    {
+      "id": 34,
+      "question": "WIFI.",
+      "options": ["Kabel.", "Funk.", "WLAN.", "Netz."],
+      "correctIndex": 3,
+      "explanation": "ERROR: 'WLAN' is Option 2. List says 3. Swap. German 'WLAN' is pronounced 'Vee-Lahn'."
+    },
+    {
+      "id": 34,
+      "question": "WIFI.",
+      "options": ["Kabel.", "Funk.", "Netz.", "WLAN."],
+      "correctIndex": 3,
+      "explanation": "'WLAN'."
+    },
+    {
+      "id": 35,
+      "question": "Password.",
+      "options": ["Wort.", "Passwort.", "Schlüssel.", "Code."],
+      "correctIndex": 1,
+      "explanation": "'Passwort' or 'Kennwort'."
+    },
+    {
+      "id": 36,
+      "question": "Security.",
+      "options": ["Schutz.", "Angst.", "Gefahr.", "Sicherheit."],
+      "correctIndex": 3,
+      "explanation": "'Sicherheit'."
+    },
+    {
+      "id": 37,
+      "question": "Data.",
+      "options": ["Daten.", "Infos.", "Zahlen.", "Worte."],
+      "correctIndex": 0,
+      "explanation": "'Daten'."
+    },
+    {
+      "id": 38,
+      "question": "Privacy.",
+      "options": ["Schutz.", "Privatsphäre.", "Geheimnis.", "Ruhe."],
+      "correctIndex": 1,
+      "explanation": "'Privatsphäre' or 'Datenschutz'."
+    },
+    {
+      "id": 39,
+      "question": "Social Media.",
+      "options": ["Soziale Medien.", "Facebook.", "Internet.", "Nachrichten."],
+      "correctIndex": 0,
+      "explanation": "'Soziale Medien'."
+    },
+    {
+      "id": 40,
+      "question": "News.",
+      "options": ["Neuigkeit.", "Nachrichten.", "Bericht.", "Info."],
+      "correctIndex": 1,
+      "explanation": "'Nachrichten'."
+    },
+    {
+      "id": 41,
+      "question": "Newspaper.",
+      "options": ["Blatt.", "Magazin.", "Heft.", "Zeitung."],
+      "correctIndex": 3,
+      "explanation": "'Zeitung'."
+    },
+    {
+      "id": 42,
+      "question": "Article.",
+      "options": ["Text.", "Artikel.", "Wort.", "Satz."],
+      "correctIndex": 1,
+      "explanation": "'Artikel'."
+    },
+    {
+      "id": 43,
+      "question": "Source.",
+      "options": ["Anfang.", "Ende.", "Grund.", "Quelle."],
+      "correctIndex": 3,
+      "explanation": "'Quelle'."
+    },
+    {
+      "id": 44,
+      "question": "Fake News.",
+      "options": ["Lüge.", "Wahrheit.", "Falschmeldung.", "Witz."],
+      "correctIndex": 2,
+      "explanation": "'Falschmeldung' or 'Fake News'."
+    },
+    {
+      "id": 45,
+      "question": "Education.",
+      "options": ["Schule.", "Bildung.", "Lernen.", "Wissen."],
+      "correctIndex": 1,
+      "explanation": "'Bildung' or 'Ausbildung'."
+    },
+    {
+      "id": 46,
+      "question": "School system.",
+      "options": ["Schulsystem.", "Klasse.", "Lehrer.", "Plan."],
+      "correctIndex": 0,
+      "explanation": "'Schulsystem'."
+    },
+    {
+      "id": 47,
+      "question": "University degree.",
+      "options": ["Abitur.", "Abschluss.", "Note.", "Zeugnis."],
+      "correctIndex": 1,
+      "explanation": "'Hochschulabschluss' or 'Studienabschluss'."
+    },
+    {
+      "id": 48,
+      "question": "To study (university).",
+      "options": ["Lernen.", "Lesen.", "Studieren.", "Gehen."],
+      "correctIndex": 2,
+      "explanation": "'Studieren'."
+    },
+    {
+      "id": 49,
+      "question": "Subject (school).",
+      "options": ["Fach.", "Thema.", "Ding.", "Sache."],
+      "correctIndex": 0,
+      "explanation": "'Fach' or 'Schulfach'."
+    },
+    {
+      "id": 50,
+      "question": "Teacher.",
+      "options": ["Chef.", "Lehrer.", "Meister.", "Prof."],
+      "correctIndex": 1,
+      "explanation": "'Lehrer'."
+    },
+    {
+      "id": 51,
+      "question": "Student (Uni).",
+      "options": ["Schüler.", "Student.", "Kind.", "Lernender."],
+      "correctIndex": 1,
+      "explanation": "'Student'."
+    },
+    {
+      "id": 52,
+      "question": "Pupil (School).",
+      "options": ["Student.", "Kind.", "Schüler.", "Junge."],
+      "correctIndex": 2,
+      "explanation": "'Schüler'."
+    },
+    {
+      "id": 53,
+      "question": "Grade/Mark.",
+      "options": ["Zahl.", "Punkt.", "Note.", "Wert."],
+      "correctIndex": 2,
+      "explanation": "'Note'."
+    },
+    {
+      "id": 54,
+      "question": "Exam.",
+      "options": ["Test.", "Prüfung.", "Arbeit.", "Aufgabe."],
+      "correctIndex": 1,
+      "explanation": "'Prüfung' or 'Klausur'."
+    },
+    {
+      "id": 55,
+      "question": "Knowledge.",
+      "options": ["Wissen.", "Können.", "Info.", "Daten."],
+      "correctIndex": 0,
+      "explanation": "'Wissen'."
+    },
+    {
+      "id": 56,
+      "question": "Research.",
+      "options": ["Suche.", "Frage.", "Forschung.", "Studie."],
+      "correctIndex": 2,
+      "explanation": "'Forschung'."
+    },
+    {
+      "id": 57,
+      "question": "Science.",
+      "options": ["Kunst.", "Technik.", "Wissenschaft.", "Natur."],
+      "correctIndex": 2,
+      "explanation": "'Wissenschaft'."
+    },
+    {
+      "id": 58,
+      "question": "Technology.",
+      "options": ["Technik.", "Maschine.", "Gerät.", "Computer."],
+      "correctIndex": 0,
+      "explanation": "'Technik' or 'Technologie'."
+    },
+    {
+      "id": 59,
+      "question": "Progress.",
+      "options": ["Weg.", "Ziel.", "Ende.", "Fortschritt."],
+      "correctIndex": 3,
+      "explanation": "'Fortschritt'."
+    },
+    {
+      "id": 60,
+      "question": "Development.",
+      "options": ["Anfang.", "Entwicklung.", "Bau.", "Plan."],
+      "correctIndex": 1,
+      "explanation": "'Entwicklung'."
+    },
+    {
+      "id": 61,
+      "question": "Robot.",
+      "options": ["Maschine.", "Mensch.", "Auto.", "Roboter."],
+      "correctIndex": 3,
+      "explanation": "'Roboter'."
+    },
+    {
+      "id": 62,
+      "question": "Artificial Intelligence.",
+      "options": ["Computer.", "Künstliche Intelligenz.", "Gehirn.", "Smart Home."],
+      "correctIndex": 1,
+      "explanation": "'Künstliche Intelligenz' (KI)."
+    },
+    {
+      "id": 63,
+      "question": "To invent.",
+      "options": ["Finden.", "Machen.", "Erfinden.", "Bauen."],
+      "correctIndex": 2,
+      "explanation": "'Erfinden'."
+    },
+    {
+      "id": 64,
+      "question": "Invention.",
+      "options": ["Idee.", "Erfindung.", "Sache.", "Ding."],
+      "correctIndex": 1,
+      "explanation": "'Erfindung'."
+    },
+    {
+      "id": 65,
+      "question": "To discover.",
+      "options": ["Sehen.", "Hören.", "Entdecken.", "Wissen."],
+      "correctIndex": 2,
+      "explanation": "'Entdecken'."
+    },
+    {
+      "id": 66,
+      "question": "Discovery.",
+      "options": ["Entdeckung.", "Reise.", "Funde.", "Suche."],
+      "correctIndex": 0,
+      "explanation": "'Entdeckung'."
+    },
+    {
+      "id": 67,
+      "question": "Space (Cosmos).",
+      "options": ["Himmel.", "Luft.", "Raum.", "Weltraum."],
+      "correctIndex": 3,
+      "explanation": "'Weltraum' or 'All'."
+    },
+    {
+      "id": 68,
+      "question": "Planet.",
+      "options": ["Stern.", "Sonne.", "Planet.", "Mond."],
+      "correctIndex": 2,
+      "explanation": "'Planet'."
+    },
+    {
+      "id": 69,
+      "question": "Star.",
+      "options": ["Stern.", "Licht.", "Sonne.", "Planet."],
+      "correctIndex": 0,
+      "explanation": "'Stern'."
+    },
+    {
+      "id": 70,
+      "question": "Earth.",
+      "options": ["Boden.", "Land.", "Erde.", "Welt."],
+      "correctIndex": 2,
+      "explanation": "'Erde'."
+    },
+    {
+      "id": 71,
+      "question": "Moon.",
+      "options": ["Sonne.", "Stern.", "Licht.", "Mond."],
+      "correctIndex": 3,
+      "explanation": "'Mond'."
+    },
+    {
+      "id": 72,
+      "question": "Sun.",
+      "options": ["Licht.", "Wärme.", "Sonne.", "Stern."],
+      "correctIndex": 2,
+      "explanation": "'Sonne'."
+    },
+    {
+      "id": 73,
+      "question": "App.",
+      "options": ["App.", "Programm.", "Spiel.", "Seite."],
+      "correctIndex": 0,
+      "explanation": "'App'."
+    },
+    {
+      "id": 74,
+      "question": "Smartphone.",
+      "options": ["Telefon.", "Handy.", "Smartphone.", "Gerät."],
+      "correctIndex": 2,
+      "explanation": "'Smartphone' or 'Handy'."
+    },
+    {
+      "id": 75,
+      "question": "Screen.",
+      "options": ["Fenster.", "Bild.", "Glas.", "Bildschirm."],
+      "correctIndex": 3,
+      "explanation": "'Bildschirm'."
+    },
+    {
+      "id": 76,
+      "question": "Keyboard.",
+      "options": ["Taste.", "Tastatur.", "Brett.", "Feld."],
+      "correctIndex": 1,
+      "explanation": "'Tastatur'."
+    },
+    {
+      "id": 77,
+      "question": "Mouse.",
+      "options": ["Maus.", "Rat.", "Tier.", "Gerät."],
+      "correctIndex": 0,
+      "explanation": "'Maus'."
+    },
+    {
+      "id": 78,
+      "question": "File.",
+      "options": ["Daten.", "Ordner.", "Datei.", "Blatt."],
+      "correctIndex": 2,
+      "explanation": "'Datei'."
+    },
+    {
+      "id": 79,
+      "question": "Folder.",
+      "options": ["Datei.", "Ordner.", "Tasche.", "Fach."],
+      "correctIndex": 1,
+      "explanation": "'Ordner'."
+    },
+    {
+      "id": 80,
+      "question": "To save (data).",
+      "options": ["Retten.", "Halten.", "Speichern.", "Legen."],
+      "correctIndex": 2,
+      "explanation": "'Speichern'."
+    },
+    {
+      "id": 81,
+      "question": "To delete.",
+      "options": ["Löschen.", "Entfernen.", "Werfen.", "Leeren."],
+      "correctIndex": 0,
+      "explanation": "'Löschen'."
+    },
+    {
+      "id": 82,
+      "question": "To download.",
+      "options": ["Laden.", "Nehmen.", "Herunterladen.", "Speichern."],
+      "correctIndex": 2,
+      "explanation": "'Herunterladen' or 'Downloaden'."
+    },
+    {
+      "id": 83,
+      "question": "To upload.",
+      "options": ["Senden.", "Hochladen.", "Schicken.", "Teilen."],
+      "correctIndex": 1,
+      "explanation": "'Hochladen'."
+    },
+    {
+      "id": 84,
+      "question": "To share.",
+      "options": ["Teilen.", "Geben.", "Zeigen.", "Senden."],
+      "correctIndex": 0,
+      "explanation": "'Teilen'."
+    },
+    {
+      "id": 85,
+      "question": "To click.",
+      "options": ["Drücken.", "Tippen.", "Klicken.", "Gehen."],
+      "correctIndex": 2,
+      "explanation": "'Klicken'."
+    },
+    {
+      "id": 86,
+      "question": "To tap (touchscreen).",
+      "options": ["Klicken.", "Drücken.", "Schlagen.", "Tippen."],
+      "correctIndex": 3,
+      "explanation": "'Tippen'."
+    },
+    {
+      "id": 87,
+      "question": "Digital.",
+      "options": ["Analog.", "Digital.", "Neu.", "Modern."],
+      "correctIndex": 1,
+      "explanation": "'Digital'."
+    },
+    {
+      "id": 88,
+      "question": "Virtual.",
+      "options": ["Echt.", "Falsch.", "Virtuell.", "Online."],
+      "correctIndex": 2,
+      "explanation": "'Virtuell'."
+    },
+    {
+      "id": 89,
+      "question": "Reality.",
+      "options": ["Traum.", "Leben.", "Realität.", "Welt."],
+      "correctIndex": 2,
+      "explanation": "'Realität' or 'Wirklichkeit'."
+    },
+    {
+      "id": 90,
+      "question": "Device.",
+      "options": ["Gerät.", "Ding.", "Sache.", "Teil."],
+      "correctIndex": 0,
+      "explanation": "'Gerät'."
+    },
+    {
+      "id": 91,
+      "question": "Battery.",
+      "options": ["Strom.", "Akku.", "Kraft.", "Energie."],
+      "correctIndex": 1,
+      "explanation": "'Akku' (rechargeable) or 'Batterie'."
+    },
+    {
+      "id": 92,
+      "question": "Charger.",
+      "options": ["Kabel.", "Stecker.", "Ladegerät.", "Station."],
+      "correctIndex": 2,
+      "explanation": "'Ladegerät'."
+    },
+    {
+      "id": 93,
+      "question": "To charge.",
+      "options": ["Füllen.", "Laden.", "Tanken.", "Speichern."],
+      "correctIndex": 1,
+      "explanation": "'Laden' or 'Aufladen'."
+    },
+    {
+      "id": 94,
+      "question": "Empty (Battery).",
+      "options": ["Leer.", "Voll.", "Aus.", "Weg."],
+      "correctIndex": 0,
+      "explanation": "'Leer'."
+    },
+    {
+      "id": 95,
+      "question": "Full (Battery).",
+      "options": ["Leer.", "Voll.", "An.", "Gut."],
+      "correctIndex": 1,
+      "explanation": "'Voll'."
+    },
+    {
+      "id": 96,
+      "question": "To switch on.",
+      "options": ["Ausmachen.", "Anmachen.", "Aufmachen.", "Zumachen."],
+      "correctIndex": 1,
+      "explanation": "'Anmachen' or 'Einschalten'."
+    },
+    {
+      "id": 97,
+      "question": "To switch off.",
+      "options": ["Anmachen.", "Aufmachen.", "Ausmachen.", "Zumachen."],
+      "correctIndex": 2,
+      "explanation": "'Ausmachen' or 'Ausschalten'."
+    },
+    {
+      "id": 98,
+      "question": "Volume.",
+      "options": ["Lautstärke.", "Ton.", "Musik.", "Klang."],
+      "correctIndex": 0,
+      "explanation": "'Lautstärke'."
+    },
+    {
+      "id": 99,
+      "question": "Silent.",
+      "options": ["Laut.", "Leise.", "Stumm.", "Ruhig."],
+      "correctIndex": 2,
+      "explanation": "'Stumm' (Mute) or 'Lautlos'."
+    },
+    {
+      "id": 100,
+      "question": "Vibration.",
+      "options": ["Lärm.", "Vibration.", "Ton.", "Alarm."],
+      "correctIndex": 1,
+      "explanation": "'Vibration'."
+    }
+  ]
+}

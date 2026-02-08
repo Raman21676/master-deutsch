@@ -1,0 +1,1207 @@
+{
+  "level": "C1.2",
+  "title": "Advanced+ German - Nuanced Expressions & Professional Contexts",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "id": 1,
+      "question": "I would be remiss if I failed to acknowledge your contribution.",
+      "options": [
+        "Es wäre nachlässig von mir, Ihren Beitrag nicht zu würdigen.",
+        "Ich würde mich schuldig fühlen, wenn ich Ihren Beitrag übersehen würde.",
+        "Ich wäre verantwortlich, wenn ich Ihren Beitrag nicht erwähnte.",
+        "Ich wäre fahrlässig, wenn ich Ihren Beitrag nicht anerkennen würde."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Fahrlässig' precisely translates 'remiss' in this formal context"
+    },
+    {
+      "id": 2,
+      "question": "The proposal has garnered widespread support.",
+      "options": [
+        "Der Vorschlag hat breite Unterstützung bekommen.",
+        "Der Vorschlag hat breite Zustimmung erhalten.",
+        "Der Vorschlag hat allgemeine Unterstützung gefunden.",
+        "Der Vorschlag hat weitverbreitete Unterstützung gewonnen."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Weitverbreitet' and 'gewinnen' elegantly translate 'garnered widespread'"
+    },
+    {
+      "id": 3,
+      "question": "We must proceed with due diligence.",
+      "options": [
+        "Wir müssen ordnungsgemäß verfahren.",
+        "Wir müssen mit angemessener Sorgfalt vorgehen.",
+        "Wir müssen pflichtgemäß weitermachen.",
+        "Wir müssen mit gebührender Sorgfalt fortfahren."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Gebührende Sorgfalt' is the standard legal/business term for 'due diligence'"
+    },
+    {
+      "id": 4,
+      "question": "The matter warrants our undivided attention.",
+      "options": [
+        "Das Thema braucht unsere komplette Konzentration.",
+        "Die Angelegenheit verdient unsere volle Aufmerksamkeit.",
+        "Der Fall verdient unsere ausschließliche Beachtung.",
+        "Die Sache erfordert unsere ungeteilte Aufmerksamkeit."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Erfordern' and 'ungeteilt' capture the urgency and exclusivity"
+    },
+    {
+      "id": 5,
+      "question": "I am writing to apprise you of the situation.",
+      "options": [
+        "Ich schreibe, um Sie der Situation zu versetzen.",
+        "Ich schreibe, um Sie über den Stand der Dinge zu unterrichten.",
+        "Ich schreibe, um Sie von der Lage in Kenntnis zu setzen.",
+        "Ich schreibe, um Sie über die Situation zu informieren."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Informieren' is the standard, elegant choice for 'apprise'"
+    },
+    {
+      "id": 6,
+      "question": "We should not rest on our laurels.",
+      "options": [
+        "Wir sollten nicht auf unseren Erfolgen sitzen bleiben.",
+        "Wir sollten uns nicht auf unseren Lorbeeren ausruhen.",
+        "Wir sollten nicht auf unseren Triumphen beharren.",
+        "Wir sollten uns nicht mit unseren Errungenschaften zufriedengeben."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Sich auf seinen Lorbeeren ausruhen' is the established German idiom"
+    },
+    {
+      "id": 7,
+      "question": "The committee has reached an impasse.",
+      "options": [
+        "Das Komitee ist in eine Sackgasse geraten.",
+        "Das Komitee hat eine Einigung nicht erzielt.",
+        "Das Komitee hat einen Stillstand erreicht.",
+        "Das Komitee hat einen Durchbruch erreicht."
+      ],
+      "correctIndex": 0,
+      "explanation": "'In eine Sackgasse geraten' is the standard idiom for 'reach an impasse'"
+    },
+    {
+      "id": 8,
+      "question": "This sets a precedent that we cannot ignore.",
+      "options": [
+        "Das schafft einen Präzedenzfall, den wir nicht ignorieren können.",
+        "Das etabliert einen Präzedenzfall, den wir nicht vernachlässigen dürfen.",
+        "Das setzt einen Präzedenzfall, den wir nicht übersehen dürfen.",
+        "Das bildet einen Präzedenzfall, den wir nicht missachten können."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Präzedenzfall schaffen' is the standard legal collocation"
+    },
+    {
+      "id": 9,
+      "question": "I take umbrage at your characterization.",
+      "options": [
+        "Ich ärgere mich über Ihre Darstellung.",
+        "Ich nehme Anstoß an Ihrer Charakterisierung.",
+        "Ich fühle mich durch Ihre Charakterisierung verletzt.",
+        "Ich bin beleidigt durch Ihre Beschreibung."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Anstoß nehmen an' is the formal expression for taking offense"
+    },
+    {
+      "id": 10,
+      "question": "The project has been fraught with difficulties.",
+      "options": [
+        "Das Projekt war voller Schwierigkeiten.",
+        "Das Projekt war geprägt von Schwierigkeiten.",
+        "Das Projekt war durchzogen von Schwierigkeiten.",
+        "Das Projekt war behaftet mit Schwierigkeiten."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Behaftet mit' is the formal term for 'fraught with'"
+    },
+    {
+      "id": 11,
+      "question": "We need to dot the i's and cross the t's.",
+      "options": [
+        "Wir müssen alle I-Punkte setzen und T-Querstriche machen.",
+        "Wir müssen genau hinschauen.",
+        "Wir müssen jedes Komma und jeden Punkt kontrollieren.",
+        "Wir müssen alle Details klären."
+      ],
+      "correctIndex": 3,
+      "explanation": "German prefers the conceptual translation 'alle Details klären'"
+    },
+    {
+      "id": 12,
+      "question": "The CEO called an emergency meeting posthaste.",
+      "options": [
+        "Der CEO rief umgehend eine Krisensitzung ein.",
+        "Der CEO rief schnellstmöglich eine Eilversammlung ein.",
+        "Der CEO rief schleunigst eine Dringlichkeitssitzung ein.",
+        "Der CEO rief postwendend eine Notfallsitzung ein."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Umgehend' is the standard business term for 'posthaste'"
+    },
+    {
+      "id": 13,
+      "question": "Let's not put the cart before the horse.",
+      "options": [
+        "Setzen wir nicht das Pferd hinter den Wagen.",
+        "Machen wir nicht das Gleiche vor dem Einfachen.",
+        "Wir sollten nicht das Ende vor den Anfang setzen.",
+        "Wir sollten nichts überstürzen."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Das Ende vor den Anfang setzen' is the German equivalent idiom"
+    },
+    {
+      "id": 14,
+      "question": "The negotiations have reached a stalemate.",
+      "options": [
+        "Die Verhandlungen haben sich festgefahren.",
+        "Die Verhandlungen sind zum Erliegen gekommen.",
+        "Die Verhandlungen sind in eine Pattsituation geraten.",
+        "Die Verhandlungen haben einen Stillstand erreicht."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Pattsituation' precisely translates 'stalemate'"
+    },
+    {
+      "id": 15,
+      "question": "We must tread carefully in this sensitive matter.",
+      "options": [
+        "Wir müssen umsichtig handeln in dieser delikaten Frage.",
+        "Wir müssen vorsichtig sein in dieser heiklen Angelegenheit.",
+        "Wir müssen behutsam vorgehen in dieser sensiblen Sache.",
+        "Wir müssen auf Zehenspitzen gehen bei diesem Thema."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Behutsam vorgehen' elegantly translates 'tread carefully'"
+    },
+    {
+      "id": 16,
+      "question": "This is a red herring that distracts from the main issue.",
+      "options": [
+        "Das ist eine Ablenkung vom eigentlichen Problem.",
+        "Das ist eine falsche Fährte, die vom Hauptpunkt ablenkt.",
+        "Das ist eine Nebelkerze, die vom Kernproblem ablenkt.",
+        "Das ist eine roter Hering, der vom Hauptthema ablenkt."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Nebelkerze' is the established German idiom for 'red herring'"
+    },
+    {
+      "id": 17,
+      "question": "The plan has been given the green light.",
+      "options": [
+        "Der Plan hat grünes Licht bekommen.",
+        "Der Plan wurde genehmigt.",
+        "Der Plan hat die Zustimmung erhalten.",
+        "Der Plan wurde freigegeben."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Freigeben' is the standard business term for approval"
+    },
+    {
+      "id": 18,
+      "question": "Don't count your chickens before they hatch.",
+      "options": [
+        "Verkauf das Fell nicht, bevor du den Bären erlegt hast.",
+        "Zähl deine Hühner nicht, bevor sie geschlüpft sind.",
+        "Iss die Kirschen nicht, bevor sie reif sind.",
+        "Freu dich nicht zu früh."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Das Fell nicht verkaufen...' is the established German equivalent"
+    },
+    {
+      "id": 19,
+      "question": "We are burning the midnight oil to meet the deadline.",
+      "options": [
+        "Wir sitzen bis spät in die Nacht, um die Deadline einzuhalten.",
+        "Wir arbeiten bis in die Puppen, um den Termin zu halten.",
+        "Wir brennen das Mitternachtsöl, um die Frist zu schaffen.",
+        "Wir ackern bis zur Erschöpfung, um die Frist zu erfüllen."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Bis in die Puppen' is the colloquial but established equivalent"
+    },
+    {
+      "id": 20,
+      "question": "This is a blessing in disguise.",
+      "options": [
+        "Das ist eine getarnte Wohltat.",
+        "Das ist ein Glück im Unglück.",
+        "Das ist ein Segen in Verkleidung.",
+        "Das ist ein verstecktes Geschenk."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Ein Glück im Unglück' is the standard German idiom"
+    },
+    {
+      "id": 21,
+      "question": "Let's call a spade a spade.",
+      "options": [
+        "Rufen wir eine Spaten eine Spaten.",
+        "Sagen wir die Wahrheit.",
+        "Seien wir ehrlich.",
+        "Nennen wir die Dinge beim Namen."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Die Dinge beim Namen nennen' is the German equivalent"
+    },
+    {
+      "id": 22,
+      "question": "The ball is in your court now.",
+      "options": [
+        "Es ist jetzt deine Aufgabe.",
+        "Die Entscheidung liegt jetzt bei dir.",
+        "Der Ball ist jetzt in deinem Feld.",
+        "Du bist jetzt am Zug."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Am Zug sein' is the German equivalent for 'the ball is in your court'"
+    },
+    {
+      "id": 23,
+      "question": "We cannot sweep this under the rug.",
+      "options": [
+        "Wir können das nicht verheimlichen.",
+        "Wir können das nicht unter den Teppich kehren.",
+        "Wir können das nicht ignorieren.",
+        "Wir können das nicht vertuschen."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Unter den Teppich kehren' is the direct equivalent idiom"
+    },
+    {
+      "id": 24,
+      "question": "This is the elephant in the room.",
+      "options": [
+        "Das ist das große Problem, das jeder sieht.",
+        "Das ist das unausgesprochene Problem.",
+        "Das ist die offensichtliche Tatsache, die niemand anspricht.",
+        "Das ist der Elefant im Raum."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Der Elefant im Raum' has been adopted directly into German"
+    },
+    {
+      "id": 25,
+      "question": "Don't throw the baby out with the bathwater.",
+      "options": [
+        "Werfe nicht alles wegen eines Fehlers über Bord.",
+        "Kind mit dem Bade ausschütten.",
+        "Wirf das Baby nicht mit dem Badewasser weg.",
+        "Schütte das Bad nicht aus, solange das Baby drin ist."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Kind mit dem Bade ausschütten' is the classic German idiom"
+    },
+    {
+      "id": 26,
+      "question": "We are in the same boat.",
+      "options": [
+        "Wir haben das gleiche Problem.",
+        "Wir sitzen im selben Boot.",
+        "Wir sind alle in dieser Situation.",
+        "Wir sind im selben Boot."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Im selben Boot sitzen' is the established German expression"
+    },
+    {
+      "id": 27,
+      "question": "Let's not beat around the bush.",
+      "options": [
+        "Seien wir direkt.",
+        "Schlagen wir nicht um den Busch herum.",
+        "Reden wir nicht um den heißen Brei herum.",
+        "Kommen wir zur Sache."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Um den heißen Brei herumreden' is the German equivalent"
+    },
+    {
+      "id": 28,
+      "question": "The project is on the back burner for now.",
+      "options": [
+        "Das Projekt ist vorerst auf Eis gelegt.",
+        "Das Projekt hat vorerst keine Priorität.",
+        "Das Projekt ist vorerst verschoben.",
+        "Das Projekt ist auf dem hinteren Brenner für jetzt."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Auf Eis legen' is the German equivalent for putting something aside"
+    },
+    {
+      "id": 29,
+      "question": "He has a finger in every pie.",
+      "options": [
+        "Er hat einen Finger in jedem Kuchen.",
+        "Er hat bei allem seine Finger im Spiel.",
+        "Er ist bei jeder Sache dabei.",
+        "Er mischt sich überall ein."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Seine Finger im Spiel haben' is the German equivalent"
+    },
+    {
+      "id": 30,
+      "question": "We need to nip this in the bud.",
+      "options": [
+        "Wir müssen das in der Knospe ersticken.",
+        "Wir müssen dem bei der Wurzel wehren.",
+        "Wir müssen das gleich am Anfang stoppen.",
+        "Wir müssen das im Keim ersticken."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Im Keim ersticken' is the established German idiom"
+    },
+    {
+      "id": 31,
+      "question": "She pulled the wool over my eyes.",
+      "options": [
+        "Sie hat mich belogen.",
+        "Sie hat mich hinters Licht geführt.",
+        "Sie zog die Wolle über meine Augen.",
+        "Sie hat mich getäuscht."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Hinters Licht führen' is the German equivalent"
+    },
+    {
+      "id": 32,
+      "question": "This is the last straw.",
+      "options": [
+        "Das ist das Ende.",
+        "Das ist die Grenze.",
+        "Das ist das letzte Strohhalm.",
+        "Das ist der Tropfen, der das Fass zum Überlaufen bringt."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Der Tropfen, der das Fass zum Überlaufen bringt' is the German equivalent"
+    },
+    {
+      "id": 33,
+      "question": "We are cutting it very close.",
+      "options": [
+        "Wir kommen gerade noch rechtzeitig.",
+        "Wir haben nur knapp genug Zeit.",
+        "Wir haben kaum noch Zeit.",
+        "Wir schneiden es sehr nah."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Es knapp schneiden' is used in German, though 'knapp' alone is more common"
+    },
+    {
+      "id": 34,
+      "question": "Let's get down to brass tacks.",
+      "options": [
+        "Fassen wir die wichtigen Punkte an.",
+        "Kommen wir zur Sache.",
+        "Kommen wir zu den Messingzwecken.",
+        "Gehen wir zum Wesentlichen über."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Zum Wesentlichen übergehen' captures the meaning elegantly"
+    },
+    {
+      "id": 35,
+      "question": "The deal fell through at the last minute.",
+      "options": [
+        "Das Geschäft fiel in der letzten Minute durch.",
+        "Das Geschäft scheiterte in letzter Minute.",
+        "Der Deal platzte in letzter Minute.",
+        "Der Deal ging in letzter Minute nicht durch."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Platzen' is the standard term for deals falling through"
+    },
+    {
+      "id": 36,
+      "question": "He is the black sheep of the family.",
+      "options": [
+        "Er ist das schwarze Schaf der Familie.",
+        "Er ist der schlechte Sohn.",
+        "Er ist der Andersartige in der Familie.",
+        "Er ist der Außenseiter der Familie."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Das schwarze Schaf' is the direct equivalent in German"
+    },
+    {
+      "id": 37,
+      "question": "We need to get our ducks in a row.",
+      "options": [
+        "Wir müssen alles unter Dach und Fach bringen.",
+        "Wir müssen alles ordentlich vorbereiten.",
+        "Wir müssen alle Details klären.",
+        "Wir müssen unsere Enten in einer Reihe bringen."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Unter Dach und Fach bringen' is the German equivalent"
+    },
+    {
+      "id": 38,
+      "question": "That cost an arm and a leg.",
+      "options": [
+        "Das kostete einen Arm und ein Bein.",
+        "Das hat die Kasse geleert.",
+        "Das hat ein Vermögen gekostet.",
+        "Das war unverschämt teuer."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Ein Vermögen kosten' is the established German expression"
+    },
+    {
+      "id": 39,
+      "question": "She has her head in the clouds.",
+      "options": [
+        "Sie ist ein Träumer.",
+        "Sie lebt auf Wolke sieben.",
+        "Sie ist nicht realistisch.",
+        "Sie hat ihren Kopf in den Wolken."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Den Kopf in den Wolken haben' is used in German"
+    },
+    {
+      "id": 40,
+      "question": "We hit the ground running.",
+      "options": [
+        "Wir fingen gleich voll an.",
+        "Wir begannen sofort produktiv.",
+        "Wir starteten sofort durch.",
+        "Wir schlugen auf dem Boden rennend auf."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Durchstarten' captures the energetic beginning"
+    },
+    {
+      "id": 41,
+      "question": "I will touch base with you next week.",
+      "options": [
+        "Ich werde mich nächste Woche bei Ihnen melden.",
+        "Ich werde nächste Woche mit Ihnen sprechen.",
+        "Ich werde nächste Woche mit Ihnen Kontakt aufnehmen.",
+        "Ich werde nächste Woche auf Sie zukommen."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Sich melden' is the natural German expression"
+    },
+    {
+      "id": 42,
+      "question": "The merger is a done deal.",
+      "options": [
+        "Die Fusion ist unter Dach und Fach.",
+        "Die Fusion ist beschlossene Sache.",
+        "Die Fusion ist fix.",
+        "Die Fusion ist ein erledigter Deal."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Beschlossene Sache' is the standard German expression"
+    },
+    {
+      "id": 43,
+      "question": "Let's keep this off the record.",
+      "options": [
+        "Lassen Sie das vom Protokoll aus.",
+        "Lassen Sie das unter uns.",
+        "Betrachten Sie das als nicht festgehalten.",
+        "Reden wir nicht darüber."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Vom Protokoll auslassen' is the formal equivalent"
+    },
+    {
+      "id": 44,
+      "question": "We are playing with fire.",
+      "options": [
+        "Wir tun etwas Gefährliches.",
+        "Wir spielen mit dem Feuer.",
+        "Wir sind auf dünnes Eis.",
+        "Wir gehen ein großes Risiko ein."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Mit dem Feuer spielen' is the direct equivalent"
+    },
+    {
+      "id": 45,
+      "question": "He threw caution to the wind.",
+      "options": [
+        "Er scherte sich nicht um Risiken.",
+        "Er handelte unüberlegt.",
+        "Er war völlig unvorsichtig.",
+        "Er warf die Vorsicht in den Wind."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Die Vorsicht in den Wind schlagen' is used in German"
+    },
+    {
+      "id": 46,
+      "question": "This is a shot in the dark.",
+      "options": [
+        "Das ist ein Schuss ins Blaue.",
+        "Das ist eine unbegründete Vermutung.",
+        "Das ist ein Risiko.",
+        "Das ist ein reiner Versuch."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ein Schuss ins Blaue' is the exact equivalent"
+    },
+    {
+      "id": 47,
+      "question": "We need to go back to the drawing board.",
+      "options": [
+        "Wir müssen die Pläne überarbeiten.",
+        "Wir müssen alles neu planen.",
+        "Wir müssen zurück zum Zeichenbrett.",
+        "Wir müssen noch einmal ganz von vorn anfangen."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Von vorn anfangen' captures the essence"
+    },
+    {
+      "id": 48,
+      "question": "She is walking on eggshells.",
+      "options": [
+        "Sie vermeidet Konflikte.",
+        "Sie ist sehr vorsichtig.",
+        "Sie geht auf Eierschalen.",
+        "Sie fürchtet sich vor Fehlern."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Auf Eierschalen gehen' is the direct equivalent"
+    },
+    {
+      "id": 49,
+      "question": "The ballpark figure is around two million.",
+      "options": [
+        "Die Ballpark-Zahl ist etwa zwei Millionen.",
+        "Die grobe Schätzung liegt bei etwa zwei Millionen.",
+        "Die ungefähre Zahl ist zwei Millionen.",
+        "Ungefähr sind es zwei Millionen."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Grobe Schätzung' is the German equivalent"
+    },
+    {
+      "id": 50,
+      "question": "Let's not split hairs.",
+      "options": [
+        "Spalten wir keine Haare.",
+        "Wir wollen nicht kleinlich sein.",
+        "Wir sollten nicht auf Details achten.",
+        "Lassen Sie uns nicht Haarspalterei betreiben."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Haarspalterei betreiben' is the German equivalent"
+    },
+    {
+      "id": 51,
+      "question": "He bailed out at the last minute.",
+      "options": [
+        "Er zog sich in letzter Minute zurück.",
+        "Er sprang in letzter Minute ab.",
+        "Er verließ uns in letzter Minute.",
+        "Er stieg in letzter Minute aus."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Sich zurückziehen' captures the meaning of bailing out"
+    },
+    {
+      "id": 52,
+      "question": "We are in dire straits.",
+      "options": [
+        "Wir sind in ernster Bedrängnis.",
+        "Wir sind am Ende.",
+        "Wir befinden uns in einer prekären Situation.",
+        "Wir sind in schwieriger Lage."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Prekär' is the formal term for 'dire' situations"
+    },
+    {
+      "id": 53,
+      "question": "The project is hanging by a thread.",
+      "options": [
+        "Das Projekt ist in Gefahr.",
+        "Das Projekt hängt an einem Faden.",
+        "Das Projekt ist unsicher.",
+        "Das Projekt könnte scheitern."
+      ],
+      "correctIndex": 1,
+      "explanation": "'An einem Faden hängen' is the direct equivalent"
+    },
+    {
+      "id": 54,
+      "question": "She took the bull by the horns.",
+      "options": [
+        "Sie handelte mutig.",
+        "Sie griff das Problem entschlossen an.",
+        "Sie übernahm die Verantwortung.",
+        "Sie nahm den Stier bei den Hörnern."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Den Stier bei den Hörnern packen' is the direct equivalent"
+    },
+    {
+      "id": 55,
+      "question": "We cannot turn a blind eye to this.",
+      "options": [
+        "Wir können hier kein Auge zudrücken.",
+        "Wir müssen das ernst nehmen.",
+        "Wir können das nicht ignorieren.",
+        "Wir können nicht wegschauen."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ein Auge zudrücken' is the German equivalent"
+    },
+    {
+      "id": 56,
+      "question": "This is a far cry from what we expected.",
+      "options": [
+        "Das ist ein großer Unterschied zu dem, was wir erwartet haben.",
+        "Das ist nicht das, was wir erwartet haben.",
+        "Das ist weit entfernt von dem, was wir erwartet haben.",
+        "Das ist ein weites Schreien von dem, was wir erwartet haben."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Weit entfernt von' captures the idiomatic meaning"
+    },
+    {
+      "id": 57,
+      "question": "Let's not jump the gun.",
+      "options": [
+        "Warten Sie mit dem Handeln.",
+        "Lassen Sie uns nicht voreilig handeln.",
+        "Wir sollten nicht zu früh handeln.",
+        "Springen wir nicht über die Waffe."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Voreilig handeln' is the German equivalent"
+    },
+    {
+      "id": 58,
+      "question": "The decision was above board.",
+      "options": [
+        "Die Entscheidung war über dem Brett.",
+        "Die Entscheidung war rechtmäßig.",
+        "Die Entscheidung war ehrlich und offen.",
+        "Die Entscheidung war fair und transparent."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Ehrlich und offen' captures the meaning of 'above board'"
+    },
+    {
+      "id": 59,
+      "question": "He is the whistleblower in this case.",
+      "options": [
+        "Er ist der Informant in diesem Fall.",
+        "Er ist der Hinweisgeber in diesem Fall.",
+        "Er ist der Enthüller in diesem Fall.",
+        "Er ist der Pfeifbläser in diesem Fall."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Hinweisgeber' is the standard German legal term"
+    },
+    {
+      "id": 60,
+      "question": "We are operating on a shoestring budget.",
+      "options": [
+        "Unser Budget ist sehr begrenzt.",
+        "Wir arbeiten mit einem Schnürsenkelbudget.",
+        "Wir haben nur ein sehr knappes Budget.",
+        "Wir arbeiten mit minimalen Mitteln."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Mit minimalen Mitteln arbeiten' is the natural German expression"
+    },
+    {
+      "id": 61,
+      "question": "She is pulling strings behind the scenes.",
+      "options": [
+        "Sie zieht Fäden hinter den Kulissen.",
+        "Sie hat Kontakte, die sie nutzt.",
+        "Sie arbeitet heimlich.",
+        "Sie beeinflusst Dinge im Hintergrund."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Fäden ziehen' and 'hinter den Kulissen' are both used in German"
+    },
+    {
+      "id": 62,
+      "question": "Let's run this up the flagpole.",
+      "options": [
+        "Lassen Sie uns schauen, wie es ankommt.",
+        "Lassen Sie uns das testen.",
+        "Lassen Sie uns das zur Diskussion stellen.",
+        "Lassen Sie uns das an die Fahnenstange laufen."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Schauen, wie es ankommt' captures the testing nature"
+    },
+    {
+      "id": 63,
+      "question": "The policy has been rubber-stamped.",
+      "options": [
+        "Die Richtlinie wurde ohne Prüfung genehmigt.",
+        "Die Richtlinie wurde mit einem Gummistempel abgestempelt.",
+        "Die Richtlinie wurde routinemäßig gebilligt.",
+        "Die Richtlinie wurde formal abgenickt."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Routinemäßig billigen' captures the automatic approval"
+    },
+    {
+      "id": 64,
+      "question": "We need to circle back to this issue.",
+      "options": [
+        "Wir müssen auf dieses Thema zurückkommen.",
+        "Wir werden das später nochmal aufgreifen.",
+        "Wir sollten das später nochmal besprechen.",
+        "Wir müssen im Kreis zurück zu diesem Thema."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Aufgreifen' is the professional way to say revisit a topic"
+    },
+    {
+      "id": 65,
+      "question": "He is trying to curry favor with the boss.",
+      "options": [
+        "Er versucht, sich beim Chef einzuschmeicheln.",
+        "Er versucht, beim Chef Punkte zu sammeln.",
+        "Er versucht, beim Chef zu schmeicheln.",
+        "Er versucht, sich beim Chef beliebt zu machen."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Sich einschmeicheln' captures the sycophantic nature"
+    },
+    {
+      "id": 66,
+      "question": "The proposal was given short shrift.",
+      "options": [
+        "Der Vorschlag wurde nicht ernst genommen.",
+        "Der Vorschlag wurde abgeschmettert.",
+        "Der Vorschlag wurde schnell abgelehnt.",
+        "Der Vorschlag wurde kurzer Prozess gemacht."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Abschmettern' is the dismissive rejection implied"
+    },
+    {
+      "id": 67,
+      "question": "We are in uncharted territory.",
+      "options": [
+        "Wir sind auf unbekanntem Gebiet.",
+        "Wir sind auf unbekanntem Terrain.",
+        "Wir befinden uns in neuem Terrain.",
+        "Wir sind in unbekanntem Gebiet."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Auf unbekanntem Terrain' is the standard German expression"
+    },
+    {
+      "id": 68,
+      "question": "Let's table this discussion for now.",
+      "options": [
+        "Lassen Sie uns diese Diskussion vertagen.",
+        "Lassen Sie uns diese Diskussion verschieben.",
+        "Lassen Sie uns diese Diskussion aufschieben.",
+        "Lassen Sie uns diese Diskussion auf den Tisch legen."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Vertagen' is the formal term for tabling (in British sense)"
+    },
+    {
+      "id": 69,
+      "question": "He has a chip on his shoulder.",
+      "options": [
+        "Er ist immer angefressen.",
+        "Er hat einen Chip auf seiner Schulter.",
+        "Er ist provokant.",
+        "Er ist ständig beleidigt."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Angefressen sein' is the colloquial German equivalent"
+    },
+    {
+      "id": 70,
+      "question": "The company is in the red.",
+      "options": [
+        "Das Unternehmen macht Verluste.",
+        "Das Unternehmen ist verschuldet.",
+        "Das Unternehmen hat rote Zahlen geschrieben.",
+        "Das Unternehmen ist im Roten."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Rote Zahlen schreiben' is the German accounting expression"
+    },
+    {
+      "id": 71,
+      "question": "We need to keep our eye on the ball.",
+      "options": [
+        "Wir müssen konzentriert bleiben.",
+        "Wir müssen das Auge auf den Ball halten.",
+        "Wir müssen fokussiert bleiben.",
+        "Wir dürfen nicht ablenken lassen."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Konzentriert bleiben' is the natural German expression"
+    },
+    {
+      "id": 72,
+      "question": "She is a stickler for details.",
+      "options": [
+        "Sie ist sehr penibel bei Details.",
+        "Sie ist pedantisch.",
+        "Sie ist ein Stöckchen für Details.",
+        "Sie achtet genau auf Details."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Penibel' captures the stickler's exacting nature"
+    },
+    {
+      "id": 73,
+      "question": "The news came straight from the horse's mouth.",
+      "options": [
+        "Die Nachricht ist authentisch.",
+        "Die Nachricht kam aus erster Hand.",
+        "Die Nachricht kam direkt aus dem Pferdemaul.",
+        "Die Nachricht kam direkt von der Quelle."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Aus erster Hand' is the German equivalent"
+    },
+    {
+      "id": 74,
+      "question": "We are reading from the same hymn sheet.",
+      "options": [
+        "Wir lesen vom gleichen Liedblatt.",
+        "Wir sind einer Meinung.",
+        "Wir haben den gleichen Standpunkt.",
+        "Wir ziehen an einem Strang."
+      ],
+      "correctIndex": 3,
+      "explanation": "'An einem Strang ziehen' is the German equivalent for working together"
+    },
+    {
+      "id": 75,
+      "question": "This is par for the course.",
+      "options": [
+        "Das ist zu erwarten.",
+        "Das ist normal.",
+        "Das gehört dazu.",
+        "Das ist das Standardergebnis."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Standard' or 'normal' captures the golf metaphor's meaning"
+    },
+    {
+      "id": 76,
+      "question": "He threw me under the bus.",
+      "options": [
+        "Er hat mich verraten.",
+        "Er warf mich unter den Bus.",
+        "Er hat mich ans Messer geliefert.",
+        "Er hat mich geopfert."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Ans Messer liefern' is the German equivalent"
+    },
+    {
+      "id": 77,
+      "question": "Let's not rock the boat.",
+      "options": [
+        "Lass uns nichts verändern.",
+        "Lass uns keine Wellen schlagen.",
+        "Lass uns den Status quo beibehalten.",
+        "Lass uns das Boot nicht schaukeln."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Keine Wellen schlagen' is the German equivalent"
+    },
+    {
+      "id": 78,
+      "question": "We are flying by the seat of our pants.",
+      "options": [
+        "Wir fliegen nach dem Sitz unserer Hose.",
+        "Wir improvisieren.",
+        "Wir machen es nach Gefühl.",
+        "Wir handeln ohne Plan."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Improvisieren' captures the essence succinctly"
+    },
+    {
+      "id": 79,
+      "question": "She has an axe to grind.",
+      "options": [
+        "Sie ist voreingenommen.",
+        "Sie hat ein persönliches Interesse.",
+        "Sie hat eine Axt zu schärfen.",
+        "Sie hat eine Rechnung offen."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Eine Rechnung offen haben' is the German equivalent"
+    },
+    {
+      "id": 80,
+      "question": "The project has gone belly up.",
+      "options": [
+        "Das Projekt ist gescheitert.",
+        "Das Projekt ist gescheitert.",
+        "Das Projekt ist in die Brüche gegangen.",
+        "Das Projekt ist Bauch nach oben gegangen."
+      ],
+      "correctIndex": 0,
+      "explanation": "'In die Brüche gehen' is the German equivalent"
+    },
+    {
+      "id": 81,
+      "question": "We need to face the music.",
+      "options": [
+        "Wir müssen der Musik ins Gesicht sehen.",
+        "Wir müssen die Konsequenzen tragen.",
+        "Wir müssen die Verantwortung übernehmen.",
+        "Wir müssen uns der Kritik stellen."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Die Konsequenzen tragen' captures the meaning"
+    },
+    {
+      "id": 82,
+      "question": "He is barking up the wrong tree.",
+      "options": [
+        "Er sucht an der falschen Stelle.",
+        "Er ist auf dem Holzweg.",
+        "Er hat sich geirrt.",
+        "Er bellt den falschen Baum hoch."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Auf dem Holzweg sein' is the German equivalent"
+    },
+    {
+      "id": 83,
+      "question": "Let's give them the benefit of the doubt.",
+      "options": [
+        "Lassen Sie uns sie nicht voreilig verurteilen.",
+        "Lassen Sie uns ihnen den Nutzen des Zweifels geben.",
+        "Lassen Sie uns ihnen den Vorteil geben.",
+        "Lassen Sie uns ihnen in Zweifelsfällen zugutehalten."
+      ],
+      "correctIndex": 3,
+      "explanation": "'In Zweifelsfällen zugutehalten' is the German legal expression"
+    },
+    {
+      "id": 84,
+      "question": "We are at a crossroads.",
+      "options": [
+        "Wir stehen vor einer Entscheidung.",
+        "Wir müssen uns entscheiden.",
+        "Wir sind an einem Scheideweg.",
+        "Wir sind an einer Kreuzung."
+      ],
+      "correctIndex": 2,
+      "explanation": "'An einem Scheideweg' is the metaphorical German expression"
+    },
+    {
+      "id": 85,
+      "question": "She is driving a hard bargain.",
+      "options": [
+        "Sie verhandelt hart.",
+        "Sie lässt sich nichts gefallen.",
+        "Sie fährt einen harten Handel.",
+        "Sie ist eine harte Verhandlungspartnerin."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Sich nichts gefallen lassen' captures the tough negotiation"
+    },
+    {
+      "id": 86,
+      "question": "This is water under the bridge.",
+      "options": [
+        "Das ist vorbei.",
+        "Das ist Wasser unter der Brücke.",
+        "Damit ist es vorbei.",
+        "Das ist Vergangenheit."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Wasser unter der Brücke' is used in German as a loan idiom"
+    },
+    {
+      "id": 87,
+      "question": "He is feeling under the weather.",
+      "options": [
+        "Er fühlt sich nicht gut.",
+        "Er fühlt sich unter dem Wetter.",
+        "Er ist krank.",
+        "Er ist nicht auf der Höhe."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Nicht auf der Höhe sein' is the German equivalent"
+    },
+    {
+      "id": 88,
+      "question": "Let's kill two birds with one stone.",
+      "options": [
+        "Lassen Sie uns zwei Vögel mit einem Stein töten.",
+        "Lassen Sie uns zwei Fliegen mit einer Klappe schlagen.",
+        "Lassen Sie uns zweierlei auf einmal erledigen.",
+        "Lassen Sie uns effizient sein."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Zwei Fliegen mit einer Klappe schlagen' is the German equivalent"
+    },
+    {
+      "id": 89,
+      "question": "We are burning the candle at both ends.",
+      "options": [
+        "Wir arbeiten zu viel.",
+        "Wir brennen die Kerze an beiden Enden.",
+        "Wir überanstrengen uns.",
+        "Wir gehen zu sehr an unsere Grenzen."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Die Kerze an beiden Enden brennen' is used in German"
+    },
+    {
+      "id": 90,
+      "question": "She is the cream of the crop.",
+      "options": [
+        "Sie ist die Sahne der Ernte.",
+        "Sie ist die Krème de la Krème.",
+        "Sie ist die Nonplusultra.",
+        "Sie ist die beste."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Krème de la Krème' is often used in German for this meaning"
+    },
+    {
+      "id": 91,
+      "question": "Don't put all your eggs in one basket.",
+      "options": [
+        "Setzen Sie nicht alle Eier in einen Korb.",
+        "Verteilen Sie Ihr Risiko.",
+        "Seien Sie vorsichtig.",
+        "Machen Sie keine Alles-auf-eine-Karte-Wette."
+      ],
+      "correctIndex": 0,
+      "explanation": "The direct translation is used and understood in German"
+    },
+    {
+      "id": 92,
+      "question": "He got a taste of his own medicine.",
+      "options": [
+        "Er bekam einen Geschmack seiner eigenen Medizin.",
+        "Er wurde mit eigenen Waffen geschlagen.",
+        "Er hat es selbst zu spüren bekommen.",
+        "Er bekam, was er verdiente."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Mit eigenen Waffen geschlagen' is the German equivalent"
+    },
+    {
+      "id": 93,
+      "question": "We need to get to the bottom of this.",
+      "options": [
+        "Wir müssen zum Boden davon kommen.",
+        "Wir müssen der Sache auf den Grund gehen.",
+        "Wir müssen das aufklären.",
+        "Wir müssen das untersuchen."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Der Sache auf den Grund gehen' is the German equivalent"
+    },
+    {
+      "id": 94,
+      "question": "The company is cutting corners.",
+      "options": [
+        "Das Unternehmen spart an der falschen Stelle.",
+        "Das Unternehmen nimmt Abkürzungen.",
+        "Das Unternehmen schneidet Ecken.",
+        "Das Unternehmen macht schlampige Arbeit."
+      ],
+      "correctIndex": 0,
+      "explanation": "'An der falschen Stelle sparen' captures the negative implication"
+    },
+    {
+      "id": 95,
+      "question": "She has her work cut out for her.",
+      "options": [
+        "Sie hat ihre Arbeit für sie ausgeschnitten.",
+        "Sie hat alle Hände voll zu tun.",
+        "Sie hat viel zu tun.",
+        "Sie steht vor einer schwierigen Aufgabe."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Alle Hände voll zu tun haben' is the German equivalent"
+    },
+    {
+      "id": 96,
+      "question": "We are on the same wavelength.",
+      "options": [
+        "Wir sind einer Meinung.",
+        "Wir denken ähnlich.",
+        "Wir sind auf der gleichen Wellenlänge.",
+        "Wir verstehen uns gut."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Auf der gleichen Wellenlänge' is the direct equivalent"
+    },
+    {
+      "id": 97,
+      "question": "Let's sleep on it.",
+      "options": [
+        "Lassen Sie uns das morgen entscheiden.",
+        "Lassen Sie uns darauf schlafen.",
+        "Lassen Sie uns eine Nacht darüber schlafen.",
+        "Lassen Sie uns das überlegen."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Eine Nacht darüber schlafen' is the German equivalent"
+    },
+    {
+      "id": 98,
+      "question": "He is a wolf in sheep's clothing.",
+      "options": [
+        "Er ist ein Wolf in Schafskleidung.",
+        "Er ist falsch.",
+        "Er ist ein Wolf im Schafspelz.",
+        "Er täuscht über seine wahre Natur hinweg."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Wolf im Schafspelz' is the German equivalent"
+    },
+    {
+      "id": 99,
+      "question": "The plan went off without a hitch.",
+      "options": [
+        "Der Plan ging ohne Haken ab.",
+        "Der Plan lief reibungslos.",
+        "Der Plan ging ohne Probleme.",
+        "Der Plan funktionierte perfekt."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Reibungslos' is the standard German term"
+    },
+    {
+      "id": 100,
+      "question": "We are between a rock and a hard place.",
+      "options": [
+        "Wir sind zwischen einem Felsen und einem harten Ort.",
+        "Wir sind in einer Zwickmühle.",
+        "Wir sitzen zwischen den Stühlen.",
+        "Wir haben keine gute Wahl."
+      ],
+      "correctIndex": 1,
+      "explanation": "'In einer Zwickmühle sein' is the German equivalent"
+    }
+  ]
+}

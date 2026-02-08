@@ -1,0 +1,1207 @@
+{
+  "level": "C2.1",
+  "title": "Mastery German - Literary Analysis & Philosophical Discourse",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The protagonist's fatal flaw precipitates his inevitable downfall.",
+      "options": [
+        "Der Hamartia des Helden führt zu seinem Schicksal.",
+        "Der Fehler des Hauptcharakters verursacht sein Ende.",
+        "Der tragische Fehler des Protagonisten beschleunigt seinen unvermeidlichen Untergang.",
+        "Die tragische Schwäche des Protagonisten bringt seinen Fall."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Beschleunigen' and 'Hamartia' are key literary terms"
+    },
+    {
+      "id": 2,
+      "question": "The narrative arc culminates in a moment of anagnorisis.",
+      "options": [
+        "Der Erzahlbogen kulminiert in einem Moment der Anagnorisis.",
+        "Die Geschichte erreicht ihren Höhepunkt mit einer Entdeckung.",
+        "Die Erzählung endet mit einer Erkenntnis.",
+        "Der Plot endet mit der Erkenntnis des Helden."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Anagnorisis' is the Aristotelian term for recognition/discovery"
+    },
+    {
+      "id": 3,
+      "question": "The unreliable narrator subverts reader expectations.",
+      "options": [
+        "Der unglaubwürdige Erzähler verändert die Erwartungen.",
+        "Der unverlässliche Erzähler untergräbt die Lesererwartungen.",
+        "Der unzuverlässige Erzähler täuscht den Leser.",
+        "Der nicht vertrauenswürdige Erzähler täuscht die Leser."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Unverlässlich' and 'untergraben' are precise literary terms"
+    },
+    {
+      "id": 4,
+      "question": "The mise-en-abîme structure creates infinite regression.",
+      "options": [
+        "Die Spiegelstruktur schafft unendliche Wiederholung.",
+        "Die Rahmenerzählung führt zu immer kleineren Geschichten.",
+        "Das mise-en-abîme erzeugt unendliche Regression.",
+        "Die Verschachtelung erzeugt Unendlichkeit."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Mise-en-abîme' is the French term used in German literary criticism"
+    },
+    {
+      "id": 5,
+      "question": "The text exemplifies the sublime through its evocation of nature's terror.",
+      "options": [
+        "Der Text zeigt Großartigkeit durch Naturbeschreibungen.",
+        "Der Text zeigt das Erhabene durch die Darstellung der Naturangst.",
+        "Der Text verkörpert das Erhabene durch seine Beschwörung des Schreckens der Natur.",
+        "Der Text ist ein Beispiel für Erhabenheit in der Natur."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Verkörpern' and 'Beschwörung' are philosophical/literary terms (Kant/Burke)"
+    },
+    {
+      "id": 6,
+      "question": "The author's oeuvre resists facile categorization.",
+      "options": [
+        "Das Gesamtwerk des Autors widersetzt sich oberflächlicher Kategorisierung.",
+        "Der Autor lässt sich nicht in Schubladen stecken.",
+        "Das Werk des Autors lässt sich nicht einfach kategorisieren.",
+        "Die Werke des Autors sind schwer zu klassifizieren."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Gesamtwerk/Oeuvre' and 'widersetzen' are formal terms"
+    },
+    {
+      "id": 7,
+      "question": "The denouement provides cathartic release.",
+      "options": [
+        "Das Ende gibt eine kathartische Befreiung.",
+        "Die Lösung bietet kathartische Erleichterung.",
+        "Die Auflösung bietet eine erlösende Katharsis.",
+        "Der Ausgang ermöglicht kathartische Katharsis."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Auflösung/Dénouement' and 'erlösend' capture Aristotelian catharsis"
+    },
+    {
+      "id": 8,
+      "question": "The ekphrastic passage vividly describes the painted scene.",
+      "options": [
+        "Der ekphrastische Abschnitt beschreibt die Szene lebhaft.",
+        "Der deskriptive Teil beschreibt das Bild genau.",
+        "Das ekphrastische Passus schildert das Gemälde anschaulich.",
+        "Der Ekphrasis-Abschnitt malt das Bild mit Worten."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Passus' is the literary term for passage; 'anschaulich' for vividly"
+    },
+    {
+      "id": 9,
+      "question": "The bildungsroman traces the protagonist's psychological maturation.",
+      "options": [
+        "Der Erziehungsroman zeigt die Reifung des Hauptcharakters.",
+        "Die Bildungsgeschichte beschreibt das Erwachsenwerden.",
+        "Der Bildungsroman zeigt die psychologische Reife des Protagonisten.",
+        "Der Entwicklungsroman verfolgt die psychologische Entwicklung des Helden."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Bildungsroman' is the established German term"
+    },
+    {
+      "id": 10,
+      "question": "The stream of consciousness technique mimics interior monologue.",
+      "options": [
+        "Der Bewusstseinsstrom ahmt den inneren Monolog nach.",
+        "Der Gedankenfluss zeigt innere Gedanken.",
+        "Die stream-of-consciousness-Technik imitiert den inneren Monolog.",
+        "Die Bewusstseinsstromtechnik spiegelt innere Gedanken wider."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Imitieren' is more formal than 'ahmen nach' for literary technique"
+    },
+    {
+      "id": 11,
+      "question": "The poem's volta marks a dramatic shift in perspective.",
+      "options": [
+        "Der Einschnitt im Gedicht verändert die Sichtweise.",
+        "Die Wendung im Gedicht zeigt einen dramatischen Perspektivwechsel.",
+        "Die Kehre im Gedicht zeigt einen Bruch.",
+        "Die Volta des Gedichts markiert einen drastischen Sinneswandel."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Volta' is the technical term for the turn in a sonnet"
+    },
+    {
+      "id": 12,
+      "question": "The zeitgeist of the era permeates the narrative.",
+      "options": [
+        "Die Stimmung der Zeit ist in der Geschichte spürbar.",
+        "Der Geist der Zeit durchdringt die Erzählung.",
+        "Der Zeitgeist der Epoche durchzieht den Text.",
+        "Die Atmosphäre der Zeit prägt die Erzählung."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Zeitgeist' is German; 'durchziehen' is the appropriate verb"
+    },
+    {
+      "id": 13,
+      "question": "The aporia at the text's center defies resolution.",
+      "options": [
+        "Das Problem im Text bleibt bestehen.",
+        "Die Aporie im Zentrum des Textes widersetzt sich der Auflösung.",
+        "Der Widerspruch lässt sich nicht auflösen.",
+        "Das Dilemma in der Mitte bleibt ungelöst."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Aporie' is the philosophical term; 'widersetzen' is formal"
+    },
+    {
+      "id": 14,
+      "question": "The palimpsest reveals layers of historical inscription.",
+      "options": [
+        "Die überlagerte Schrift zeigt historische Schichten.",
+        "Das Palimpsest offenbart Schichten historischer Beschriftung.",
+        "Die Handschrift enthält alte Texte.",
+        "Die Palimpsest zeigt Schichten historischer Schrift."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Offenbaren' is more literary than 'zeigen'"
+    },
+    {
+      "id": 15,
+      "question": "The chiasmus creates syntactic symmetry.",
+      "options": [
+        "Das Chiasmus schafft syntaktische Symmetrie.",
+        "Die umgekehrte Wortstellung schafft Balance.",
+        "Der Kreuzstellung erzeugt grammatische Symmetrie.",
+        "Die Chiasmus-Struktur erzeugt syntaktische Symmetrie."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Erzeugen' is the technical term for creating structures"
+    },
+    {
+      "id": 16,
+      "question": "The synecdoche uses the part to represent the whole.",
+      "options": [
+        "Die Teil-für-Ganze-Verwendung steht symbolisch.",
+        "Die Synekdoche benutzt den Teil für das Ganze.",
+        "Das Stellvertreten nimmt den Teil statt des Ganzen.",
+        "Die Synäkdoche verwendet das Teil, um das Ganze zu repräsentieren."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Repräsentieren' is more formal than 'vertreten' in literary analysis"
+    },
+    {
+      "id": 17,
+      "question": "The litotes understates for rhetorical effect.",
+      "options": [
+        "Die versteckte Verneinung verstärkt.",
+        "Die Untertreibung schwächt ab.",
+        "Die Litotes untertreibt zu rhetorischer Wirkung.",
+        "Die Litotes sagt weniger für rhetorische Wirkung."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Untertreiben' is the direct equivalent for litotes"
+    },
+    {
+      "id": 18,
+      "question": "The metonymy substitutes the container for the contained.",
+      "options": [
+        "Die Metonymie tauscht den Behälter gegen den Inhalt.",
+        "Die Namenvertretung nimmt das Gefäß statt des Inhalts.",
+        "Die bildliche Bezeichnung ersetzt das Ganze.",
+        "Die Metonymie setzt den Behälter an die Stelle des Enthaltenen."
+      ],
+      "correctIndex": 3,
+      "explanation": "'An die Stelle setzen' is the precise academic formulation"
+    },
+    {
+      "id": 19,
+      "question": "The epiphany transforms the protagonist's consciousness.",
+      "options": [
+        "Die Epiphanie transformiert das Bewusstsein des Protagonisten.",
+        "Die Offenbarung verändert das Bewusstsein des Helden.",
+        "Die Erkenntnis ändert die Wahrnehmung des Hauptcharakters.",
+        "Die plötzliche Einsicht verändert den Protagonisten."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Epiphanie' is the Joycean/Jamesian term; 'transformieren' is formal"
+    },
+    {
+      "id": 20,
+      "question": "The oxymoron juxtaposes contradictory terms.",
+      "options": [
+        "Das paradoxe Wort verbindet Gegensätze.",
+        "Das Widerspruchspaar vereint Gegensätze.",
+        "Das Oxymoron setzt widersprüchliche Begriffe nebeneinander.",
+        "Das Oxymoron fügt widersprüchliche Termini zusammen."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Termini' is more academic than 'Begriffe'"
+    },
+    {
+      "id": 21,
+      "question": "Being-toward-death defines authentic existence.",
+      "options": [
+        "Das Dasein zum Tode zeigt echtes Leben.",
+        "Das Hin-Sein zum Tod definiert wahres Sein.",
+        "Das Sein-zum-Tode definiert authentische Existenz.",
+        "Das Sein zum Tode bestimmt eigentliches Dasein."
+      ],
+      "correctIndex": 3,
+      "explanation": "Heidegger's exact terminology: 'Sein zum Tode' and 'eigentliches Dasein'"
+    },
+    {
+      "id": 22,
+      "question": "The categorical imperative commands universalizability.",
+      "options": [
+        "Das kategorische Gebot fordert universelle Anwendung.",
+        "Der kategorische Imperativ gebietet Universalisierbarkeit.",
+        "Der absolute Befehl erfordert Allgemeinheit.",
+        "Der kategorische Imperativ verlangt Allgemeingültigkeit."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Gebieten' is Kant's formal term for the imperative's commanding nature"
+    },
+    {
+      "id": 23,
+      "question": "The will to power constitutes the essence of life.",
+      "options": [
+        "Die Machtsucht ist das Wesentliche am Leben.",
+        "Das Streben nach Macht macht das Leben aus.",
+        "Der Wille zur Macht bildet das Wesen des Lebens.",
+        "Der Wille zur Macht konstituiert die Essenz des Lebens."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Konstituieren' and 'Essenz' are Nietzschean/philosophical terms"
+    },
+    {
+      "id": 24,
+      "question": "The eternal return affirms life's recurrence.",
+      "options": [
+        "Die ewige Wiederkehr bejaht die Wiederholung des Lebens.",
+        "Die ewige Wiederkehr affirmiert die Rekurrenz des Lebens.",
+        "Das ewige Wiederkommen akzeptiert das Leben.",
+        "Die immerwährende Rückkehr bestätigt das Leben."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Bejahen' is the specific Nietzschean term for affirmation"
+    },
+    {
+      "id": 25,
+      "question": "The master-slave dialectic culminates in recognition.",
+      "options": [
+        "Die dialektische Beziehung führt zur Anerkennung.",
+        "Das Herrschaftsverhältnis endet mit gegenseitigem Respekt.",
+        "Die Herrschaft und Knechtschaft mündet in Anerkennung.",
+        "Die Herr-Knecht-Dialektik kulminiert in Anerkennung."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Herr-Knecht-Dialektik' is the Hegelian technical term"
+    },
+    {
+      "id": 26,
+      "question": "The noumenal realm remains inaccessible to cognition.",
+      "options": [
+        "Die intelligible Welt bleibt verschlossen.",
+        "Die Ding-an-sich-Welt ist nicht erkennbar.",
+        "Das noumenale Reich bleibt der Erkenntnis unzugänglich.",
+        "Das Noumenon bleibt unzugänglich für das Erkennen."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Noumenal' and 'unzugänglich' are Kantian terms"
+    },
+    {
+      "id": 27,
+      "question": "The différance defers and differs meaning.",
+      "options": [
+        "Die Différance verschiebt und differenziert Bedeutung.",
+        "Die Verschiebung ändert die Bedeutung.",
+        "Das Differieren verzögert und differiert.",
+        "Die Différance vertagt und unterscheidet Bedeutung."
+      ],
+      "correctIndex": 3,
+      "explanation": "Derrida's 'différance' requires 'vertagen' and 'unterscheiden'"
+    },
+    {
+      "id": 28,
+      "question": "The panopticon induces self-surveillance.",
+      "options": [
+        "Das Panoptikum verursacht Selbstüberwachung.",
+        "Die Überwachung führt zu Selbstzensur.",
+        "Das Panoptikon induziert Selbstüberwachung.",
+        "Das Rundum-Sicht-Gefängnis führt zur Selbstkontrolle."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Induzieren' is Foucault's formal term; 'Panoptikon' the Greek form"
+    },
+    {
+      "id": 29,
+      "question": "The rhizome resists arborescent structures.",
+      "options": [
+        "Die vernetzte Struktur vermeidet Bäume.",
+        "Das Rhizom wehrt sich gegen baumartige Strukturen.",
+        "Das Wurzelstock-Modell lehnt Hierarchie ab.",
+        "Das Rhizom widersteht arboreszenten Strukturen."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Widerstehen' and 'arboreszent' are Deleuze/Guattari terms"
+    },
+    {
+      "id": 30,
+      "question": "The simulacrum precedes and produces the original.",
+      "options": [
+        "Die Kopie existiert vor und schafft das Original.",
+        "Das Simulakrum geht dem Original voraus und erzeugt es.",
+        "Die Nachahmung produziert das Vorbild.",
+        "Das Simulakrum kommt vor und macht das Original."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Vorausgehen' and 'erzeugen' are Baudrillard's formulation"
+    },
+    {
+      "id": 31,
+      "question": "The übermensch transcends conventional morality.",
+      "options": [
+        "Der Übermensch transzendiert die herkömmliche Moralität.",
+        "Das höhere Wesen geht über Normen hinaus.",
+        "Der Übermensch überwindet die konventionelle Moral.",
+        "Der Überlegene verachtet die Moral."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Transzendieren' is the philosophical verb for Nietzsche's concept"
+    },
+    {
+      "id": 32,
+      "question": "The epoché suspends judgment about existence.",
+      "options": [
+        "Das Urteilsverzicht stoppt die Bewertung.",
+        "Die Einklammerung verhindert Schlussfolgerungen.",
+        "Die Epoché suspendiert das Urteil über das Sein.",
+        "Die Epoché hält das Urteil über Existenz an."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Suspendieren' is the Husserlian technical term"
+    },
+    {
+      "id": 33,
+      "question": "The Other's face issues an ethical call.",
+      "options": [
+        "Das Angesicht fordert ethisch.",
+        "Das Antlitz des Anderen ergeht einen ethischen Ruf.",
+        "Das Gesicht des Anderen stellt einen ethischen Anspruch.",
+        "Die Fremde ruft ethisch."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Antlitz' and 'ergehen' are Levinas's specific terminology"
+    },
+    {
+      "id": 34,
+      "question": "The thrownness into facticity characterizes Dasein.",
+      "options": [
+        "Das Hineingeworfenwerden in die Welt zeigt Existenz.",
+        "Das Geworfensein in Faktizität charakterisiert Dasein.",
+        "Die Geworfenheit bestimmt das menschliche Sein.",
+        "Das Hineingeworfensein in die Faktizität kennzeichnet das Dasein."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Geworfensein' and 'Faktizität' are Heidegger's exact terms"
+    },
+    {
+      "id": 35,
+      "question": "The banality of evil describes thoughtless perpetration.",
+      "options": [
+        "Die Banalität des Bösen beschreibt gedankenlose Täterschaft.",
+        "Die Banalität des Bösen beschreibt gedankloses Begehen.",
+        "Die Gewöhnlichkeit des Übels beschreibt Massenverhalten.",
+        "Die Alltäglichkeit des Schlechten zeigt normale Menschen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Arendt's 'Täterschaft' specifically refers to perpetration"
+    },
+    {
+      "id": 36,
+      "question": "The panpsychism attributes mind to all matter.",
+      "options": [
+        "Der Panpsychismus gibt allen Dingen Geist.",
+        "Die Universalpsychologie meint, alles denkt.",
+        "Der Panpsychismus schreibt allen Materie Geist zu.",
+        "Der Allbeseeltheit-Glaube sagt, alles hat Bewusstsein."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Zuschreiben' is the philosophical term for attribution"
+    },
+    {
+      "id": 37,
+      "question": "The qualia constitute subjective experience.",
+      "options": [
+        "Die Empfindungen machen das Erleben aus.",
+        "Die Qualia konstituieren subjektives Erleben.",
+        "Die Qualia bilden subjektive Erfahrung.",
+        "Die subjektiven Qualitäten sind das Bewusstsein."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Konstituieren' is the formal philosophical term"
+    },
+    {
+      "id": 38,
+      "question": "The hard problem of consciousness remains unsolved.",
+      "options": [
+        "Das harte Problem des Bewusstseins bleibt ungelöst.",
+        "Das Hard Problem des Bewusstseins verbleibt ungelöst.",
+        "Das zentrale Bewusstseinsproblem bleibt offen.",
+        "Das schwierige Bewusstseinsproblem ist nicht gelöst."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Hard Problem' is often retained in English in German texts"
+    },
+    {
+      "id": 39,
+      "question": "The noema correlates with noetic acts.",
+      "options": [
+        "Das Noema korrespondiert mit noetischen Akten.",
+        "Das Noema korreliert mit noetischen Akten.",
+        "Das Gedanke steht im Verhältnis zum Denken.",
+        "Das Bewusstseinsobjekt gehört zum Bewusstseinsakt."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Korrelieren' is the Husserlian technical term"
+    },
+    {
+      "id": 40,
+      "question": "The lifeworld grounds scientific abstraction.",
+      "options": [
+        "Die Lebenswelt begründet wissenschaftliche Abstraktion.",
+        "Die alltägliche Welt ermöglicht Wissenschaft.",
+        "Die Lifeworld gründet wissenschaftliche Abstraktion.",
+        "Die Lebenswelt ist Grundlage für Wissenschaft."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Begründen' is Husserl's term for grounding"
+    },
+    {
+      "id": 41,
+      "question": "The Überbau reflects the economic base.",
+      "options": [
+        "Die Ideologie folgt der materiellen Basis.",
+        "Der Überbau spiegelt die ökonomische Basis wider.",
+        "Der Überbau reflektiert die ökonomische Basis.",
+        "Der Überbau spiegelt die wirtschaftliche Basis."
+      ],
+      "correctIndex": 3,
+      "explanation": "Marx's term 'Basis' is preferred over 'Base' in German"
+    },
+    {
+      "id": 42,
+      "question": "The commodity fetishism obscures social relations.",
+      "options": [
+        "Die Ware verdeckt die Produktionsverhältnisse.",
+        "Der Warenfetischismus verschleiert die gesellschaftlichen Verhältnisse.",
+        "Die Warenanbetung verbirgt die Ausbeutung.",
+        "Die Warenfetischismus verschleiert soziale Beziehungen."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Gesellschaftliche Verhältnisse' is Marx's exact phrase"
+    },
+    {
+      "id": 43,
+      "question": "The repressive desublimation inhibits true liberation.",
+      "options": [
+        "Die repressive Entsublimierung hemmt wahre Befreiung.",
+        "Die unterdrückte Triebabfuhr verhindert Freiheit.",
+        "Die repressive Desublimierung inhibiert wahre Emanzipation.",
+        "Die falsche Befriedigung blockiert wirkliche Freiheit."
+      ],
+      "correctIndex": 0,
+      "explanation": "Marcuse's term 'Entsublimierung' is the standard German form"
+    },
+    {
+      "id": 44,
+      "question": "The culture industry manufactures false needs.",
+      "options": [
+        "Die Unterhaltungsindustrie erzeugt unnötige Wünsche.",
+        "Die Massenkultur schafft geprägte Bedürfnisse.",
+        "Die Kulturindustrie fabriziert künstliche Bedürfnisse.",
+        "Die Kulturindustrie produziert falsche Bedürfnisse."
+      ],
+      "correctIndex": 3,
+      "explanation": "Adorno's exact term: 'Kulturindustrie' and 'falsche Bedürfnisse'"
+    },
+    {
+      "id": 45,
+      "question": "The administered world eliminates spontaneity.",
+      "options": [
+        "Die verwaltete Welt eliminiert Spontaneität.",
+        "Die kontrollierte Gesellschaft zerstört Kreativität.",
+        "Die beherrschte Welt verhindert Freiheit.",
+        "Die administrierte Welt beseitigt die Spontaneität."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Beseitigen' is slightly more formal than 'eliminieren'"
+    },
+    {
+      "id": 46,
+      "question": "The unconscious manifests through parapraxes.",
+      "options": [
+        "Das Unbewusste manifestiert sich durch Fehlleistungen.",
+        "Das Unterbewusstsein zeigt sich durch Fehler.",
+        "Das Unbewusste kommt durch Versprecher zum Ausdruck.",
+        "Das Unbewusste manifestiert sich durch Parapraxes."
+      ],
+      "correctIndex": 0,
+      "explanation": "Freud's German term 'Fehlleistungen' is the standard, not 'Parapraxes'"
+    },
+    {
+      "id": 47,
+      "question": "The death drive compels repetition compulsion.",
+      "options": [
+        "Der Todestrieb zwingt zur Wiederholungszwang.",
+        "Die Destruktionstriebe führen zu wiederholtem Handeln.",
+        "Das Thanatos erzwingt wiederholtes Verhalten.",
+        "Der Todestrieb treibt den Wiederholungszwang an."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Trieb' and 'antreiben' are Freud's dynamic terms"
+    },
+    {
+      "id": 48,
+      "question": "The mirror stage inaugurates the imaginary order.",
+      "options": [
+        "Der Spiegel zeigt das Selbstbild.",
+        "Das Spiegelstadium eröffnet die imaginäre Ordnung.",
+        "Die Spiegelphase beginnt das Imaginäre.",
+        "Das Spiegelstadium initiiert die imaginäre Ordnung."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Eröffnen' is Lacan's term for 'inaugurate'"
+    },
+    {
+      "id": 49,
+      "question": "The objet petit a causes desire.",
+      "options": [
+        "Das Objekt a verursacht das Begehren.",
+        "Das objet petit a verursacht Begierde.",
+        "Das fehlende Objekt erzeugt Verlangen.",
+        "Das Objekt klein a bewirkt Begehren."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Bewirken' is the formal causal term; 'Begehren' is Lacan's term"
+    },
+    {
+      "id": 50,
+      "question": "The symbolic order structures subjectivity through language.",
+      "options": [
+        "Die symbolische Ordnung strukturiert Subjektivität durch Sprache.",
+        "Das Symbolische formt das Subjekt durch Sprache.",
+        "Die Sprache bestimmt die Subjektivität symbolisch.",
+        "Die symbolische Ordnung strukturiert die Subjektivität vermittels Sprache."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Vermittels' is the formal philosophical term for 'through'"
+    },
+    {
+      "id": 51,
+      "question": "The gaze objectifies the subject.",
+      "options": [
+        "Der Blick verwandelt das Subjekt in Objekt.",
+        "Der Blick objektiviert das Subjekt.",
+        "Der Gaze macht das Subjekt zum Objekt.",
+        "Das Anschauen verdinglicht den Betrachter."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sartre/Lacan use 'objektivieren' for the philosophical concept"
+    },
+    {
+      "id": 52,
+      "question": "The real resists symbolization.",
+      "options": [
+        "Das Reale verhindert Darstellung.",
+        "Das Reale wehrt sich gegen Symbolisierung.",
+        "Die Wirklichkeit lässt sich nicht symbolisieren.",
+        "Das Reale widersteht der Symbolisierung."
+      ],
+      "correctIndex": 3,
+      "explanation": "Lacan's formulation uses 'widerstehen' with 'Reale'"
+    },
+    {
+      "id": 53,
+      "question": "The genealogical method reveals power-knowledge nexuses.",
+      "options": [
+        "Die genealogische Methode zeigt Macht-Wissen-Verbindungen.",
+        "Die genealogische Methode offenbart Macht-Wissen-Nexusse.",
+        "Die Herkunftsforschung enthüllt Zusammenhänge von Macht und Wissen.",
+        "Die historische Methode zeigt Beziehungen von Macht und Wissen."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Nexusse' retains Foucault's Latin term in German academic writing"
+    },
+    {
+      "id": 54,
+      "question": "The biopolitics administers populations.",
+      "options": [
+        "Die Biomacht kontrolliert die Menschen.",
+        "Die Biopolitik verwaltet Bevölkerungen.",
+        "Die Biopolitik administriert Populationen.",
+        "Die Lebenspolitik regiert die Massen."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Administrieren' is Foucault's specific term for biopolitical management"
+    },
+    {
+      "id": 55,
+      "question": "The disciplinary power produces docile bodies.",
+      "options": [
+        "Die Zuchtmacht schafft gehorsame Körper.",
+        "Die Disziplinarmacht produziert fügsame Körper.",
+        "Die Disziplin macht gefügige Körper.",
+        "Die disziplinierende Macht erzeuget fügige Leiber."
+      ],
+      "correctIndex": 1,
+      "explanation": "Foucault's exact terms: 'Disziplinarmacht' and 'fügsame Körper'"
+    },
+    {
+      "id": 56,
+      "question": "The governmentality concerns the conduct of conduct.",
+      "options": [
+        "Die Gouvernementalität betrifft das Führen des Führens.",
+        "Die Regierungsweise betrifft das Verhalten des Verhaltens.",
+        "Die Gouvernementalität befasst sich mit der Leitung des Verhaltens.",
+        "Die Führung betrifft das Verhalten der Menschen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Foucault's formulation: 'Führen des Führens' for 'conduct of conduct'"
+    },
+    {
+      "id": 57,
+      "question": "The heterotopia counters emplacement.",
+      "options": [
+        "Die Heterotopie konterkariert die Verortung.",
+        "Die Heterotopie widersetzt sich der Platzierung.",
+        "Der andere Ort lehnt die Einordnung ab.",
+        "Die Heterotopie entgeht der Lokalisierung."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Konterkarieren' captures the sense of countering in Foucault"
+    },
+    {
+      "id": 58,
+      "question": "The subaltern cannot speak.",
+      "options": [
+        "Das Subalterne kann nicht sprechen.",
+        "Die Subalternen haben keine Stimme.",
+        "Die Subalterne können nicht sprechen.",
+        "Die Unterdrückten können sich nicht äußern."
+      ],
+      "correctIndex": 0,
+      "explanation": "Spivak's phrase uses the neuter 'Subalterne' in German translations"
+    },
+    {
+      "id": 59,
+      "question": "The Orientalism constructs the East as Other.",
+      "options": [
+        "Der Orientalismus baut den Osten als Gegensatz auf.",
+        "Das Orientalische denkt den Orient als Fremdes.",
+        "Der Orientalismus konstruiert den Osten als das Andere.",
+        "Der Orientalismus konstruiert den Osten als Anderen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Said's 'das Andere' with neuter article is the standard translation"
+    },
+    {
+      "id": 60,
+      "question": "The strategic essentialism provisionally accepts identity categories.",
+      "options": [
+        "Die Strategie akzeptiert vorübergehend Identitäten.",
+        "Der Essentialismus nutzt vorübergehend Identitäten.",
+        "Der strategische Essentialismus akzeptiert Identitätskategorien vorläufig.",
+        "Der strategische Essentialismus akzeptiert vorläufig Identitätskategorien."
+      ],
+      "correctIndex": 3,
+      "explanation": "Spivak's formulation emphasizes 'vorläufig' (provisionally)"
+    },
+    {
+      "id": 61,
+      "question": "The phallogocentrism privileges masculine reason.",
+      "options": [
+        "Der Phallogozentrismus privilegiert männliche Vernunft.",
+        "Der Phallus bestimmt den Logos.",
+        "Der Phallogozentrismus bevorzugt die männliche Ratio.",
+        "Die männliche Logik wird bevorzugt."
+      ],
+      "correctIndex": 0,
+      "explanation": "Derrida/Irigaray use 'privilegieren' and 'Vernunft'"
+    },
+    {
+      "id": 62,
+      "question": "The écriture féminine escapes phallic language.",
+      "options": [
+        "Die weibliche Schrift entkommt der phallischen Sprache.",
+        "Die Écriture féminine entgeht der phallischen Sprache.",
+        "Die Frauenschrift vermeidet männliche Sprache.",
+        "Das feminine Schreiben flieht vor männlicher Sprache."
+      ],
+      "correctIndex": 1,
+      "explanation": "Cixous's term is often kept in French in German"
+    },
+    {
+      "id": 63,
+      "question": "The cyborg transcends binary boundaries.",
+      "options": [
+        "Die Maschine-Mensch-Figur überwindet Dualismen.",
+        "Der Cyborg transzendiert binäre Grenzen.",
+        "Der künstliche Mensch verlässt binäre Oppositionen.",
+        "Der Cyborg übersteigt binäre Grenzen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Haraway's technical term 'transzendieren' is preferred"
+    },
+    {
+      "id": 64,
+      "question": "The situated knowledge acknowledges partial perspective.",
+      "options": [
+        "Das positionierte Wissen erkennt begrenzte Sicht an.",
+        "Das perspektivische Wissen akzeptiert Partikularität.",
+        "Das situierte Wissen anerkennt partielle Perspektive.",
+        "Das situierte Wissen gesteht die partielle Perspektive ein."
+      ],
+      "correctIndex": 2,
+      "explanation": "Haraway's formulation uses 'anerkennen' for 'acknowledge'"
+    },
+    {
+      "id": 65,
+      "question": "The nomadology resists state capture.",
+      "options": [
+        "Die Nomadologie widersteht der staatlichen Eroberung.",
+        "Die Lehre vom Nomadentum lehnt den Staat ab.",
+        "Die Nomadologie widersteht staatlicher Einfangung.",
+        "Das Nomadische vermeidet staatliche Kontrolle."
+      ],
+      "correctIndex": 0,
+      "explanation": "Deleuze/Guattari's 'Eroberung' captures the sense of capture/apprehension"
+    },
+    {
+      "id": 66,
+      "question": "The smooth space contrasts with striated space.",
+      "options": [
+        "Der offene Raum ist anders als der geordnete Raum.",
+        "Der glatte Raum kontrastiert mit dem gestreiften Raum.",
+        "Der glatte Raum steht im Gegensatz zum gestreiften Raum.",
+        "Der freie Raum unterscheidet sich vom strukturierten Raum."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Im Gegensatz stehen zu' is the formal formulation"
+    },
+    {
+      "id": 67,
+      "question": "The body without organs represents antiproduction.",
+      "options": [
+        "Der Leib ohne Organe stellt die Antiproduktion dar.",
+        "Der Körper ohne Organe repräsentiert die Antiproduktion.",
+        "Der Körper ohne Organe ist Antiproduktion.",
+        "Der organlose Körper bedeutet Nicht-Produktion."
+      ],
+      "correctIndex": 1,
+      "explanation": "Deleuze/Guattari use 'repräsentieren' for philosophical representation"
+    },
+    {
+      "id": 68,
+      "question": "The deterritorialization precedes reterritorialization.",
+      "options": [
+        "Die Entortung kommt vor der Wiederortung.",
+        "Die Deterritorialisierung geht der Reterritorialisierung voraus.",
+        "Die Deterritorialisierung ist der Reterritorialisierung vorgelagert.",
+        "Das Verlassen des Territoriums ist vor der Rückkehr."
+      ],
+      "correctIndex": 1,
+      "explanation": "The technical terms are retained in German Deleuze translations"
+    },
+    {
+      "id": 69,
+      "question": "The rhizomatic thought proceeds by middle.",
+      "options": [
+        "Das rhizomatische Denken verfährt mittelbar.",
+        "Das vernetzte Denken bleibt in der Mitte.",
+        "Das wurzelartige Denken geht durch die Mitte.",
+        "Das rhizomatische Denken schreitet durch die Mitte fort."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Fortschreiten' is the formal term for 'proceed' in this context"
+    },
+    {
+      "id": 70,
+      "question": "The minor literature dismantles major language.",
+      "options": [
+        "Die geringe Literatur zerstört die mächtige Sprache.",
+        "Die minoritäre Literatur demontiert die majoritäre Sprache.",
+        "Die Minderheitenliteratur dekonstruiert die herrschende Sprache.",
+        "Die kleine Literatur zerlegt die große Sprache."
+      ],
+      "correctIndex": 1,
+      "explanation": "Deleuze uses 'minoritäre/majoritäre' as technical terms"
+    },
+    {
+      "id": 71,
+      "question": "The stuttering in language creates minor use.",
+      "options": [
+        "Das Stottern in der Sprache schafft minoren Gebrauch.",
+        "Das Stocken in der Sprache erzeugt einen minoritären Gebrauch.",
+        "Das Stammeln in der Sprache erzeugt minoritären Gebrauch.",
+        "Das Zögern in der Sprache macht den Sprachgebrauch klein."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Stocken' and 'minoritärer Gebrauch' are Deleuze's terms"
+    },
+    {
+      "id": 72,
+      "question": "The fold complicates interiority and exteriority.",
+      "options": [
+        "Die Faltung verwickelt Innen und Außen.",
+        "Das Falten macht Inneres und Äußeres komplex.",
+        "Die Falte verkompliziert Inneres und Äußeres.",
+        "Die Falte kompliziert Innerlichkeit und Äußerlichkeit."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Komplizieren' and the noun forms are Deleuze's formulation"
+    },
+    {
+      "id": 73,
+      "question": "The fold complicates interiority and exteriority.",
+      "options": [
+        "Die Faltung verkompliziert Innen und Außen.",
+        "Das Falten macht Inneres und Äußeres komplex.",
+        "Die Falte kompliziert Innerlichkeit und Äußerlichkeit.",
+        "Die Falte verwickelt Innerlichkeit und Äußerlichkeit."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Komplizieren' and noun forms match Deleuze's Leibniz/Foucault reading"
+    },
+    {
+      "id": 74,
+      "question": "The event disrupts chronological temporality.",
+      "options": [
+        "Das Ereignis stört die chronologische Temporalität.",
+        "Das Event unterbricht die Zeitfolge.",
+        "Das Ereignis unterbricht die chronologische Zeitlichkeit.",
+        "Das Geschehen zerstört die Zeitordnung."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Ereignis' (Heidegger) and 'Unterbrechung' are formal terms"
+    },
+    {
+      "id": 75,
+      "question": "The aleatory point distributes singularities.",
+      "options": [
+        "Der würfelnde Punkt verteilt Einzigartigkeiten.",
+        "Der Zufallspunkt gibt Singularitäten aus.",
+        "Der zufällige Punkt verteilt Singularitäten.",
+        "Der aleatorische Punkt distribuiert Singularitäten."
+      ],
+      "correctIndex": 3,
+      "explanation": "Deleuze uses 'aleatorisch' and 'distribuieren' technically"
+    },
+    {
+      "id": 76,
+      "question": "The plane of immanence precedes the subject.",
+      "options": [
+        "Die Ebene der Immanenz geht dem Subjekt voraus.",
+        "Die Immanenzebene ist vor dem Subjekt.",
+        "Das Feld der Immanenz existiert vor dem Subjekt.",
+        "Die Ebene der Immanenz ist dem Subjekt vorgelagert."
+      ],
+      "correctIndex": 0,
+      "explanation": "Standard formulation: 'Ebene der Immanenz' and 'vorausgehen'"
+    },
+    {
+      "id": 77,
+      "question": "The virtual-actual distinction exceeds possible-real.",
+      "options": [
+        "Die Virtualität-Aktualität-Distinktion übersteigt die Möglichkeit-Wirklichkeit.",
+        "Der Unterschied von Virtuellem und Aktuellem geht über Mögliches und Reales hinaus.",
+        "Das Virtuelle und Aktuelle sind mehr als Mögliches und Reales.",
+        "Der virtuell-aktuelle Unterschied übersteigt möglich-reell."
+      ],
+      "correctIndex": 0,
+      "explanation": "Deleuze uses Latin-derived technical nouns in German translations"
+    },
+    {
+      "id": 78,
+      "question": "The haecceity designates individuation without subject.",
+      "options": [
+        "Die Haecceität zeigt Individualität ohne Subjekt.",
+        "Das Haecceity meint Einzelheit ohne Person.",
+        "Die Haecceität bezeichnet Individuation ohne Subjekt.",
+        "Die Diesheit designiert Individuierung ohne Subjekt."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Haecceität' is the technical Scotist term retained in German"
+    },
+    {
+      "id": 79,
+      "question": "The intermezzo breaks stratified forms.",
+      "options": [
+        "Das Dazwischen bricht Strukturen auf.",
+        "Die Zwischenhandlung zerstört feste Formen.",
+        "Das Intermezzo bricht stratifizierte Formen.",
+        "Das Intermezzo durchbricht geschichtete Formen."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Durchbrechen' is more dynamic; 'geschichtet' for 'stratified'"
+    },
+    {
+      "id": 80,
+      "question": "The becoming-imperceptible escapes majoritarian standards.",
+      "options": [
+        "Das Werden-Unmerklich entgeht den majoritären Maßstäben.",
+        "Das Imperzeptibel-Werden vermeidet Mehrheitsstandards.",
+        "Das Unsichtbar-Werden flieht vor Normen.",
+        "Das Unmerklich-Werden entkommt majoritären Standards."
+      ],
+      "correctIndex": 3,
+      "explanation": "Deleuze's compound 'Werden-Unmerklich' with hyphen"
+    },
+    {
+      "id": 81,
+      "question": "The anexact yet rigorous science thinks fluidity.",
+      "options": [
+        "Die ungenaue und doch strenge Wissenschaft denkt Fluidität.",
+        "Die approximative und trotzdem exakte Wissenschaft denkt Fluidität.",
+        "Die inexacte und dennoch rigorose Wissenschaft denkt das Fließende.",
+        "Die ungenaue aber strenge Wissenschaft denkt Flüssigkeit."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Inexact' and 'rigoros' are Deleuze's specific terms"
+    },
+    {
+      "id": 82,
+      "question": "The intensive magnitude differs from extensive quantity.",
+      "options": [
+        "Die intensive Größe unterscheidet sich von der extensiven Quantität.",
+        "Das Intensive ist nicht das Extensive.",
+        "Die innere Größe ist anders als die äußere Menge.",
+        "Die intensive Magnitude unterscheidet sich von der extensiven Quantität."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kant/Deleuze distinction: 'intensive Größe' vs 'extensive Quantität'"
+    },
+    {
+      "id": 83,
+      "question": "The problematic idea structures the virtual.",
+      "options": [
+        "Das Problem strukturiert die Virtualität.",
+        "Die problembehaftete Idee strukturiert das Virtuelle.",
+        "Die problematische Vorstellung gibt dem Virtuellen Struktur.",
+        "Die problematische Idee strukturiert das Virtuelle."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Problematisch' is technical (Bergson/Deleuze), not negative"
+    },
+    {
+      "id": 84,
+      "question": "The dark precursor foreshadows system differentiation.",
+      "options": [
+        "Der schwarze Vorgänger zeigt Systemdifferenzierung an.",
+        "Der dunkle Vorläufer weist auf Systemunterschiede hin.",
+        "Der dunkle Präkursor lässt Systemdifferenzierung ahnen.",
+        "Der dunkle Vorläufer ahnt Systemdifferenzierung voraus."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Präkursor' is sometimes used; 'ahnen lassen' is the literary formulation"
+    },
+    {
+      "id": 85,
+      "question": "The chaosmosis maintains order-chorder tension.",
+      "options": [
+        "Die kosmische Spannung bleibt bestehen.",
+        "Die Chaosmose bewahrt die Spannung von Ordnung und Chaos.",
+        "Die Chaosmose hält die Ordnung-Chaos-Spannung aufrecht.",
+        "Die Chaosmosis erhält die Ordnung-Unordnung-Spannung."
+      ],
+      "correctIndex": 2,
+      "explanation": "Guattari's term 'Chaosmose' and 'aufrechterhalten' for maintain"
+    },
+    {
+      "id": 86,
+      "question": "The transversal connection eludes hierarchical capture.",
+      "options": [
+        "Die Querverbindung vermeidet Hierarchie.",
+        "Die transversale Verbindung entgeht hierarchischer Erfassung.",
+        "Die Transversalverbindung entzieht sich hierarchischer Einfangung.",
+        "Die transversale Verbindung flieht vor Hierarchie."
+      ],
+      "correctIndex": 1,
+      "explanation": "Guattari: 'transversal' and 'entgehen' (more active than 'fliehen')"
+    },
+    {
+      "id": 87,
+      "question": "The existential territory anchors subjectivation.",
+      "options": [
+        "Das Existenzterritorium verankert die Subjektwerdung.",
+        "Das existenzielle Territorium verankert Subjektivierung.",
+        "Das Territorium hält das Subjekt fest.",
+        "Der existenzielle Raum verankert das Subjekt."
+      ],
+      "correctIndex": 1,
+      "explanation": "Guattari's 'existenziell' and 'Subjektivierung' are technical terms"
+    },
+    {
+      "id": 88,
+      "question": "The incorporeal transformation affects bodies.",
+      "options": [
+        "Die unkörperliche Transformation betrifft Körper.",
+        "Die nicht-materielle Transformation beeinflusst Körper.",
+        "Die leibliche Veränderung wirkt auf Körper.",
+        "Die inkörperliche Umwandlung affiziert Leiber."
+      ],
+      "correctIndex": 3,
+      "explanation": "Stoic/Deleuze term 'inkörperlich' (asomatic) and 'affizieren'"
+    },
+    {
+      "id": 89,
+      "question": "The collective enunciation produces group subjectivity.",
+      "options": [
+        "Die kollektive Aussage produziert Gruppensubjektivität.",
+        "Das kollektive Sprechen macht Gruppenbewusstsein.",
+        "Die kollektive Enunziación erzeugt Gruppensubjektivität.",
+        "Die gemeinsame Äußerung schafft kollektive Subjektivität."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Enunziation' is sometimes kept, but 'Aussage' is also used"
+    },
+    {
+      "id": 90,
+      "question": "The molecular revolution transforms micropolitics.",
+      "options": [
+        "Die molekulare Revolution verwandelt die Mikropolitik.",
+        "Die molekulare Revolution transformiert die Mikropolitik.",
+        "Die Molekularrevolution macht Mikropolitik anders.",
+        "Die kleine Revolution verändert die kleine Politik."
+      ],
+      "correctIndex": 1,
+      "explanation": "Guattari's 'transformieren' is preferred to 'verwandeln' technically"
+    },
+    {
+      "id": 91,
+      "question": "The integral state combines coercion and consent.",
+      "options": [
+        "Der Integralstaat mischt Zwang und Konsens.",
+        "Der vollständige Staat vereint Gewalt und Einwilligung.",
+        "Der integrale Staat verbindet Zwang und Konsens.",
+        "Der integrale Staat kombiniert Zwang und Zustimmung."
+      ],
+      "correctIndex": 2,
+      "explanation": "Gramsci's 'integraler Staat' uses 'verbinden' for combine"
+    },
+    {
+      "id": 92,
+      "question": "The organic intellectual emerges from the class.",
+      "options": [
+        "Der organisch gewachsene Intellektuelle stammt aus der Klasse.",
+        "Der natürliche Intellektuelle kommt von der Klasse.",
+        "Der organische Intellektuelle entsteht aus der Klasse heraus.",
+        "Der organische Intellektuelle entsteht aus der Klasse."
+      ],
+      "correctIndex": 3,
+      "explanation": "Gramsci's 'organisch' (not biological but functional connection)"
+    },
+    {
+      "id": 93,
+      "question": "The war of position replaces war of maneuver.",
+      "options": [
+        "Der Krieg der Position tritt an die Stelle des Kriegs der Bewegung.",
+        "Der Stellungskrieg ersetzt den Manöverkrieg.",
+        "Der Kampf um Positionen ersetzt den beweglichen Kampf.",
+        "Der Positionskrieg ersetzt den Bewegungskrieg."
+      ],
+      "correctIndex": 0,
+      "explanation": "Gramsci's formulation: 'Krieg der Position' and 'an die Stelle treten'"
+    },
+    {
+      "id": 94,
+      "question": "The historical bloc unites base and superstructure.",
+      "options": [
+        "Der Block der Geschichte vereint wirtschaftliche und ideelle Basis.",
+        "Der Geschichtsblock vereint Basis und Überbau.",
+        "Der historische Block vereinigt Basis und Überbau.",
+        "Die historische Einheit verbindet Basis und Überbau."
+      ],
+      "correctIndex": 2,
+      "explanation": "Gramsci's 'historischer Block' (blocco storico) is the technical term"
+    },
+    {
+      "id": 95,
+      "question": "The passive revolution transforms without rupture.",
+      "options": [
+        "Die passive Revolution wandelt um ohne Riss.",
+        "Die passive Transformation geschieht ohne Bruch.",
+        "Die Revolution von oben verändert ohne Zerreißung.",
+        "Die passive Revolution transformiert ohne Bruch."
+      ],
+      "correctIndex": 3,
+      "explanation": "Gramsci's 'passive Revolution' transforms without radical break"
+    },
+    {
+      "id": 96,
+      "question": "The common sense contains contradictions.",
+      "options": [
+        "Der gesunde Menschenverstand enthält Widersprüche.",
+        "Der Common Sense hat inkonsistente Elemente.",
+        "Der Common Sense enthält Widersprüche.",
+        "Das gemeinsame Wissen hat Gegensätze."
+      ],
+      "correctIndex": 0,
+      "explanation": "Gramsci specifically uses 'gesunder Menschenverstand' for common sense"
+    },
+    {
+      "id": 97,
+      "question": "The subaltern classes lack historical initiative.",
+      "options": [
+        "Die subalternen Klassen fehlt historische Initiative.",
+        "Die untergeordneten Klassen haben keine historische Initiative.",
+        "Die Subalternen können nicht Geschichte machen.",
+        "Den subalternen Klassen mangelt es an historischer Initiative."
+      ],
+      "correctIndex": 3,
+      "explanation": "Gramsci's construction: 'es mangelt an' with dative"
+    },
+    {
+      "id": 98,
+      "question": "The philosophy of praxis supersedes speculative philosophy.",
+      "options": [
+        "Die Philosophie der Praxis ersetzt spekulative Philosophie.",
+        "Die Praxisphilosophie hebt die spekulative Philosophie auf.",
+        "Die Philosophie der Praxis übersteigt spekulative Philosophie.",
+        "Die Praxis-Philosophie übertrifft die Theorie."
+      ],
+      "correctIndex": 2,
+      "explanation": "Gramsci's Marx: 'übersteigen' (aufheben/supersede in dialectical sense)"
+    },
+    {
+      "id": 99,
+      "question": "The Fordism rationalizes production and consumption.",
+      "options": [
+        "Der Fordismus macht Produktion und Konsum rational.",
+        "Das Fordistische System ordnet Produktion und Konsum.",
+        "Die Ford-Ära rationalisiert Herstellung und Verbrauch.",
+        "Der Fordismus rationalisiert Produktion und Konsum."
+      ],
+      "correctIndex": 3,
+      "explanation": "Gramsci/Aglietta use 'rationalisieren' as technical term"
+    },
+    {
+      "id": 100,
+      "question": "The regulation mode stabilizes accumulation regime.",
+      "options": [
+        "Die Regulierungsweise stabilisiert das Ansammlungsregime.",
+        "Der Regulationsmodus stabilisiert das Akkumulationsregime.",
+        "Der Modus der Regulation stabilisiert das Regime der Akkumulation.",
+        "Die Regulation stabilisiert das Akkumulationsregime."
+      ],
+      "correctIndex": 1,
+      "explanation": "Regulation school: 'Regulationsmodus' and 'Akkumulationsregime' are technical"
+    }
+  ]
+}

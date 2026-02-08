@@ -1,0 +1,1207 @@
+{
+  "level": "C1.1",
+  "title": "Advanced German - Academic Language & Complex Arguments",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The author's argument is predicated on the assumption that...",
+      "options": [
+        "Der Autor sagt, dass seine Annahme wichtig ist...",
+        "Das Argument vom Autor ist, dass die Annahme...",
+        "Der Autor denkt, dass seine Annahme richtig ist...",
+        "Das Argument des Autors basiert auf der Annahme, dass..."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Basieren auf' is the correct academic expression for 'predicated on'"
+    },
+    {
+      "id": 2,
+      "question": "This phenomenon can be attributed to several factors.",
+      "options": [
+        "Dieses Phänomen kommt von mehreren Faktoren.",
+        "Dieses Phänomen kann mehreren Faktoren geben.",
+        "Dieses Phänomen hat mehrere Faktoren.",
+        "Dieses Phänomen lässt sich auf mehrere Faktoren zurückführen."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Sich auf etwas zurückführen lassen' is the academic expression for 'attributed to'"
+    },
+    {
+      "id": 3,
+      "question": "The study yields inconclusive results regarding...",
+      "options": [
+        "Die Studie zeigt unklare Ergebnisse bezüglich...",
+        "Die Studie liefert keine eindeutigen Ergebnisse bezüglich...",
+        "Die Studie hat keine Schlussfolgerungen über...",
+        "Die Studie macht keine Ergebnisse über..."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Liefert keine eindeutigen Ergebnisse' correctly translates 'yields inconclusive results'"
+    },
+    {
+      "id": 4,
+      "question": "Notwithstanding the limitations, the findings are significant.",
+      "options": [
+        "Ohne die Einschränkungen sind die Ergebnisse bedeutend.",
+        "Die Einschränkungen machen die Ergebnisse bedeutend.",
+        "Mit den Einschränkungen sind die Ergebnisse nicht bedeutend.",
+        "Trotz der Einschränkungen sind die Ergebnisse bedeutend."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Trotz' correctly translates 'notwithstanding'"
+    },
+    {
+      "id": 5,
+      "question": "The hypothesis warrants further investigation.",
+      "options": [
+        "Die Hypothese verdient weitere Untersuchung.",
+        "Die Hypothese will weitere Untersuchung.",
+        "Die Hypothese braucht mehr Forschung.",
+        "Die Hypothese macht weitere Untersuchung."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Verdienen' in this context means 'warrants/merits'"
+    },
+    {
+      "id": 6,
+      "question": "The data corroborates the prevailing theory.",
+      "options": [
+        "Die Daten zeigen die vorherrschende Theorie.",
+        "Die Daten haben die vorherrschende Theorie.",
+        "Die Daten bestätigen die vorherrschende Theorie.",
+        "Die Daten machen die vorherrschende Theorie."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Bestätigen' is the correct translation for 'corroborates'"
+    },
+    {
+      "id": 7,
+      "question": "It is imperative to consider the socioeconomic context.",
+      "options": [
+        "Es ist zwingend erforderlich, den sozioökonomischen Kontext zu berücksichtigen.",
+        "Es ist gut, den sozioökonomischen Kontext zu berücksichtigen.",
+        "Es ist wichtig, den sozioökonomischen Kontext zu berücksichtigen.",
+        "Es ist nötig, den sozioökonomischen Kontext zu berücksichtigen."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Zwingend erforderlich' conveys the urgency of 'imperative'"
+    },
+    {
+      "id": 8,
+      "question": "The research constitutes a paradigm shift in...",
+      "options": [
+        "Die Forschung hat einen Paradigmenwechsel in...",
+        "Die Forschung macht einen Paradigmenwechsel in...",
+        "Die Forschung bildet einen Paradigmenwechsel in...",
+        "Die Forschung stellt einen Paradigmenwechsel in... dar."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Darstellen' is the formal/academic verb for 'constitute'"
+    },
+    {
+      "id": 9,
+      "question": "The methodology is fraught with potential biases.",
+      "options": [
+        "Die Methodik hat mögliche Vorurteile.",
+        "Die Methodik macht mögliche Verzerrungen.",
+        "Die Methodik birgt potenzielle Verzerrungen in sich.",
+        "Die Methodik ist voll mit möglichen Vorurteilen."
+      ],
+      "correctIndex": 2,
+      "explanation": "'In sich birgen' elegantly translates 'fraught with' in academic context"
+    },
+    {
+      "id": 10,
+      "question": "Conversely, alternative interpretations suggest that...",
+      "options": [
+        "Gegenteilig meinen alternative Interpretationen, dass...",
+        "Im Gegenteil, alternative Interpretationen sagen, dass...",
+        "Umgekehrt legen alternative Interpretationen nahe, dass...",
+        "Andererseits denken alternative Interpretationen, dass..."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Umgekehrt' and 'nahelegen' are appropriate academic expressions"
+    },
+    {
+      "id": 11,
+      "question": "The findings are contingent upon the sample size.",
+      "options": [
+        "Die Ergebnisse haben die Stichprobengröße.",
+        "Die Ergebnisse hängen von der Stichprobengröße ab.",
+        "Die Ergebnisse sind mit der Stichprobengröße.",
+        "Die Ergebnisse kommen von der Stichprobengröße."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Von etwas abhängen' correctly translates 'contingent upon'"
+    },
+    {
+      "id": 12,
+      "question": "This assertion lacks empirical substantiation.",
+      "options": [
+        "Diese Behauptung braucht empirische Beweise.",
+        "Diese Behauptung fehlt empirische Beweise.",
+        "Diese Behauptung hat keine empirische Bestätigung.",
+        "Diese Behauptung entbehrt einer empirischen Fundierung."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Entbehren' and 'Fundierung' are sophisticated academic terms"
+    },
+    {
+      "id": 13,
+      "question": "The analysis presupposes a causal relationship.",
+      "options": [
+        "Die Analyse setzt einen kausalen Zusammenhang voraus.",
+        "Die Analyse hat einen kausalen Zusammenhang vorausgesetzt.",
+        "Die Analyse denkt, dass es einen kausalen Zusammenhang gibt.",
+        "Die Analyse macht einen kausalen Zusammenhang."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Voraussetzen' is the correct verb for 'presuppose'"
+    },
+    {
+      "id": 14,
+      "question": "The discourse is permeated by ideological undertones.",
+      "options": [
+        "Der Diskurs ist voll von ideologischen Untertönen.",
+        "Der Diskurs durchdrungen von ideologischen Untertönen.",
+        "Der Diskurs hat ideologische Untertöne.",
+        "Der Diskurs ist durchzogen von ideologischen Untertönen."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Durchzogen von' appropriately translates 'permeated by'"
+    },
+    {
+      "id": 15,
+      "question": "The implications of this study are far-reaching.",
+      "options": [
+        "Die Folgen dieser Studie sind weit.",
+        "Die Bedeutungen dieser Studie sind groß.",
+        "Die Auswirkungen dieser Studie sind weitgehend.",
+        "Die Implikationen dieser Studie sind weitreichend."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Weitreichend' is the standard translation for 'far-reaching'"
+    },
+    {
+      "id": 16,
+      "question": "It behooves researchers to acknowledge their limitations.",
+      "options": [
+        "Es ist gut, wenn Forscher ihre Einschränkungen wissen.",
+        "Forscher sollten ihre Einschränkungen verstehen.",
+        "Forscher müssen ihre Einschränkungen kennen.",
+        "Es ziemt sich für Forscher, ihre Einschränkungen anzuerkennen."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Es ziemt sich' is the formal/archaic expression for 'behooves'"
+    },
+    {
+      "id": 17,
+      "question": "The correlation does not imply causation.",
+      "options": [
+        "Die Korrelation meint keine Kausalität.",
+        "Die Korrelation impliziert nicht die Kausalität.",
+        "Die Korrelation ist nicht die Kausalität.",
+        "Aus der Korrelation folgt nicht die Kausalität."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Aus etwas folgt nicht' is the standard logical expression"
+    },
+    {
+      "id": 18,
+      "question": "This approach is predicated on deductive reasoning.",
+      "options": [
+        "Dieser Ansatz denkt deduktiv.",
+        "Dieser Ansatz basiert auf deduktivem Denken.",
+        "Dieser Ansatz hat deduktives Denken.",
+        "Dieser Ansatz macht deduktives Denken."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Basieren auf' correctly translates 'predicated on'"
+    },
+    {
+      "id": 19,
+      "question": "The evidence is compelling yet circumstantial.",
+      "options": [
+        "Die Beweise sind überzeugend, jedoch indizienbasiert.",
+        "Die Beweise sind überzeugend aber zufällig.",
+        "Die Beweise sind zwingend aber indirekt.",
+        "Die Beweise sind stark aber nicht direkt."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Indizienbasiert' is the precise legal/academic term for 'circumstantial'"
+    },
+    {
+      "id": 20,
+      "question": "The theory has gained traction in recent years.",
+      "options": [
+        "Die Theorie hat in letzten Jahren gewonnen.",
+        "Die Theorie hat in den letzten Jahren an Zuspruch gewonnen.",
+        "Die Theorie ist in letzten Jahren populär geworden.",
+        "Die Theorie hat in letzten Jahren Erfolg gehabt."
+      ],
+      "correctIndex": 1,
+      "explanation": "'An Zuspruch gewinnen' idiomatically translates 'gained traction'"
+    },
+    {
+      "id": 21,
+      "question": "The parameters of the study were rigorously defined.",
+      "options": [
+        "Die Parameter der Studie wurden rigoros definiert.",
+        "Die Parameter der Studie waren streng definiert.",
+        "Die Parameter der Studie waren genau.",
+        "Die Parameter der Studie wurden hart definiert."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Rigoros' is the appropriate academic adverb"
+    },
+    {
+      "id": 22,
+      "question": "The results are incongruous with previous findings.",
+      "options": [
+        "Die Ergebnisse sind anders als frühere Ergebnisse.",
+        "Die Ergebnisse passen nicht zu früheren Ergebnissen.",
+        "Die Ergebnisse stimmen nicht mit früheren Ergebnissen überein.",
+        "Die Ergebnisse sind inkongruent mit früheren Ergebnissen."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Inkongruent' is the formal academic term for 'incongruous'"
+    },
+    {
+      "id": 23,
+      "question": "The synthesis of these approaches yields novel insights.",
+      "options": [
+        "Die Synthese dieser Ansätze macht neue Erkenntnisse.",
+        "Die Synthese dieser Ansätze ergibt neue Einsichten.",
+        "Die Synthese dieser Ansätze hat neue Einsichten.",
+        "Die Synthese dieser Ansätze liefert neuartige Erkenntnisse."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Neuartige Erkenntnisse' precisely translates 'novel insights'"
+    },
+    {
+      "id": 24,
+      "question": "The critique is tantamount to a rejection of the premise.",
+      "options": [
+        "Die Kritik ist gleichbedeutend mit einer Ablehnung der Prämisse.",
+        "Die Kritik ist ähnlich wie eine Ablehnung der Prämisse.",
+        "Die Kritik bedeutet eine Ablehnung der Prämisse.",
+        "Die Kritik ist wie eine Ablehnung der Prämisse."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Gleichbedeutend mit' accurately translates 'tantamount to'"
+    },
+    {
+      "id": 25,
+      "question": "The scope of the inquiry must be delimited.",
+      "options": [
+        "Der Umfang der Untersuchung muss begrenzt werden.",
+        "Der Umfang der Untersuchung muss abgegrenzt werden.",
+        "Die Untersuchung muss einen begrenzten Umfang haben.",
+        "Der Bereich der Untersuchung muss delimitiert werden."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Abgrenzen' is the standard academic term for 'delimit'"
+    },
+    {
+      "id": 26,
+      "question": "The analysis is undergirded by robust statistical methods.",
+      "options": [
+        "Die Analyse ist mit robusten statistischen Methoden unterbaut.",
+        "Die Analyse hat robuste statistische Methoden darunter.",
+        "Die Analyse wird von robusten statistischen Methoden gestützt.",
+        "Die Analyse benutzt robuste statistische Methoden."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Gestützt werden' translates 'undergirded' appropriately"
+    },
+    {
+      "id": 27,
+      "question": "The proposition is tenable but requires validation.",
+      "options": [
+        "Die Behauptung ist vertretbar, bedarf jedoch einer Validierung.",
+        "Die Aussage ist möglich, aber muss bestätigt werden.",
+        "Der Satz ist akzeptabel, aber braucht Überprüfung.",
+        "Der Vorschlag ist haltbar, aber braucht Bestätigung."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Vertretbar' and 'Validierung' are precise academic terms"
+    },
+    {
+      "id": 28,
+      "question": "The dissertation elucidates the underlying mechanisms.",
+      "options": [
+        "Die Dissertation erklärt die zugrundeliegenden Mechanismen.",
+        "Die Dissertation zeigt die Mechanismen.",
+        "Die Dissertation macht die Mechanismen klar.",
+        "Die Dissertation klärt die unterliegenden Mechanismen auf."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Aufklären' is more formal than 'erklären' for 'elucidate'"
+    },
+    {
+      "id": 29,
+      "question": "The hypothesis was refuted by subsequent research.",
+      "options": [
+        "Die Hypothese war falsch nach späterer Forschung.",
+        "Die Hypothese wurde von späterer Forschung widerlegt.",
+        "Die Hypothese wurde durch nachfolgende Forschung widerlegt.",
+        "Die Hypothese stimmte nicht mit späterer Forschung überein."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Durch nachfolgende Forschung' uses the formal 'durch' passive"
+    },
+    {
+      "id": 30,
+      "question": "The conceptual framework necessitates revision.",
+      "options": [
+        "Das Konzept muss überarbeitet werden.",
+        "Das konzeptuelle Framework braucht Änderung.",
+        "Der konzeptionelle Rahmen erfordert eine Überarbeitung.",
+        "Die konzeptuelle Struktur muss revidiert werden."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Erfordern' appropriately translates 'necessitate'"
+    },
+    {
+      "id": 31,
+      "question": "The methodology is replicable across different contexts.",
+      "options": [
+        "Die Methodik funktioniert in verschiedenen Kontexten.",
+        "Die Methodik ist in unterschiedlichen Kontexten replizierbar.",
+        "Die Methodik ist in anderen Kontexten anwendbar.",
+        "Die Methodik kann in verschiedenen Kontexten wiederholt werden."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Replizierbar' is the standard academic term"
+    },
+    {
+      "id": 32,
+      "question": "The epistemological foundation of this approach is questionable.",
+      "options": [
+        "Die Wissensgrundlage dieses Ansatzes ist fraglich.",
+        "Die wissenschaftliche Grundlage dieses Ansatzes ist zweifelhaft.",
+        "Die erkenntnistheoretische Grundlage dieses Ansatzes ist fragwürdig.",
+        "Die epistemologische Basis dieses Ansatzes ist problematisch."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Erkenntnistheoretische Grundlage' is the precise translation"
+    },
+    {
+      "id": 33,
+      "question": "The data must be contextualized within historical parameters.",
+      "options": [
+        "Die Daten müssen historisch eingeordnet werden.",
+        "Die Daten brauchen historischen Kontext.",
+        "Die Daten müssen innerhalb historischer Parameter kontextualisiert werden.",
+        "Die Daten müssen in historischem Kontext gesehen werden."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Kontextualisieren' is the academic verb for 'contextualize'"
+    },
+    {
+      "id": 34,
+      "question": "The thesis posits a fundamental restructuring of...",
+      "options": [
+        "Die These meint eine grundlegende Umstrukturierung von...",
+        "Die These postuliert eine grundlegende Umstrukturierung von...",
+        "Die These stellt eine grundlegende Umstrukturierung von... auf.",
+        "Die These sagt, dass es eine grundlegende Umstrukturierung von... gibt."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Postulieren' is the formal academic verb for 'posit'"
+    },
+    {
+      "id": 35,
+      "question": "The findings are generalizable to broader populations.",
+      "options": [
+        "Die Ergebnisse sind für breitere Bevölkerungen gültig.",
+        "Die Ergebnisse gelten für breitere Bevölkerungen.",
+        "Die Ergebnisse können auf breitere Bevölkerungen verallgemeinert werden.",
+        "Die Ergebnisse sind auf breitere Populationen übertragbar."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Verallgemeinern' is the standard term for 'generalize'"
+    },
+    {
+      "id": 36,
+      "question": "The interpretation hinges on a nuanced understanding of...",
+      "options": [
+        "Die Interpretation hängt von einem nuancierten Verständnis von... ab.",
+        "Die Interpretation braucht ein genaues Verständnis von...",
+        "Die Interpretation basiert auf einem feinen Verständnis von...",
+        "Die Interpretation dreht sich um ein differenziertes Verständnis von..."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Von etwas abhängen' and 'nuanciert' are precise choices"
+    },
+    {
+      "id": 37,
+      "question": "The phenomenon defies conventional categorization.",
+      "options": [
+        "Das Phänomen passt nicht in übliche Kategorien.",
+        "Das Phänomen widersetzt sich einer konventionellen Kategorisierung.",
+        "Das Phänomen passt nicht in normale Kategorien.",
+        "Das Phänomen ist nicht konventionell kategorisierbar."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Sich widersetzen' powerfully translates 'defies'"
+    },
+    {
+      "id": 38,
+      "question": "The research agenda must be realigned with practical exigencies.",
+      "options": [
+        "Die Forschungsagenda muss praktisch werden.",
+        "Die Forschungsagenda muss an praktische Erfordernisse angepasst werden.",
+        "Die Forschungsagenda muss praktischen Bedürfnissen folgen.",
+        "Die Forschungsagenda muss mit praktischen Notwendigkeiten neu ausgerichtet werden."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Neu ausrichten' and 'Erfordernisse' are formal terms"
+    },
+    {
+      "id": 39,
+      "question": "The discourse is characterized by terminological ambiguity.",
+      "options": [
+        "Der Diskurs zeigt Begriffsverwirrung.",
+        "Der Diskurs hat unklare Terminologie.",
+        "Der Diskurs ist gekennzeichnet durch begriffliche Mehrdeutigkeit.",
+        "Der Diskurs hat terminologische Unklarheit."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Gekennzeichnet durch' and 'Mehrdeutigkeit' are academic terms"
+    },
+    {
+      "id": 40,
+      "question": "The explanatory power of the model is limited.",
+      "options": [
+        "Das Modell kann nicht alles erklären.",
+        "Das Modell erklärt nicht genug.",
+        "Das Modell hat begrenzte Erklärungsfähigkeit.",
+        "Die Erklärungskraft des Modells ist begrenzt."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Erklärungskraft' is the standard academic compound noun"
+    },
+    {
+      "id": 41,
+      "question": "The manuscript underwent rigorous peer review.",
+      "options": [
+        "Das Manuskript hatte eine harte Begutachtung.",
+        "Das Manuskript wurde von Kollegen geprüft.",
+        "Das Manuskript durchlief eine rigorose Peer-Review.",
+        "Das Manuskript wurde streng begutachtet."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Durchlaufen' appropriately translates 'underwent'"
+    },
+    {
+      "id": 42,
+      "question": "The conjecture remains unsubstantiated by empirical evidence.",
+      "options": [
+        "Die Vermutung ist ohne empirische Beweise.",
+        "Die Vermutung bleibt unbewiesen durch empirische Beweise.",
+        "Die Vermutung ist nicht durch empirische Evidenz gestützt.",
+        "Die Vermutung bleibt durch empirische Belege untermauert."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Evidenz' and 'gestützt' are formal academic terms"
+    },
+    {
+      "id": 43,
+      "question": "The ontological status of the entity is disputed.",
+      "options": [
+        "Die Existenz des Dinges ist fraglich.",
+        "Der ontologische Status der Entität ist umstritten.",
+        "Die Seinsweise des Objekts wird diskutiert.",
+        "Die ontologische Position ist umstritten."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Ontologischer Status' and 'Entität' are precise philosophical terms"
+    },
+    {
+      "id": 44,
+      "question": "The variables exhibit multicollinearity.",
+      "options": [
+        "Die Variablen haben kollineare Beziehungen.",
+        "Die Variablen weisen Multikollinearität auf.",
+        "Die Variablen zeigen Mehrfachbeziehungen.",
+        "Die Variablen sind voneinander abhängig."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Multikollinearität' is the standard statistical term"
+    },
+    {
+      "id": 45,
+      "question": "The hegemonic discourse marginalizes alternative perspectives.",
+      "options": [
+        "Der herrschende Diskurs schiebt alternative Perspektiven an den Rand.",
+        "Der Hauptdiskurs lässt keine Alternativen zu.",
+        "Der dominante Diskurs ignoriert andere Sichtweisen.",
+        "Der hegemoniale Diskurs marginalisiert alternative Perspektiven."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Hegemonial' and 'marginalisieren' are precise academic terms"
+    },
+    {
+      "id": 46,
+      "question": "The validity of the instrument was established through pilot testing.",
+      "options": [
+        "Das Instrument wurde durch Vorabtests validiert.",
+        "Die Validität des Instruments wurde durch Pilottests etabliert.",
+        "Die Gültigkeit des Instruments wurde durch Pilottests festgestellt.",
+        "Die Richtigkeit des Instruments wurde durch Testläufe bewiesen."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Validität' and 'etablieren' are standard research terms"
+    },
+    {
+      "id": 47,
+      "question": "The axiomatic foundation requires reexamination.",
+      "options": [
+        "Die axiomatische Grundlage erfordert eine Neuprüfung.",
+        "Die Axiome müssen überprüft werden.",
+        "Die Grundlagen müssen neu geprüft werden.",
+        "Die grundlegenden Annahmen brauchen neue Prüfung."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Axiomatisch' and 'Neuprüfung' are precise academic terms"
+    },
+    {
+      "id": 48,
+      "question": "The coefficient of determination indicates a strong correlation.",
+      "options": [
+        "Der Bestimmtheitskoeffizient zeigt eine starke Korrelation.",
+        "Der Determinationskoeffizient zeigt eine starke Beziehung.",
+        "Der R-Wert zeigt eine starke Verbindung.",
+        "Der Korrelationskoeffizient zeigt starke Abhängigkeit."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Bestimmtheitskoeffizient' is the standard statistical term (R²)"
+    },
+    {
+      "id": 49,
+      "question": "Thematic analysis was employed to identify patterns.",
+      "options": [
+        "Eine thematische Analyse wurde angewandt, um Muster zu erkennen.",
+        "Themenanalyse wurde benutzt, um Muster zu finden.",
+        "Thematische Analyse wurde eingesetzt, um Muster zu identifizieren.",
+        "Themen wurden analysiert, um Muster zu sehen."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Eingesetzt' and 'identifizieren' are formal academic terms"
+    },
+    {
+      "id": 50,
+      "question": "The null hypothesis was rejected at the p<0.05 level.",
+      "options": [
+        "Die Nullhypothese wurde bei p<0,05 verworfen.",
+        "Die Nullhypothese war bei p<0,05 falsch.",
+        "Die Nullhypothese wurde auf dem Signifikanzniveau p<0,05 zurückgewiesen.",
+        "Die Nullhypothese wurde auf dem Niveau p<0,05 abgelehnt."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Signifikanzniveau' and 'zurückweisen' are formal statistical terms"
+    },
+    {
+      "id": 51,
+      "question": "The teleological argument presupposes inherent purpose.",
+      "options": [
+        "Das Argument vom Zweck setzt Zielstrebigkeit voraus.",
+        "Das teleologische Argument hat einen Zweck.",
+        "Das Zweckargument nimmt einen inneren Sinn an.",
+        "Das teleologische Argument setzt einen inhärenten Zweck voraus."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Inhärent' is the philosophical term for 'inherent'"
+    },
+    {
+      "id": 52,
+      "question": "The research design is susceptible to selection bias.",
+      "options": [
+        "Das Forschungsdesign ist empfindlich gegen Auswahlverzerrung.",
+        "Das Forschungsdesign kann Auswahlfehler haben.",
+        "Das Forschungsdesign ist anfällig für Selektionsbias.",
+        "Das Forschungsdesign hat Auswahlverzerrung."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Anfällig für' and 'Selektionsbias' are precise terms"
+    },
+    {
+      "id": 53,
+      "question": "The dichotomy between nature and nurture is increasingly questioned.",
+      "options": [
+        "Die Zweiteilung in Natur und Umwelt wird zunehmend in Frage gestellt.",
+        "Der Unterschied zwischen angeboren und erworben wird diskutiert.",
+        "Die Dichotomie zwischen Natur und Kultur wird zunehmend hinterfragt.",
+        "Die Dichotomie zwischen Natur und Ernährung wird immer mehr hinterfragt."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Dichotomie' and 'Kultur' correctly translate 'nature and nurture'"
+    },
+    {
+      "id": 54,
+      "question": "The pragmatic implications of this theory are considerable.",
+      "options": [
+        "Die praktischen Anwendungen dieser Theorie sind groß.",
+        "Die pragmatischen Auswirkungen dieser Theorie sind wichtig.",
+        "Die praktischen Folgen dieser Theorie sind beträchtlich.",
+        "Die pragmatischen Implikationen dieser Theorie sind erheblich."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Pragmatische Implikationen' is the precise academic phrase"
+    },
+    {
+      "id": 55,
+      "question": "The seminal work laid the groundwork for subsequent research.",
+      "options": [
+        "Das bahnbrechende Werk legte den Grundstein für spätere Forschung.",
+        "Das wichtige Werk machte die Basis für folgende Forschung.",
+        "Das einflussreiche Werk schuf die Grundlagen für nachfolgende Forschung.",
+        "Das grundlegende Werk legte den Grund für weitere Forschung."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Bahnbrechend' and 'Grundstein legen' are standard expressions"
+    },
+    {
+      "id": 56,
+      "question": "The salient features of the model warrant closer examination.",
+      "options": [
+        "Die hervorstechenden Merkmale des Modells verdienen genauere Untersuchung.",
+        "Die wichtigen Eigenschaften des Modells sollten genauer geprüft werden.",
+        "Die auffälligen Features des Modells brauchen mehr Aufmerksamkeit.",
+        "Die markanten Merkmale des Modells müssen genauer betrachtet werden."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Hervorstechend' accurately translates 'salient'"
+    },
+    {
+      "id": 57,
+      "question": "The intrinsic value of the approach lies in its adaptability.",
+      "options": [
+        "Der innere Wert des Ansatzes liegt in seiner Anpassungsfähigkeit.",
+        "Der Ansatz ist wertvoll wegen seiner Anpassungsfähigkeit.",
+        "Der Wert des Ansatzes ist seine Anpassbarkeit.",
+        "Der intrinsische Wert des Ansatzes liegt in seiner Flexibilität."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Intrinsisch' is the philosophical term retained in German"
+    },
+    {
+      "id": 58,
+      "question": "The conflation of these concepts leads to analytical confusion.",
+      "options": [
+        "Die Konflation dieser Konzepte führt zu analytischer Konfusion.",
+        "Die Zusammenlegung dieser Begriffe führt zu analytischer Verwirrung.",
+        "Die Vermischung dieser Konzepte führt zu analytischer Verwirrung.",
+        "Das Durcheinander dieser Konzepte führt zu analytischer Unklarheit."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Vermischung' appropriately translates 'conflation'"
+    },
+    {
+      "id": 59,
+      "question": "The hermeneutic circle is inherent to interpretive analysis.",
+      "options": [
+        "Der hermeneutische Zirkel ist typisch für interpretative Analyse.",
+        "Der hermeneutische Zirkel ist Teil der interpretativen Analyse.",
+        "Der hermeneutische Zirkel ist inhärent in interpretativer Analyse.",
+        "Der hermeneutische Zirkel gehört zur interpretativen Analyse."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Inhärent in' is the formal prepositional phrase"
+    },
+    {
+      "id": 60,
+      "question": "The postcolonial critique interrogates power structures.",
+      "options": [
+        "Die postkoloniale Kritik untersucht Machtstrukturen.",
+        "Die nachkoloniale Kritik analysiert Machtstrukturen.",
+        "Die postkoloniale Kritik beleuchtet Machtstrukturen.",
+        "Die postkoloniale Kritik hinterfragt Machtstrukturen."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Hinterfragen' powerfully translates 'interrogate' in critical theory"
+    },
+    {
+      "id": 61,
+      "question": "The recursivity of the process precludes linear causation.",
+      "options": [
+        "Die Rekursion im Prozess vermeidet lineare Verursachung.",
+        "Die Rekursivität des Prozesses schließt lineare Kausalität aus.",
+        "Die Wiederholung des Prozesses verhindert lineare Ursachen.",
+        "Der zirkuläre Prozess lässt keine lineare Kausalität zu."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Rekursivität' and 'ausschließen' are precise academic terms"
+    },
+    {
+      "id": 62,
+      "question": "The phenomenological reduction brackets preconceptions.",
+      "options": [
+        "Die phänomenologische Reduktion setzt Vorurteile in Klammern.",
+        "Die phänomenologische Reduktion eliminiert Vorannahmen.",
+        "Die phänomenologische Reduktion ignoriert Vorurteile.",
+        "Die phänomenologische Reduktion klammern Voreingenommenheiten aus."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Einklammern' is the Husserlian term for 'bracket' in phenomenology"
+    },
+    {
+      "id": 63,
+      "question": "The discursive formation constrains possible utterances.",
+      "options": [
+        "Die diskursive Formation beschränkt mögliche Äußerungen.",
+        "Die diskursive Formation limitiert mögliche Äußerungen.",
+        "Die diskursive Bildung begrenzt mögliche Aussagen.",
+        "Der diskursive Rahmen schränkt mögliche Reden ein."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Formation' is Foucault's term; 'beschränken' is precise"
+    },
+    {
+      "id": 64,
+      "question": "The contingency of historical events defies prediction.",
+      "options": [
+        "Die Unbestimmtheit historischer Ereignisse verhindert Prognosen.",
+        "Der Zufall historischer Ereignisse verhindert Vorhersagen.",
+        "Die Zufälligkeit historischer Ereignisse lässt keine Vorhersage zu.",
+        "Die Kontingenz historischer Ereignisse widersetzt sich der Vorhersage."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Kontingenz' and 'sich widersetzen' are formal philosophical terms"
+    },
+    {
+      "id": 65,
+      "question": "The intersubjectivity of meaning is presupposed in communication.",
+      "options": [
+        "Die Intersubjektivität der Bedeutung wird in der Kommunikation vorausgesetzt.",
+        "Die Zwischensubjektivität der Bedeutung wird kommuniziert vorausgesetzt.",
+        "Die Intersubjektivität von Bedeutung ist in Kommunikation vorausgesetzt.",
+        "Die Gemeinsamkeit von Bedeutung ist kommunikativ vorausgesetzt."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Intersubjektivität' and article usage 'der Bedeutung' are precise"
+    },
+    {
+      "id": 66,
+      "question": "The sedimentation of social practices requires historical excavation.",
+      "options": [
+        "Die Sedimentierung sozialer Praktiken erfordert historische Ausgrabung.",
+        "Die Entwicklung sozialer Praktiken erfordert historische Analyse.",
+        "Die Ablagerung sozialer Praktiken braucht historische Untersuchung.",
+        "Die Sedimentation gesellschaftlicher Praktiken erfordert historische Aufarbeitung."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Sedimentierung' is the technical term for 'sedimentation'"
+    },
+    {
+      "id": 67,
+      "question": "The normative force of the factual must be critically examined.",
+      "options": [
+        "Die normative Stärke des Faktischen muss kritisch betrachtet werden.",
+        "Die normative Macht der Tatsachen muss kritisch untersucht werden.",
+        "Die normative Kraft des Faktischen muss kritisch geprüft werden.",
+        "Die normative Gewalt der Fakten muss kritisch examiniert werden."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Normative Kraft des Faktischen' is the classic sociological phrase"
+    },
+    {
+      "id": 68,
+      "question": "The bricolage of methodologies enriches the analysis.",
+      "options": [
+        "Die Bastelei an Methoden bereichert die Analyse.",
+        "Die Methodenmischung bereichert die Analyse.",
+        "Das Zusammenstückeln von Methoden bereichert die Analyse.",
+        "Das Bricolage der Methodologien bereichert die Analyse."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Bricolage' is often retained as a loanword in German academic texts"
+    },
+    {
+      "id": 69,
+      "question": "The polysemic nature of the text invites multiple readings.",
+      "options": [
+        "Die mehrdeutige Beschaffenheit des Textes erlaubt verschiedene Lesungen.",
+        "Die vieldeutige Natur des Textes lädt zu mehreren Lesarten ein.",
+        "Die polysemische Natur des Textes lädt zu vielfältigen Lesarten ein.",
+        "Die Vieldeutigkeit des Textes lädt zu mehreren Lesungen ein."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Polysemisch' is the technical literary term"
+    },
+    {
+      "id": 70,
+      "question": "The indexicality of language complicates semantic analysis.",
+      "options": [
+        "Die Verweisfunktion der Sprache erschwert die Bedeutungsanalyse.",
+        "Die Zeigefunktion der Sprache kompliziert die Bedeutungsanalyse.",
+        "Die Indexikalität der Sprache erschwert die semantische Analyse.",
+        "Die Indexhaftigkeit der Sprache macht die semantische Analyse schwierig."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Indexikalität' is the established philosophical term"
+    },
+    {
+      "id": 71,
+      "question": "The performativity of discourse constitutes social reality.",
+      "options": [
+        "Die Performanz des Diskurses macht soziale Realität.",
+        "Die Durchführung des Diskurses bildet soziale Wirklichkeit.",
+        "Die Aufführung des Diskurses bildet soziale Realität.",
+        "Die Performativität des Diskurses konstituiert soziale Realität."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Performativität' and 'konstituieren' are Butler's technical terms"
+    },
+    {
+      "id": 72,
+      "question": "The diachronic perspective reveals historical transformations.",
+      "options": [
+        "Die diachronische Perspektive offenbart historische Transformationen.",
+        "Die Diachronie-Perspektive enthüllt historische Wandlungen.",
+        "Die zeitliche Perspektive zeigt historische Veränderungen.",
+        "Die diachrone Perspektive zeigt historische Verwandlungen."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Offenbaren' and 'Transformationen' are formal academic terms"
+    },
+    {
+      "id": 73,
+      "question": "The imbrication of power and knowledge is undeniable.",
+      "options": [
+        "Die Überlappung von Macht und Wissen ist unleugbar.",
+        "Die Verflechtung von Macht und Wissen ist unleugbar.",
+        "Die Imbrication von Macht und Wissen ist unbestreitbar.",
+        "Die Verzahnung von Macht und Wissen ist unvermeidlich."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Imbrication' is often used as a technical loanword (Foucault)"
+    },
+    {
+      "id": 74,
+      "question": "The liminality of the phase facilitates transformation.",
+      "options": [
+        "Die Schwelle der Phase erleichtert Verwandlung.",
+        "Die Übergangsphase erleichtert Transformation.",
+        "Die Liminalität der Phase ermöglicht Transformation.",
+        "Die Grenzhaftigkeit der Phase erleichtert Transformation."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Liminalität' is the anthropological term (Turner)"
+    },
+    {
+      "id": 75,
+      "question": "The refraction of ideology through institutional practices.",
+      "options": [
+        "Die Brechung der Ideologie durch institutionelle Praktiken.",
+        "Die Refraktion der Ideologie durch institutionelle Praktiken.",
+        "Die Reflexion der Ideologie in institutionellen Praktiken.",
+        "Die Umleitung der Ideologie durch institutionelle Praktiken."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Refraktion' is the optical metaphor used in critical theory"
+    },
+    {
+      "id": 76,
+      "question": "The dialectic between structure and agency is ongoing.",
+      "options": [
+        "Die Dialektik von Struktur und Handlung ist fortlaufend.",
+        "Der Gegensatz zwischen Struktur und Akteur ist kontinuierlich.",
+        "Die Dialektik zwischen Struktur und Handlungsfähigkeit ist andauernd.",
+        "Der Dialog zwischen Struktur und Agency dauert an."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Handlungsfähigkeit' is the standard translation for 'agency'"
+    },
+    {
+      "id": 77,
+      "question": "The reification of social relations obscures their constructed nature.",
+      "options": [
+        "Die Vergegenständlichung sozialer Beziehungen verbirgt ihre gemachte Natur.",
+        "Die Verdinglichung sozialer Beziehungen verschleiert ihren konstruierten Charakter.",
+        "Die Verdinglichung sozialer Relationen versteckt ihren konstruierten Charakter.",
+        "Die Reifikation sozialer Beziehungen verdeckt ihre konstruierte Natur."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Verdinglichung' is the Marxist term; 'verschleiern' is precise"
+    },
+    {
+      "id": 78,
+      "question": "The articulation of different discourses produces hybrid meanings.",
+      "options": [
+        "Die Artikulation verschiedener Diskurse produziert hybride Bedeutungen.",
+        "Die Verbindung verschiedener Diskurse erzeugt gemischte Bedeutungen.",
+        "Die Verknüpfung verschiedener Diskurse produziert Mischbedeutungen.",
+        "Das Zusammenfügen verschiedener Diskurse schafft hybride Bedeutungen."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Artikulation' is the cultural studies term (Hall)"
+    },
+    {
+      "id": 79,
+      "question": "The iterability of the sign undermines fixed meaning.",
+      "options": [
+        "Die Wiederholbarkeit des Signifikanten unterhöhlt feste Bedeutung.",
+        "Die Iterabilität des Zeichens untergräbt fixe Bedeutung.",
+        "Die Iterierbarkeit des Zeichens unterhöhlt feste Bedeutung.",
+        "Die Wiederholbarkeit des Zeichens untergräbt feste Bedeutung."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Iterabilität' is the Derridean technical term"
+    },
+    {
+      "id": 80,
+      "question": "The supplementarity of the origin problematizes presence.",
+      "options": [
+        "Die Ergänzung des Ursprungs problematisiert Präsenz.",
+        "Die Zusätzlichkeit des Ursprungs problematisiert Gegenwärtigkeit.",
+        "Die Ergänzbarkeit des Ursprungs macht Anwesenheit problematisch.",
+        "Die Supplementarität des Ursprungs problematisiert Anwesenheit."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Supplementarität' is Derrida's term; 'Anwesenheit' for 'presence'"
+    },
+    {
+      "id": 81,
+      "question": "The governmentality perspective examines micro-physics of power.",
+      "options": [
+        "Die Governmentalitätsperspektive betrachtet Mikrophysik der Macht.",
+        "Die Regierungsperspektive untersucht Mikrophysik der Macht.",
+        "Die Governmentality-Perspektive untersucht Mikrophysik der Macht.",
+        "Die Gouvernementalitätsperspektive untersucht Mikrophysik der Macht."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Gouvernementalität' (Foucault) uses French-derived spelling"
+    },
+    {
+      "id": 82,
+      "question": "The haptic experience transcends visual representation.",
+      "options": [
+        "Die Haptilität übertrifft visuelle Repräsentation.",
+        "Die haptische Erfahrung übersteigt visuelle Repräsentation.",
+        "Die tastende Erfahrung geht über visuelle Darstellung hinaus.",
+        "Die Berührungserfahrung transzendiert visuelle Darstellung."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Haptisch' is the technical term; 'übersteigen' is precise"
+    },
+    {
+      "id": 83,
+      "question": "The figuration of the body in discourse is culturally contingent.",
+      "options": [
+        "Die Figuration des Körpers im Diskurs ist kulturell kontingent.",
+        "Die Gestaltung des Körpers im Diskurs ist kulturell bedingt.",
+        "Die Darstellung des Körpers im Diskurs ist kulturell abhängig.",
+        "Die Figur des Körpers im Diskurs ist kulturell zufällig."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Figuration' is the technical term; 'kontingent' is philosophical"
+    },
+    {
+      "id": 84,
+      "question": "The differential spacing of signs creates meaning.",
+      "options": [
+        "Das differentielle Spacing der Zeichen erzeugt Bedeutung.",
+        "Die differentielle Setzung der Zeichen erzeugt Bedeutung.",
+        "Der differentielle Abstand der Zeichen schafft Bedeutung.",
+        "Der Unterschied zwischen Zeichen macht Bedeutung."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Setzung' translates Derrida's 'espacement'"
+    },
+    {
+      "id": 85,
+      "question": "The trace of the Other disrupts self-presence.",
+      "options": [
+        "Die Spur des Anderen unterbricht Selbstanwesenheit.",
+        "Die Spur des Anderen durchbricht die Selbstpräsenz.",
+        "Das Andere stört die eigene Präsenz.",
+        "Die Spur des Anderen stört die Selbstanwesenheit."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Durchbrechen' captures the violence of 'disrupt'"
+    },
+    {
+      "id": 86,
+      "question": "The quasi-transcendental conditions of possibility.",
+      "options": [
+        "Die quasi-transzendentalen Bedingungen der Möglichkeit.",
+        "Die quasi-transzendenten Bedingungen der Möglichkeit.",
+        "Die fast-transzendentalen Möglichkeitsbedingungen.",
+        "Die quasi-transzendentalen Bedingungen der Machbarkeit."
+      ],
+      "correctIndex": 0,
+      "explanation": "Standard Kantian/Derridean phrase structure"
+    },
+    {
+      "id": 87,
+      "question": "The destabilization of binary oppositions reveals aporias.",
+      "options": [
+        "Die Destabilisierung binärer Oppositionen enthüllt Aporien.",
+        "Die Destabilisation binärer Gegensätze offenbart Aporien.",
+        "Die Destabilisierung binärer Oppositionen zeigt Aporien.",
+        "Das Destabilisieren von Binäroppositionen zeigt Sackgassen."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Destabilisierung' and 'Aporien' are Derridean terms"
+    },
+    {
+      "id": 88,
+      "question": "The hauntology of presence interrogates metaphysics of presence.",
+      "options": [
+        "Die Hauntologie der Anwesenheit befragt Metaphysik der Anwesenheit.",
+        "Die Spukologie der Präsenz hinterfragt Metaphysik der Präsenz.",
+        "Die Hauntologie des Präsenten problematisiert Präsenzmetaphysik.",
+        "Die Geisterhaftigkeit der Gegenwart untersucht Gegenwartsmetaphysik."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Hauntologie' is Derrida's coinage; 'Anwesenheit' for 'presence'"
+    },
+    {
+      "id": 89,
+      "question": "The spectral logic of inheritance complicates ethical responsibility.",
+      "options": [
+        "Die gespenstische Logik des Erbes erschwert ethische Verantwortung.",
+        "Die spektrale Logik der Erbschaft kompliziert ethische Verantwortung.",
+        "Die Schattenlogik des Erbes macht ethische Verantwortung schwierig.",
+        "Die spektrale Logik der Vererbung verkompliziert ethische Verantwortung."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Spektral' and 'Erbschaft' are Derrida's technical terms"
+    },
+    {
+      "id": 90,
+      "question": "The arche-writing precedes and enables speech.",
+      "options": [
+        "Das Arche-Schreiben kommt vor und ermöglicht Sprache.",
+        "Das ursprüngliche Schreiben kommt vor und ermöglicht Sprechen.",
+        "Die Archeographie geht dem Sprechen voran und ermöglicht es.",
+        "Die Arche-Schrift geht der Rede voraus und ermöglicht sie."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Arche-Schrift' is the standard German translation"
+    },
+    {
+      "id": 91,
+      "question": "The pharmakon is both remedy and poison.",
+      "options": [
+        "Das Pharmazeutikum ist sowohl Medizin als auch Toxin.",
+        "Das Pharmakon ist sowohl Heilmittel als auch Gift.",
+        "Die Droge ist sowohl Heilung als auch Vergiftung.",
+        "Die Arznei ist sowohl Lösung als auch Problem."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Pharmakon' retained as Derrida's term from Plato"
+    },
+    {
+      "id": 92,
+      "question": "The parergonal frame delimits the work of art.",
+      "options": [
+        "Der Rahmen als Parergon delimitiert das Kunstwerk.",
+        "Das Parergon als Rahmen begrenzt das Kunstwerk.",
+        "Der Zierrahmen begrenzt das Werk der Kunst.",
+        "Der parergonale Rahmen begrenzt das Kunstwerk."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Parergonal' is Kant/Derrida's technical term"
+    },
+    {
+      "id": 93,
+      "question": "The messianic without messianism structures expectation.",
+      "options": [
+        "Die Messianität ohne Messianismus bildet Erwartung.",
+        "Das Messianische ohne Messianismus bildet Erwartung.",
+        "Das messianische ohne Messianismus strukturiert die Erwartung.",
+        "Das Messianische ohne Messianismus strukturiert Erwartung."
+      ],
+      "correctIndex": 2,
+      "explanation": "Article 'die Erwartung' and 'strukturieren' are formal"
+    },
+    {
+      "id": 94,
+      "question": "The democracy to come remains always deferred.",
+      "options": [
+        "Die Zukunftsdemokratie bleibt immer aufgeschoben.",
+        "Die kommende Demokratie bleibt immer aufgeschoben.",
+        "Die Demokratie zu kommen bleibt immer verschoben.",
+        "Die Demokratie die kommt bleibt immer verzögert."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Zu kommen' (à venir) is Derrida's phrase; 'verschoben' for 'deferred'"
+    },
+    {
+      "id": 95,
+      "question": "The originary technicity of the human condition.",
+      "options": [
+        "Die ursprüngliche Technik der menschlichen Bedingung.",
+        "Die originäre Technizität der menschlichen Verfassung.",
+        "Die ursprüngliche Technizität der menschlichen Kondition.",
+        "Die ursprüngliche Technisierung der menschlichen Bedingung."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Originär' is philosophical; 'Verfassung' for 'condition'"
+    },
+    {
+      "id": 96,
+      "question": "The autoimmunity of democracy threatens its survival.",
+      "options": [
+        "Die Autoimmunisierung der Demokratie bedroht ihr Fortbestehen.",
+        "Die Autoimmunität der Demokratie bedroht ihr Überleben.",
+        "Die Selbstimmunität der Demokratie gefährdet ihre Existenz.",
+        "Die Selbstabwehr der Demokratie bedroht ihr Überleben."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Autoimmunität' is Derrida's term for democracy's self-threatening"
+    },
+    {
+      "id": 97,
+      "question": "The unconditional hospitality exceeds conditional hospitality.",
+      "options": [
+        "Die unbedingte Hospitalität übersteigt die bedingte Hospitalität.",
+        "Die bedingungslose Gastfreundschaft übersteigt bedingte Gastfreundschaft.",
+        "Die absolute Gastfreundschaft geht über bedingte Gastfreundschaft hinaus.",
+        "Die unbedingte Gastfreundschaft übertrifft bedingte Gastfreundschaft."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Hospitalität' is the philosophical term; 'übersteigen' is precise"
+    },
+    {
+      "id": 98,
+      "question": "The mourning that remains open to the other's alterity.",
+      "options": [
+        "Das Trauern das offen bleibt für die Alterität des Anderen.",
+        "Die Trauer, die offen bleibt für die Andersheit des Anderen.",
+        "Die Trauer, die offen bleibt für die Fremdheit des Anderen.",
+        "Die Trauer die offen bleibt für die Alterität des Anderen."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Andersheit' is the standard German term for Levinas's 'alterité'"
+    },
+    {
+      "id": 99,
+      "question": "The gift beyond exchange disrupts the economic circle.",
+      "options": [
+        "Das Geschenk ohne Gegenleistung zerstört den ökonomischen Kreis.",
+        "Das Geschenk über den Austausch hinaus durchbricht den ökonomischen Kreis.",
+        "Das Gift jenseits des Tauschs unterbricht den ökonomischen Zirkel.",
+        "Die Gabe über den Austausch hinaus stört den ökonomischen Kreislauf."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Gift' (homonym) and 'Zirkel' are Derrida's technical vocabulary"
+    },
+    {
+      "id": 100,
+      "question": "The epochal sending of Being manifests in different formations.",
+      "options": [
+        "Die epochale Sendung des Seins manifestiert sich in verschiedenen Formationen.",
+        "Das zeitliche Senden des Seins manifestiert sich in verschiedenen Formungen.",
+        "Die Epochensendung des Seins zeigt verschiedene Formationen.",
+        "Die epochale Schickung des Seins zeigt sich in verschiedenen Prägungen."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Schickung' is Heidegger's term for 'sending' (Geschick)"
+    }
+  ]
+}

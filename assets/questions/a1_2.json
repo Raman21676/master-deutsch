@@ -1,0 +1,1308 @@
+{
+  "level": "A1.2",
+  "title": "Elementary German - Daily Life & Social Interactions",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Was machst du normalerweise am Morgen?",
+      "englishTranslation": "What do you usually do in the morning?",
+      "options": [
+        "Ich schlafe immer bis 12 Uhr.",
+        "Ich arbeite die ganze Nacht.",
+        "Ich gehe ins Bett.",
+        "Ich stehe auf und frühstücke."
+      ],
+      "correctIndex": 3,
+      "explanation": "Daily morning routine description"
+    },
+    {
+      "id": 2,
+      "question": "Wie oft wäscht du deine Wäsche?",
+      "englishTranslation": "How often do you wash your laundry?",
+      "options": [
+        "Nie, ich kaufe neue Kleidung.",
+        "Einmal pro Woche.",
+        "Jeden Monat einmal.",
+        "Nur im Sommer."
+      ],
+      "correctIndex": 1,
+      "explanation": "Frequency with time expressions"
+    },
+    {
+      "id": 3,
+      "question": "Wo ist das Badezimmer?",
+      "englishTranslation": "Where is the bathroom?",
+      "options": [
+        "Es ist im Supermarkt.",
+        "Es ist auf der Straße.",
+        "Es ist neben der Küche.",
+        "Es ist unter dem Auto."
+      ],
+      "correctIndex": 2,
+      "explanation": "Describing location with prepositions"
+    },
+    {
+      "id": 4,
+      "question": "Wer putzt das Wohnzimmer?",
+      "englishTranslation": "Who cleans the living room?",
+      "options": [
+        "Niemand wohnt dort.",
+        "Das Wohnzimmer isst Pizza.",
+        "Meine Mutter putzt es immer.",
+        "Es regnet draußen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Subject and verb agreement"
+    },
+    {
+      "id": 5,
+      "question": "Um wie viel Uhr isst du zu Mittag?",
+      "englishTranslation": "What time do you eat lunch?",
+      "options": [
+        "Morgens um 8 Uhr.",
+        "Um 3 Uhr nachts.",
+        "Ich esse nie.",
+        "Um 12 Uhr mittags."
+      ],
+      "correctIndex": 3,
+      "explanation": "Telling time for meals"
+    },
+    {
+      "id": 6,
+      "question": "Was kochst du heute Abend?",
+      "englishTranslation": "What are you cooking this evening?",
+      "options": [
+        "Ich schlafe den ganzen Tag.",
+        "Ich wasche das Auto.",
+        "Ich gehe ins Kino.",
+        "Ich koche Spaghetti mit Tomatensauce."
+      ],
+      "correctIndex": 3,
+      "explanation": "Cooking vocabulary and plans"
+    },
+    {
+      "id": 7,
+      "question": "Ist dein Zimmer aufgeräumt?",
+      "englishTranslation": "Is your room tidy?",
+      "options": [
+        "Ja, es ist sehr ordentlich.",
+        "Nein, es regnet draußen.",
+        "Ich habe kein Zimmer.",
+        "Das Bett ist kaputt."
+      ],
+      "correctIndex": 0,
+      "explanation": "Adjectives describing state"
+    },
+    {
+      "id": 8,
+      "question": "Wie findest du deine Wohnung?",
+      "englishTranslation": "How do you like your apartment?",
+      "options": [
+        "Sie kostet 10 Euro.",
+        "Ich finde sie auf der Straße.",
+        "Sie ist sehr gemütlich und hell.",
+        "Ich esse sie zum Frühstück."
+      ],
+      "correctIndex": 2,
+      "explanation": "Giving opinions with adjectives"
+    },
+    {
+      "id": 9,
+      "question": "Was brauchst du im Haushalt?",
+      "englishTranslation": "What do you need for the household?",
+      "options": [
+        "Ich gehe ins Kino.",
+        "Ich brauche ein Flugzeug.",
+        "Ich brauche einen Staubsauger.",
+        "Ich esse einen Berg."
+      ],
+      "correctIndex": 2,
+      "explanation": "Household items vocabulary"
+    },
+    {
+      "id": 10,
+      "question": "Wann gehst du ins Bett?",
+      "englishTranslation": "When do you go to bed?",
+      "options": [
+        "Ich esse Frühstück.",
+        "Ich stehe um 6 Uhr auf.",
+        "Mittags um 12 Uhr.",
+        "Normalerweise um 22 Uhr."
+      ],
+      "correctIndex": 3,
+      "explanation": "Daily routines time expressions"
+    },
+    {
+      "id": 11,
+      "question": "Was machst du am Wochenende zu Hause?",
+      "englishTranslation": "What do you do at home on the weekend?",
+      "options": [
+        "Ich lese Bücher und entspanne mich.",
+        "Ich gehe zur Universität.",
+        "Ich arbeite im Büro.",
+        "Ich fahre mit dem Auto nach Berlin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Weekend activities"
+    },
+    {
+      "id": 12,
+      "question": "Ist dein Kühlschrank voll?",
+      "englishTranslation": "Is your refrigerator full?",
+      "options": [
+        "Er steht im Bad.",
+        "Nein, er ist kaputt.",
+        "Ja, er ist voll mit Gemüse.",
+        "Ich habe keinen Hunger."
+      ],
+      "correctIndex": 2,
+      "explanation": "Describing quantity"
+    },
+    {
+      "id": 13,
+      "question": "Wer macht bei dir den Abwasch?",
+      "englishTranslation": "Who does the dishes at your place?",
+      "options": [
+        "Ich spüle das Geschirr selbst.",
+        "Die Katze macht den Abwasch.",
+        "Niemand kocht hier.",
+        "Das Geschirr ist aus Gold."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chores and reflexive pronouns"
+    },
+    {
+      "id": 14,
+      "question": "Wie ist das Wetter heute?",
+      "englishTranslation": "How is the weather today?",
+      "options": [
+        "Es ist sonnig und warm.",
+        "Es schneit im Kühlschrank.",
+        "Das Wetter ist hungrig.",
+        "Ich trinke Kaffee."
+      ],
+      "correctIndex": 0,
+      "explanation": "Weather descriptions"
+    },
+    {
+      "id": 15,
+      "question": "Was ziehst du zum Schlafen an?",
+      "englishTranslation": "What do you wear to sleep?",
+      "options": [
+        "Ich trage einen gemütlichen Pyjama.",
+        "Ich trage einen Anzug.",
+        "Ich ziehe das Haus an.",
+        "Ich schlafe im Auto."
+      ],
+      "correctIndex": 0,
+      "explanation": "Clothing vocabulary for sleeping"
+    },
+    {
+      "id": 16,
+      "question": "Hast du einen Garten?",
+      "englishTranslation": "Do you have a garden?",
+      "options": [
+        "Nein, ich wohne im Meer.",
+        "Ja, einen kleinen mit Blumen.",
+        "Ja, er ist sehr hungrig.",
+        "Ich habe einen Berg."
+      ],
+      "correctIndex": 1,
+      "explanation": "Describing possession"
+    },
+    {
+      "id": 17,
+      "question": "Was machst du mit Müll?",
+      "englishTranslation": "What do you do with trash?",
+      "options": [
+        "Ich trenne den Müll und werfe ihn weg.",
+        "Ich esse den Müll.",
+        "Ich lege ihn ins Bett.",
+        "Der Müll arbeitet im Büro."
+      ],
+      "correctIndex": 0,
+      "explanation": "Environmental actions"
+    },
+    {
+      "id": 18,
+      "question": "Wie oft staubst du die Möbel ab?",
+      "englishTranslation": "How often do you dust the furniture?",
+      "options": [
+        "Nie, ich habe keine Möbel.",
+        "Einmal in der Woche.",
+        "Jeden Tag dreimal.",
+        "Nur im Winter."
+      ],
+      "correctIndex": 1,
+      "explanation": "Frequency for household chores"
+    },
+    {
+      "id": 19,
+      "question": "Ist dein Bett bequem?",
+      "englishTranslation": "Is your bed comfortable?",
+      "options": [
+        "Ja, sehr bequem zum Schlafen.",
+        "Nein, es ist sehr laut.",
+        "Es ist im Badezimmer.",
+        "Ich esse das Bett."
+      ],
+      "correctIndex": 0,
+      "explanation": "Describing comfort"
+    },
+    {
+      "id": 20,
+      "question": "Was steht auf deinem Tisch?",
+      "englishTranslation": "What is on your table?",
+      "options": [
+        "Ein Auto und ein Fahrrad.",
+        "Ein Laptop und eine Tasse Kaffee.",
+        "Ein großer Baum.",
+        "Ich stehe auf dem Tisch."
+      ],
+      "correctIndex": 1,
+      "explanation": "Describing location of objects"
+    },
+    {
+      "id": 21,
+      "question": "Wann hast du Geburtstag?",
+      "englishTranslation": "When is your birthday?",
+      "options": [
+        "Am 15. März.",
+        "Gestern war Montag.",
+        "Ich esse gern Kuchen.",
+        "Im Sommer ist es warm."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dates and birthdays"
+    },
+    {
+      "id": 22,
+      "question": "Wie viele Zimmer hat deine Wohnung?",
+      "englishTranslation": "How many rooms does your apartment have?",
+      "options": [
+        "Sie ist blau gestrichen.",
+        "Zehn Menschen.",
+        "Sehr groß und hell.",
+        "Drei Zimmer und eine Küche."
+      ],
+      "correctIndex": 3,
+      "explanation": "Numbers and rooms"
+    },
+    {
+      "id": 23,
+      "question": "Was machst du vor dem Schlafengehen?",
+      "englishTranslation": "What do you do before going to sleep?",
+      "options": [
+        "Ich gehe joggen.",
+        "Ich fahre zur Arbeit.",
+        "Ich koche das Frühstück.",
+        "Ich putze meine Zähne und lese."
+      ],
+      "correctIndex": 3,
+      "explanation": "Evening routines"
+    },
+    {
+      "id": 24,
+      "question": "Ist deine Küche modern?",
+      "englishTranslation": "Is your kitchen modern?",
+      "options": [
+        "Ja, mit einem neuen Kühlschrank.",
+        "Nein, sie ist sehr altmodisch.",
+        "Sie ist im Garten.",
+        "Ich schlafe in der Küche."
+      ],
+      "correctIndex": 0,
+      "explanation": "Describing features"
+    },
+    {
+      "id": 25,
+      "question": "Was hängt an deiner Wand?",
+      "englishTranslation": "What hangs on your wall?",
+      "options": [
+        "Ein Stuhl und ein Tisch.",
+        "Ein Fenster und eine Tür.",
+        "Ein Bild und eine Uhr.",
+        "Ich hänge an der Wand."
+      ],
+      "correctIndex": 2,
+      "explanation": "Wall decorations"
+    },
+    {
+      "id": 26,
+      "question": "Wann beginnt dein Unterricht?",
+      "englishTranslation": "When does your class start?",
+      "options": [
+        "Ich habe keinen Hunger.",
+        "Um Mitternacht.",
+        "Um 9 Uhr morgens.",
+        "Am Samstagabend."
+      ],
+      "correctIndex": 2,
+      "explanation": "University schedule"
+    },
+    {
+      "id": 27,
+      "question": "Was studierst du?",
+      "englishTranslation": "What do you study?",
+      "options": [
+        "Ich wohne in Berlin.",
+        "Ich arbeite als Arzt.",
+        "Ich studiere BWL.",
+        "Ich esse gern Pizza."
+      ],
+      "correctIndex": 2,
+      "explanation": "Field of study"
+    },
+    {
+      "id": 28,
+      "question": "Wie kommst du zur Universität?",
+      "englishTranslation": "How do you get to university?",
+      "options": [
+        "Ich fahre mit dem Bus.",
+        "Ich laufe sehr schnell.",
+        "Die Uni ist geschlossen.",
+        "Ich schwimme dorthin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Transportation methods"
+    },
+    {
+      "id": 29,
+      "question": "Wer ist dein Lieblingsprofessor?",
+      "englishTranslation": "Who is your favorite professor?",
+      "options": [
+        "Mein Bruder studiert Medizin.",
+        "Professor Müller ist sehr nett.",
+        "Die Bibliothek ist groß.",
+        "Ich habe keine Lust."
+      ],
+      "correctIndex": 1,
+      "explanation": "Talking about teachers"
+    },
+    {
+      "id": 30,
+      "question": "Was brauchst du für die Vorlesung?",
+      "englishTranslation": "What do you need for the lecture?",
+      "options": [
+        "Eine Pizza und Cola.",
+        "Ein Notizbuch und einen Stift.",
+        "Ein Bett und Kissen.",
+        "Ein Auto und Führerschein."
+      ],
+      "correctIndex": 1,
+      "explanation": "School supplies"
+    },
+    {
+      "id": 31,
+      "question": "Ist die Bibliothek heute geöffnet?",
+      "englishTranslation": "Is the library open today?",
+      "options": [
+        "Nein, sie ist ein Buch.",
+        "Ja, bis 20 Uhr.",
+        "Sie ist geschlossen für immer.",
+        "Ich gehe schlafen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Opening hours"
+    },
+    {
+      "id": 32,
+      "question": "Was hast du gestern gelernt?",
+      "englishTranslation": "What did you learn yesterday?",
+      "options": [
+        "Ich esse einen Apfel.",
+        "Ich habe geschlafen den ganzen Tag.",
+        "Gestern war Sonntag.",
+        "Ich habe Deutschvokabeln gelernt."
+      ],
+      "correctIndex": 3,
+      "explanation": "Perfect tense for past actions"
+    },
+    {
+      "id": 33,
+      "question": "Wie findest du das Studium?",
+      "englishTranslation": "How do you find the studies?",
+      "options": [
+        "Ich esse das Studium.",
+        "Ich finde es in der Küche.",
+        "Es kostet 5 Euro.",
+        "Es ist interessant aber schwer."
+      ],
+      "correctIndex": 3,
+      "explanation": "Giving opinions about studies"
+    },
+    {
+      "id": 34,
+      "question": "Was schreibst du in der Prüfung?",
+      "englishTranslation": "What do you write in the exam?",
+      "options": [
+        "Ich singe ein Lied.",
+        "Ich schreibe auf die Wand.",
+        "Ich male ein Bild.",
+        "Ich schreibe einen Aufsatz."
+      ],
+      "correctIndex": 3,
+      "explanation": "Exam activities"
+    },
+    {
+      "id": 35,
+      "question": "Hast du dein Buch vergessen?",
+      "englishTranslation": "Did you forget your book?",
+      "options": [
+        "Nein, ich habe es dabei.",
+        "Ja, ich habe es gegessen.",
+        "Das Buch ist rot.",
+        "Ich lese keine Bücher."
+      ],
+      "correctIndex": 0,
+      "explanation": "Having something with you"
+    },
+    {
+      "id": 36,
+      "question": "Wann hast du Prüfungen?",
+      "englishTranslation": "When do you have exams?",
+      "options": [
+        "Gestern Abend.",
+        "Nächste Woche im Januar.",
+        "Ich esse gern Schokolade.",
+        "Im Sommer ist es warm."
+      ],
+      "correctIndex": 1,
+      "explanation": "Future time expressions"
+    },
+    {
+      "id": 37,
+      "question": "Was machst du in der Pause?",
+      "englishTranslation": "What do you do during the break?",
+      "options": [
+        "Ich schlafe im Hörsaal.",
+        "Ich trinke Kaffee im Café.",
+        "Ich fahre nach Hause.",
+        "Ich lese ein Buch in der Bib."
+      ],
+      "correctIndex": 1,
+      "explanation": "Break time activities"
+    },
+    {
+      "id": 38,
+      "question": "Kannst du mir helfen?",
+      "englishTranslation": "Can you help me?",
+      "options": [
+        "Das ist ein schönes Buch.",
+        "Nein, ich kann nicht schwimmen.",
+        "Ich habe keine Zeit gestern.",
+        "Ja, ich helfe dir gern."
+      ],
+      "correctIndex": 3,
+      "explanation": "Modal verb 'können' for ability"
+    },
+    {
+      "id": 39,
+      "question": "Wie viele Studenten sind in deinem Kurs?",
+      "englishTranslation": "How many students are in your course?",
+      "options": [
+        "Es ist sehr groß.",
+        "Zwei Stühle und ein Tisch.",
+        "Etwa dreißig Studenten.",
+        "Ich mag den Kurs."
+      ],
+      "correctIndex": 2,
+      "explanation": "Numbers and people"
+    },
+    {
+      "id": 40,
+      "question": "Was möchtest du nach dem Studium machen?",
+      "englishTranslation": "What would you like to do after studies?",
+      "options": [
+        "Das Wetter ist schön.",
+        "Ich möchte schlafen gehen.",
+        "Ich esse eine Pizza.",
+        "Ich möchte Ingenieur werden."
+      ],
+      "correctIndex": 3,
+      "explanation": "Future plans with 'möchten'"
+    },
+    {
+      "id": 41,
+      "question": "Ist das Seminar obligatorisch?",
+      "englishTranslation": "Is the seminar obligatory?",
+      "options": [
+        "Nein, es ist ein Buch.",
+        "Ja, man muss teilnehmen.",
+        "Vielleicht regnet es.",
+        "Ich habe Hunger."
+      ],
+      "correctIndex": 1,
+      "explanation": "Obligatory attendance"
+    },
+    {
+      "id": 42,
+      "question": "Wo kann ich mein Essen essen?",
+      "englishTranslation": "Where can I eat my food?",
+      "options": [
+        "Im Klassenzimmer auf dem Tisch.",
+        "In der Mensa oder im Park.",
+        "In der Bibliothek laut.",
+        "Auf dem Dach des Autos."
+      ],
+      "correctIndex": 1,
+      "explanation": "Places to eat"
+    },
+    {
+      "id": 43,
+      "question": "Was trägst du zur Universität?",
+      "englishTranslation": "What do you wear to university?",
+      "options": [
+        "Ich trage einen Schlafanzug.",
+        "Ich trage eine Jeans und T-Shirt.",
+        "Ich nehme ein Bad.",
+        "Ich esse Frühstück."
+      ],
+      "correctIndex": 1,
+      "explanation": "Clothing for university"
+    },
+    {
+      "id": 44,
+      "question": "Hast du die Hausaufgaben gemacht?",
+      "englishTranslation": "Did you do the homework?",
+      "options": [
+        "Nein, ich habe sie verloren.",
+        "Ja, ich habe sie fertig.",
+        "Das ist ein schönes Auto.",
+        "Ich gehe ins Kino."
+      ],
+      "correctIndex": 1,
+      "explanation": "Perfect tense for homework"
+    },
+    {
+      "id": 45,
+      "question": "Wie lange dauert die Vorlesung?",
+      "englishTranslation": "How long does the lecture last?",
+      "options": [
+        "Sehr interessant und lehrreich.",
+        "Sie dauert bis morgen.",
+        "Drei Stunden mit Pause.",
+        "Ich komme mit dem Bus."
+      ],
+      "correctIndex": 2,
+      "explanation": "Duration expressions"
+    },
+    {
+      "id": 46,
+      "question": "Was für Bücher liest du?",
+      "englishTranslation": "What kind of books do you read?",
+      "options": [
+        "Bücher sind teuer.",
+        "Ich lese die Zeitung täglich.",
+        "Ich esse keine Bücher.",
+        "Ich lese Lehrbücher und Romane."
+      ],
+      "correctIndex": 3,
+      "explanation": "Types of books"
+    },
+    {
+      "id": 47,
+      "question": "Musst du viel lernen?",
+      "englishTranslation": "Do you have to study a lot?",
+      "options": [
+        "Ich esse gern Pizza.",
+        "Nein, ich schlafe stattdessen.",
+        "Ja, ich muss jeden Tag lernen.",
+        "Das Wetter ist schön."
+      ],
+      "correctIndex": 2,
+      "explanation": "Modal verb 'müssen'"
+    },
+    {
+      "id": 48,
+      "question": "Was ist dein Lieblingsfach?",
+      "englishTranslation": "What is your favorite subject?",
+      "options": [
+        "Ich esse gern Schokolade.",
+        "Mathe ist meine Schwester.",
+        "Deutsch, weil es interessant ist.",
+        "Mein Fach ist aus Holz."
+      ],
+      "correctIndex": 2,
+      "explanation": "Favorite subjects"
+    },
+    {
+      "id": 49,
+      "question": "Wann fährt der letzte Bus?",
+      "englishTranslation": "When does the last bus leave?",
+      "options": [
+        "Gestern war er da.",
+        "Er fährt ins Meer.",
+        "Um 23 Uhr abends.",
+        "Der Bus ist rot."
+      ],
+      "correctIndex": 2,
+      "explanation": "Transport schedules"
+    },
+    {
+      "id": 50,
+      "question": "Warum bist du nicht im Unterricht?",
+      "englishTranslation": "Why weren't you in class?",
+      "options": [
+        "Ich war sehr glücklich.",
+        "Ich war krank und beim Arzt.",
+        "Der Unterricht ist blau.",
+        "Ich esse einen Apfel."
+      ],
+      "correctIndex": 1,
+      "explanation": "Giving reasons"
+    },
+    {
+      "id": 51,
+      "question": "Was kaufst du im Supermarkt?",
+      "englishTranslation": "What do you buy at the supermarket?",
+      "options": [
+        "Ich verkaufe mein Haus.",
+        "Ich kaufe ein Auto und ein Fahrrad.",
+        "Ich kaufe Brot, Milch und Käse.",
+        "Ich esse einen großen Fisch."
+      ],
+      "correctIndex": 2,
+      "explanation": "Grocery shopping list"
+    },
+    {
+      "id": 52,
+      "question": "Wie viel kosten die Tomaten?",
+      "englishTranslation": "How much do the tomatoes cost?",
+      "options": [
+        "Sie wachsen im Garten.",
+        "Sie sind sehr rot und rund.",
+        "Sie kosten 2,99 Euro pro Kilo.",
+        "Ich esse sie nicht."
+      ],
+      "correctIndex": 2,
+      "explanation": "Prices and quantities"
+    },
+    {
+      "id": 53,
+      "question": "Zahlst du bar oder mit Karte?",
+      "englishTranslation": "Do you pay cash or by card?",
+      "options": [
+        "Ich gebe keine Trinkgeld.",
+        "Ich zahle mit Gold.",
+        "Ich zahle mit Kreditkarte.",
+        "Ich kaufe den Laden."
+      ],
+      "correctIndex": 2,
+      "explanation": "Payment methods"
+    },
+    {
+      "id": 54,
+      "question": "Haben Sie frisches Brot?",
+      "englishTranslation": "Do you have fresh bread?",
+      "options": [
+        "Nein, das Brot ist alt und grün.",
+        "Ja, es kommt gerade aus dem Ofen.",
+        "Das Brot kostet 100 Euro.",
+        "Wir verkaufen keine Schuhe."
+      ],
+      "correctIndex": 1,
+      "explanation": "Freshness of food"
+    },
+    {
+      "id": 55,
+      "question": "Wo finde ich die Milch?",
+      "englishTranslation": "Where can I find the milk?",
+      "options": [
+        "Im Kühlregal hinten links.",
+        "Auf dem Dach des Ladens.",
+        "Unter dem Tisch versteckt.",
+        "Im Büro des Managers."
+      ],
+      "correctIndex": 0,
+      "explanation": "Location in supermarket"
+    },
+    {
+      "id": 56,
+      "question": "Ist das im Angebot?",
+      "englishTranslation": "Is this on sale?",
+      "options": [
+        "Ja, heute 20% billiger.",
+        "Nein, es ist ausverkauft.",
+        "Das Angebot ist geschlossen.",
+        "Ich esse das Angebot."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sales and discounts"
+    },
+    {
+      "id": 57,
+      "question": "Was möchtest du zum Abendessen kaufen?",
+      "englishTranslation": "What would you like to buy for dinner?",
+      "options": [
+        "Ich möchte ein neues Auto kaufen.",
+        "Ich möchte Hähnchen und Reis kaufen.",
+        "Ich kaufe ein Buch über Geschichte.",
+        "Ich esse keine Abendessen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Dinner shopping"
+    },
+    {
+      "id": 58,
+      "question": "Brauchen Sie eine Tüte?",
+      "englishTranslation": "Do you need a bag?",
+      "options": [
+        "Ich brauche ein Auto.",
+        "Nein, ich habe eine Tasse.",
+        "Ja, bitte, eine große.",
+        "Die Tüte ist zu essen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Shopping bags"
+    },
+    {
+      "id": 59,
+      "question": "Wie schwer ist dieser Kürbis?",
+      "englishTranslation": "How heavy is this pumpkin?",
+      "options": [
+        "Er wächst im Wald.",
+        "Er ist sehr orange.",
+        "Er wiegt etwa 3 Kilo.",
+        "Ich esse ihn nicht."
+      ],
+      "correctIndex": 2,
+      "explanation": "Weight expressions"
+    },
+    {
+      "id": 60,
+      "question": "Wo kann ich die Eier finden?",
+      "englishTranslation": "Where can I find the eggs?",
+      "options": [
+        "Auf dem Boden unter dem Regal.",
+        "Im Kühlschrank mit dem Fleisch.",
+        "Im Regal neben dem Käse.",
+        "Im Büro des Chefs."
+      ],
+      "correctIndex": 2,
+      "explanation": "Locating products"
+    },
+    {
+      "id": 61,
+      "question": "Ist das Obst bio?",
+      "englishTranslation": "Is the fruit organic?",
+      "options": [
+        "Das Obst ist sehr laut.",
+        "Nein, es ist aus Plastik.",
+        "Ja, es kommt aus biologischem Anbau.",
+        "Ich kaufe keine Schuhe."
+      ],
+      "correctIndex": 2,
+      "explanation": "Organic products"
+    },
+    {
+      "id": 62,
+      "question": "Was kostet das alles zusammen?",
+      "englishTranslation": "How much does everything cost together?",
+      "options": [
+        "Das kostet 1000 Dollar.",
+        "Das macht 15,40 Euro.",
+        "Es ist umsonst und gratis.",
+        "Das ist zu teuer für mich."
+      ],
+      "correctIndex": 1,
+      "explanation": "Total price"
+    },
+    {
+      "id": 63,
+      "question": "Haben Sie auch gefrorenes Gemüse?",
+      "englishTranslation": "Do you also have frozen vegetables?",
+      "options": [
+        "Nein, wir verkaufen nur Schuhe.",
+        "Ja, im Tiefkühlregal.",
+        "Das Gemüse ist sehr heiß.",
+        "Ich esse kein Eis."
+      ],
+      "correctIndex": 1,
+      "explanation": "Frozen foods section"
+    },
+    {
+      "id": 64,
+      "question": "Ich suche eine gute Flasche Wein.",
+      "englishTranslation": "I'm looking for a good bottle of wine.",
+      "options": [
+        "Der Wein ist aus Plastik.",
+        "Die Cola ist im Regal drei.",
+        "Wir haben keine Getränke.",
+        "Der Rotwein hier ist sehr empfehlenswert."
+      ],
+      "correctIndex": 3,
+      "explanation": "Wine selection"
+    },
+    {
+      "id": 65,
+      "question": "Gibt es heute Angebote für Schokolade?",
+      "englishTranslation": "Are there any offers on chocolate today?",
+      "options": [
+        "Nein, Schokolade ist verboten.",
+        "Ja, zwei Tafeln für 3 Euro.",
+        "Wir verkaufen keine Süßigkeiten.",
+        "Die Schokolade ist gesund."
+      ],
+      "correctIndex": 1,
+      "explanation": "Special offers"
+    },
+    {
+      "id": 66,
+      "question": "Kann ich mit Karte zahlen?",
+      "englishTranslation": "Can I pay by card?",
+      "options": [
+        "Ja, wir akzeptieren alle Karten.",
+        "Nein, nur mit Goldbarren.",
+        "Karten sind nicht erlaubt.",
+        "Wir haben keine Kasse."
+      ],
+      "correctIndex": 0,
+      "explanation": "Card payment acceptance"
+    },
+    {
+      "id": 67,
+      "question": "Wie viele Äpfel möchten Sie?",
+      "englishTranslation": "How many apples would you like?",
+      "options": [
+        "Fünf Stück, bitte.",
+        "Ich möchte alle Äpfel kaufen.",
+        "Einen Liter Äpfel.",
+        "Ich esse keine Birnen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Quantity with 'Stück'"
+    },
+    {
+      "id": 68,
+      "question": "Ist das Fleisch frisch?",
+      "englishTranslation": "Is the meat fresh?",
+      "options": [
+        "Ja, es ist von heute Morgen.",
+        "Nein, es ist aus der letzten Woche.",
+        "Das Fleisch ist vegetarisch.",
+        "Wir verkaufen kein Brot."
+      ],
+      "correctIndex": 0,
+      "explanation": "Freshness of meat"
+    },
+    {
+      "id": 69,
+      "question": "Wo ist die Kasse?",
+      "englishTranslation": "Where is the checkout?",
+      "options": [
+        "Die Kasse ist im Büro.",
+        "Die Kasse ist kaputt heute.",
+        "Wir nehmen kein Geld an.",
+        "Dort vorne rechts neben dem Ausgang."
+      ],
+      "correctIndex": 3,
+      "explanation": "Location of checkout"
+    },
+    {
+      "id": 70,
+      "question": "Haben Sie auch glutenfreies Brot?",
+      "englishTranslation": "Do you also have gluten-free bread?",
+      "options": [
+        "Ja, im Regal mit den Spezialitäten.",
+        "Nein, Brot hat immer Gluten.",
+        "Wir verkaufen kein Brot.",
+        "Gluten ist gesund für alle."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dietary requirements"
+    },
+    {
+      "id": 71,
+      "question": "Was empfehlen Sie für ein Picknick?",
+      "englishTranslation": "What do you recommend for a picnic?",
+      "options": [
+        "Essen Sie kein Essen.",
+        "Ich empfehle ein neues Auto.",
+        "Nehmen Sie einen Schrank mit.",
+        "Ich empfehle Käse, Trauben und Brot."
+      ],
+      "correctIndex": 3,
+      "explanation": "Recommendations"
+    },
+    {
+      "id": 72,
+      "question": "Kann ich das umtauschen?",
+      "englishTranslation": "Can I exchange this?",
+      "options": [
+        "Wir tauschen nichts um.",
+        "Nein, verkauft ist verkauft.",
+        "Ja, mit Kassenbon innerhalb von 14 Tagen.",
+        "Nur wenn es kaputt ist.",
+        "Ja, mit Kassenbon innerhalb von 14 Tagen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Returns policy"
+    },
+    {
+      "id": 73,
+      "question": "Wann schließt der Laden?",
+      "englishTranslation": "When does the store close?",
+      "options": [
+        "Er schließt nie.",
+        "Um 20 Uhr abends.",
+        "In der Mittagspause.",
+        "Wenn ich komme."
+      ],
+      "correctIndex": 1,
+      "explanation": "Opening hours"
+    },
+    {
+      "id": 74,
+      "question": "Gibt es einen Rabatt für Studenten?",
+      "englishTranslation": "Is there a discount for students?",
+      "options": [
+        "Nur für Lehrer.",
+        "Nein, Studenten zahlen mehr.",
+        "Rabatte sind verboten.",
+        "Ja, mit gültigem Studentenausweis 10%."
+      ],
+      "correctIndex": 3,
+      "explanation": "Student discounts"
+    },
+    {
+      "id": 75,
+      "question": "Ich nehme die frischen Erdbeeren.",
+      "englishTranslation": "I'll take the fresh strawberries.",
+      "options": [
+        "Gute Wahl, die sind sehr süß.",
+        "Die sind schimmilig und alt.",
+        "Wir haben keine Erdbeeren.",
+        "Die kosten 100 Euro."
+      ],
+      "correctIndex": 0,
+      "explanation": "Customer interaction"
+    },
+    {
+      "id": 76,
+      "question": "Was darf es sein?",
+      "englishTranslation": "What would you like? (How may I help you?)",
+      "options": [
+        "Das ist verboten hier.",
+        "Es darf nicht regnen.",
+        "Ich bin nicht erlaubt.",
+        "Ich hätte gerne die Gemüsesuppe."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ordering food"
+    },
+    {
+      "id": 77,
+      "question": "Haben Sie einen Tisch für vier Personen?",
+      "englishTranslation": "Do you have a table for four people?",
+      "options": [
+        "Sie müssen draußen essen.",
+        "Nein, wir haben keine Tische.",
+        "Vier Personen sind zu viele.",
+        "Ja, hier drüben am Fenster."
+      ],
+      "correctIndex": 3,
+      "explanation": "Table reservation"
+    },
+    {
+      "id": 78,
+      "question": "Wie möchten Sie Ihr Steak?",
+      "englishTranslation": "How would you like your steak?",
+      "options": [
+        "Sehr teuer und groß.",
+        "Mit Zucker und Sahne.",
+        "Ich möchte es nicht essen.",
+        "Medium, bitte."
+      ],
+      "correctIndex": 3,
+      "explanation": "Steak preparation"
+    },
+    {
+      "id": 79,
+      "question": "Die Rechnung, bitte!",
+      "englishTranslation": "The check, please!",
+      "options": [
+        "Wir haben keine Rechnungen mehr.",
+        "Die Rechnung ist geschlossen.",
+        "Kommt sofort. Möchten Sie getrennt zahlen?",
+        "Sie müssen nicht zahlen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Asking for the bill"
+    },
+    {
+      "id": 80,
+      "question": "Es schmeckt sehr gut!",
+      "englishTranslation": "It tastes very good!",
+      "options": [
+        "Danke, freut mich dass es Ihnen gefällt!",
+        "Nein, es schmeckt schlecht.",
+        "Das Essen ist kalt.",
+        "Ich habe nicht gekocht."
+      ],
+      "correctIndex": 0,
+      "explanation": "Complimenting food"
+    },
+    {
+      "id": 81,
+      "question": "Was trinken Sie zum Kaffee?",
+      "englishTranslation": "What do you drink with your coffee?",
+      "options": [
+        "Zum Kaffee trinke ich Tee.",
+        "Ich trinke den Kaffee allein.",
+        "Ich esse den Becher.",
+        "Ich nehme ein Glas Wasser dazu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Drinks with coffee"
+    },
+    {
+      "id": 82,
+      "question": "Können Sie mir die Speisekarte bringen?",
+      "englishTranslation": "Can you bring me the menu?",
+      "options": [
+        "Nein, Sie müssen von außen essen.",
+        "Natürlich, einen Moment bitte.",
+        "Die Karte ist kaputt.",
+        "Wir haben kein Essen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Asking for menu"
+    },
+    {
+      "id": 83,
+      "question": "Ist hier noch frei?",
+      "englishTranslation": "Is this seat free?",
+      "options": [
+        "Sie können nicht hier sitzen.",
+        "Nein, hier sitzt ein Geist.",
+        "Der Platz ist reserviert für immer.",
+        "Ja, bitte nehmen Sie Platz."
+      ],
+      "correctIndex": 3,
+      "explanation": "Asking if seat is free"
+    },
+    {
+      "id": 84,
+      "question": "Wie war Ihr Aufenthalt im Hotel?",
+      "englishTranslation": "How was your stay at the hotel?",
+      "options": [
+        "Das Hotel war geschlossen.",
+        "Der Aufenthalt war sehr hungrig.",
+        "Ich habe nicht übernachtet.",
+        "Sehr angenehm, danke."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hotel stay inquiry"
+    },
+    {
+      "id": 85,
+      "question": "Ich habe mich im Zimmer sehr wohlgefühlt.",
+      "englishTranslation": "I felt very comfortable in the room.",
+      "options": [
+        "Ich habe kein Zimmer.",
+        "Warum fühlen Sie sich wohl?",
+        "Das Zimmer ist sehr klein.",
+        "Das freut uns sehr zu hören."
+      ],
+      "correctIndex": 3,
+      "explanation": "Expressing comfort"
+    },
+    {
+      "id": 86,
+      "question": "Wann kann ich einchecken?",
+      "englishTranslation": "When can I check in?",
+      "options": [
+        "Der Check-in ist ab 15 Uhr möglich.",
+        "Sie können nicht einchecken.",
+        "Das Hotel ist voll.",
+        "Morgens um 8 Uhr."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hotel check-in"
+    },
+    {
+      "id": 87,
+      "question": "Wo ist hier ein Krankenhaus?",
+      "englishTranslation": "Where is a hospital here?",
+      "options": [
+        "Gehen Sie zwei Straßen geradeaus.",
+        "Es gibt kein Krankenhaus hier.",
+        "Das Krankenhaus ist im Meer.",
+        "Ich bin kein Arzt."
+      ],
+      "correctIndex": 0,
+      "explanation": "Asking for hospital"
+    },
+    {
+      "id": 88,
+      "question": "Mir ist schwindlig.",
+      "englishTranslation": "I feel dizzy.",
+      "options": [
+        "Gehen Sie nach Hause schlafen.",
+        "Warum sind Sie schwindlig?",
+        "Das ist normal.",
+        "Soll ich einen Arzt rufen?"
+      ],
+      "correctIndex": 3,
+      "explanation": "Feeling dizzy"
+    },
+    {
+      "id": 89,
+      "question": "Ich habe mich verletzt.",
+      "englishTranslation": "I have injured myself.",
+      "options": [
+        "Warum haben Sie das getan?",
+        "Wo tut es denn weh?",
+        "Das ist nicht möglich.",
+        "Ich bin kein Arzt."
+      ],
+      "correctIndex": 1,
+      "explanation": "Reporting injury"
+    },
+    {
+      "id": 90,
+      "question": "Können Sie mir den Weg zur Polizei zeigen?",
+      "englishTranslation": "Can you show me the way to the police station?",
+      "options": [
+        "Nein, ich kenne den Weg nicht.",
+        "Ja, gehen Sie hier rechts.",
+        "Die Polizei ist geschlossen.",
+        "Ich bin der Polizist."
+      ],
+      "correctIndex": 1,
+      "explanation": "Asking for police station"
+    },
+    {
+      "id": 91,
+      "question": "Ich habe meine Tasche verloren.",
+      "englishTranslation": "I have lost my bag.",
+      "options": [
+        "Die Tasche ist hässlich.",
+        "Warum haben Sie sie verloren?",
+        "Das tut mir leid. Wo war das?",
+        "Kaufen Sie eine neue."
+      ],
+      "correctIndex": 2,
+      "explanation": "Reporting lost item"
+    },
+    {
+      "id": 92,
+      "question": "Treffen wir uns morgen?",
+      "englishTranslation": "Shall we meet tomorrow?",
+      "options": [
+        "Gestern war besser.",
+        "Nein, ich mag dich nicht.",
+        "Ja, um wie viel Uhr?",
+        "Ich bin immer da."
+      ],
+      "correctIndex": 2,
+      "explanation": "Making plans with friends"
+    },
+    {
+      "id": 93,
+      "question": "Was machst du am Wochenende?",
+      "englishTranslation": "What are you doing on the weekend?",
+      "options": [
+        "Ich arbeite im Büro.",
+        "Ich gehe mit Freunden ins Kino.",
+        "Ich schlafe den ganzen Tag.",
+        "Das Wochenende ist lang."
+      ],
+      "correctIndex": 1,
+      "explanation": "Weekend plans with friends"
+    },
+    {
+      "id": 94,
+      "question": "Vielen Dank für deine Hilfe!",
+      "englishTranslation": "Thank you very much for your help!",
+      "options": [
+        "Gern geschehen!",
+        "Ich habe nicht geholfen.",
+        "Danke für das Geld.",
+        "Das war nicht nötig."
+      ],
+      "correctIndex": 0,
+      "explanation": "Thanking friends"
+    },
+    {
+      "id": 95,
+      "question": "Entschuldigung, ich bin zu spät.",
+      "englishTranslation": "Sorry, I'm late.",
+      "options": [
+        "Kein Problem, wir warten noch.",
+        "Das ist nicht erlaubt.",
+        "Geh wieder nach Hause.",
+        "Du darfst nicht hereinkommen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Apologizing for being late"
+    },
+    {
+      "id": 96,
+      "question": "Wie geht es deiner Familie?",
+      "englishTranslation": "How is your family doing?",
+      "options": [
+        "Ich habe keine Familie.",
+        "Sie ist nicht hier.",
+        "Meine Familie ist groß.",
+        "Ihnen geht es gut, danke."
+      ],
+      "correctIndex": 3,
+      "explanation": "Asking about family"
+    },
+    {
+      "id": 97,
+      "question": "Was hast du gestern Abend gemacht?",
+      "englishTranslation": "What did you do yesterday evening?",
+      "options": [
+        "Gestern war Montag.",
+        "Ich habe geschlafen.",
+        "Ich bin mit Freunden essen gegangen.",
+        "Ich weiß es nicht mehr."
+      ],
+      "correctIndex": 2,
+      "explanation": "Past activities with friends"
+    },
+    {
+      "id": 98,
+      "question": "Kannst du mir das Buch leihen?",
+      "englishTranslation": "Can you lend me the book?",
+      "options": [
+        "Ja, hier bitte. Wann gibst du es zurück?",
+        "Nein, ich lese es gerade.",
+        "Ich habe kein Buch.",
+        "Du darfst nicht lesen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Borrowing from friends"
+    },
+    {
+      "id": 99,
+      "question": "Wollen wir zusammen lernen?",
+      "englishTranslation": "Shall we study together?",
+      "options": [
+        "Nein, ich lerne allein besser.",
+        "Ja, das ist eine gute Idee.",
+        "Ich will nicht lernen.",
+        "Lernen ist langweilig."
+      ],
+      "correctIndex": 1,
+      "explanation": "Studying together"
+    },
+    {
+      "id": 100,
+      "question": "Ich freue mich auf das Konzert!",
+      "englishTranslation": "I'm looking forward to the concert!",
+      "options": [
+        "Ich auch! Es wird bestimmt toll.",
+        "Das Konzert ist ausverkauft.",
+        "Ich mag keine Musik.",
+        "Das ist zu laut."
+      ],
+      "correctIndex": 0,
+      "explanation": "Looking forward to event"
+    }
+  ]
+}

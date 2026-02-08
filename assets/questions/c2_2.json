@@ -1,0 +1,1207 @@
+{
+  "level": "C2.2",
+  "title": "Mastery+ German - Native-Level Idioms & Complex Structures",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Da beißt die Maus keinen Faden ab.",
+      "options": [
+        "Es gibt da keinen Erfolg.",
+        "You can't get blood from a stone.",
+        "Da kann man nichts machen.",
+        "The mouse won't bite any thread there."
+      ],
+      "correctIndex": 1,
+      "explanation": "This idiom means something is impossible or hopeless"
+    },
+    {
+      "id": 2,
+      "question": "Er hat nicht alle Tassen im Schrank.",
+      "options": [
+        "Er ist nicht ganz dicht.",
+        "Er hat einen an der Waffel.",
+        "He's not the sharpest tool in the shed.",
+        "He doesn't have all cups in the cupboard."
+      ],
+      "correctIndex": 2,
+      "explanation": "Common idiom for someone being crazy or eccentric"
+    },
+    {
+      "id": 3,
+      "question": "Das ist mir Wurst.",
+      "options": [
+        "Das interessiert mich nicht.",
+        "I don't care.",
+        "Das ist mir egal.",
+        "That is sausage to me."
+      ],
+      "correctIndex": 1,
+      "explanation": "Colloquial expression for complete indifference"
+    },
+    {
+      "id": 4,
+      "question": "Ich verstehe nur Bahnhof.",
+      "options": [
+        "Das ist mir unverständlich.",
+        "It's all Greek to me.",
+        "Ich verstehe nichts.",
+        "I only understand train station."
+      ],
+      "correctIndex": 1,
+      "explanation": "Idiom meaning you don't understand anything at all"
+    },
+    {
+      "id": 5,
+      "question": "Er spinnt doch!",
+      "options": [
+        "He's spinning!",
+        "Er ist verrückt!",
+        "He's crazy!",
+        "Das ist Unsinn!"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Spinnen' colloquially means to be crazy/nuts"
+    },
+    {
+      "id": 6,
+      "question": "Das passt wie die Faust aufs Auge.",
+      "options": [
+        "Das stimmt nicht überein.",
+        "That fits like the fist on the eye.",
+        "That's completely wrong/inappropriate.",
+        "Das ist völlig unpassend."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ironical idiom meaning something is a very bad fit"
+    },
+    {
+      "id": 7,
+      "question": "Ich glaub mein Schwein pfeift.",
+      "options": [
+        "I can't believe it!",
+        "Ich bin verblüfft.",
+        "Das ist unglaublich!",
+        "I think my pig whistles."
+      ],
+      "correctIndex": 0,
+      "explanation": "Expression of surprise/disbelief (like 'pigs might fly')"
+    },
+    {
+      "id": 8,
+      "question": "Du gehst mir auf den Keks.",
+      "options": [
+        "You're going on my cookie.",
+        "Du nervst mich.",
+        "You're getting on my nerves.",
+        "Du machst mich verrückt."
+      ],
+      "correctIndex": 2,
+      "explanation": "Colloquial expression for annoying someone"
+    },
+    {
+      "id": 9,
+      "question": "Das ist doch klar wie Kloßbrühe.",
+      "options": [
+        "That's crystal clear.",
+        "That's as clear as dumpling broth.",
+        "Das ist sonnenklar.",
+        "Das ist offensichtlich."
+      ],
+      "correctIndex": 0,
+      "explanation": "Broth from dumplings is very clear - means completely obvious"
+    },
+    {
+      "id": 10,
+      "question": "Er hat einen an der Klatsche.",
+      "options": [
+        "Er ist komisch.",
+        "Er ist nicht ganz normal.",
+        "He has one at the clapper.",
+        "He's not quite right in the head."
+      ],
+      "correctIndex": 3,
+      "explanation": "Another colloquialism for being slightly crazy"
+    },
+    {
+      "id": 11,
+      "question": "Da steppt der Bär.",
+      "options": [
+        "Das ist der Hit!",
+        "The bear dances there.",
+        "That's where the party's at!",
+        "Da ist was los!"
+      ],
+      "correctIndex": 2,
+      "explanation": "Expression meaning something is really happening/fun"
+    },
+    {
+      "id": 12,
+      "question": "Ich hab die Nase voll.",
+      "options": [
+        "Ich bin sauer.",
+        "I have the nose full.",
+        "I'm fed up.",
+        "Ich habe genug."
+      ],
+      "correctIndex": 2,
+      "explanation": "Common expression for being fed up with something"
+    },
+    {
+      "id": 13,
+      "question": "Lass mal die Kirche im Dorf.",
+      "options": [
+        "Don't get carried away.",
+        "Übertreib es nicht.",
+        "Leave the church in the village.",
+        "Bleib realistisch."
+      ],
+      "correctIndex": 0,
+      "explanation": "Idiom meaning don't exaggerate or get too excited"
+    },
+    {
+      "id": 14,
+      "question": "Das ist Jacke wie Hose.",
+      "options": [
+        "Es macht keinen Unterschied.",
+        "It's all the same.",
+        "That's jacket like pants.",
+        "Das ist egal."
+      ],
+      "correctIndex": 1,
+      "explanation": "Idiom meaning two things are essentially the same"
+    },
+    {
+      "id": 15,
+      "question": "Jetzt mal butter bei die Fische.",
+      "options": [
+        "Sei direkt.",
+        "Komm zur Sache.",
+        "Now butter with the fish.",
+        "Let's get to the point."
+      ],
+      "correctIndex": 3,
+      "explanation": "Expression urging someone to speak plainly/directly"
+    },
+    {
+      "id": 16,
+      "question": "Er hat sich ins Knie gefallen.",
+      "options": [
+        "Das ging nach hinten los.",
+        "He fell into his knee.",
+        "Er hat einen Fehler gemacht.",
+        "He shot himself in the foot."
+      ],
+      "correctIndex": 3,
+      "explanation": "German equivalent of 'shot himself in the foot'"
+    },
+    {
+      "id": 17,
+      "question": "Das ist nicht das Gelbe vom Ei.",
+      "options": [
+        "That's not the yellow of the egg.",
+        "That's not the best/crème de la crème.",
+        "Das ist nicht das Beste.",
+        "Das ist mittelmäßig."
+      ],
+      "correctIndex": 1,
+      "explanation": "The egg yolk is the best part - means not the best quality"
+    },
+    {
+      "id": 18,
+      "question": "Ich bin fix und fertig.",
+      "options": [
+        "I'm fixed and finished.",
+        "Ich bin müde.",
+        "I'm exhausted.",
+        "Ich bin kaputt."
+      ],
+      "correctIndex": 2,
+      "explanation": "Common expression for being completely exhausted"
+    },
+    {
+      "id": 19,
+      "question": "Das geht mir gegen den Strich.",
+      "options": [
+        "That goes against my principles.",
+        "Das widerspricht mir.",
+        "Das gefällt mir nicht.",
+        "That goes against the grain."
+      ],
+      "correctIndex": 0,
+      "explanation": "Something that goes against one's nature/principles"
+    },
+    {
+      "id": 20,
+      "question": "Er sitzt zwischen den Stühlen.",
+      "options": [
+        "Er muss sich entscheiden.",
+        "He's sitting between the chairs.",
+        "Er ist in der Zwickmühle.",
+        "He's caught between two stools."
+      ],
+      "correctIndex": 3,
+      "explanation": "German equivalent of 'falling between two stools'"
+    },
+    {
+      "id": 21,
+      "question": "Da liegt der Hund begraben.",
+      "options": [
+        "Da ist das Problem.",
+        "That's where the dog is buried.",
+        "That's the crux of the matter.",
+        "Das ist der springende Punkt."
+      ],
+      "correctIndex": 2,
+      "explanation": "Idiom indicating the heart/core of the problem"
+    },
+    {
+      "id": 22,
+      "question": "Jetzt geht's um die Wurst.",
+      "options": [
+        "Jetzt geht es um alles.",
+        "Jetzt wird es ernst.",
+        "Now it's about the sausage.",
+        "Now it's crunch time."
+      ],
+      "correctIndex": 3,
+      "explanation": "Expression for when things get serious/decisive"
+    },
+    {
+      "id": 23,
+      "question": "Ich bin auf dem Schlauch.",
+      "options": [
+        "I'm on the hose.",
+        "I'm drawing a blank.",
+        "Ich komme nicht drauf.",
+        "Ich habe ein Brett vor dem Kopf."
+      ],
+      "correctIndex": 1,
+      "explanation": "Expression for when you can't think of something"
+    },
+    {
+      "id": 24,
+      "question": "Das hat er sich in den Kopf gesetzt.",
+      "options": [
+        "He's set on doing that.",
+        "Er ist stur.",
+        "Er lässt nicht locker.",
+        "He set that in his head."
+      ],
+      "correctIndex": 0,
+      "explanation": "Means someone is determined/dogged about something"
+    },
+    {
+      "id": 25,
+      "question": "Sie hat ihn auf dem Kieker.",
+      "options": [
+        "She has her eye on him./She's after him.",
+        "She has him on the keeker.",
+        "Sie will ihn erwischen.",
+        "Sie beobachtet ihn."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Kieker' (spyglass) means watching/targeting someone"
+    },
+    {
+      "id": 26,
+      "question": "Das lässt er sich nicht zweimal sagen.",
+      "options": [
+        "Er zögert nicht.",
+        "Er ist sofort dabei.",
+        "He doesn't let that be said to him twice.",
+        "He jumps at the opportunity."
+      ],
+      "correctIndex": 3,
+      "explanation": "Eager/willing to do something immediately"
+    },
+    {
+      "id": 27,
+      "question": "Er hat das Herz auf dem rechten Fleck.",
+      "options": [
+        "He has his heart in the right spot.",
+        "He's a good person at heart.",
+        "Er meint es gut.",
+        "Er ist ein guter Mensch."
+      ],
+      "correctIndex": 1,
+      "explanation": "German equivalent of 'heart in the right place'"
+    },
+    {
+      "id": 28,
+      "question": "Das ist mir zu hoch.",
+      "options": [
+        "Das ist zu schwierig.",
+        "Das verstehe ich nicht.",
+        "That's too high for me.",
+        "That's beyond me."
+      ],
+      "correctIndex": 3,
+      "explanation": "Something is too complex/difficult to understand"
+    },
+    {
+      "id": 29,
+      "question": "Sie nimmt kein Blatt vor den Mund.",
+      "options": [
+        "Sie sagt die Wahrheit.",
+        "She speaks her mind plainly.",
+        "She doesn't take a leaf before her mouth.",
+        "Sie ist direkt."
+      ],
+      "correctIndex": 1,
+      "explanation": "Not mincing words, speaking plainly/bluntly"
+    },
+    {
+      "id": 30,
+      "question": "Er redet sich um Kopf und Kragen.",
+      "options": [
+        "Er redet zu viel.",
+        "Er bringt sich in Gefahr.",
+        "He talks himself around head and collar.",
+        "He's talking himself into big trouble."
+      ],
+      "correctIndex": 3,
+      "explanation": "Talking oneself into serious danger/trouble"
+    },
+    {
+      "id": 31,
+      "question": "Das ist ein Fass ohne Boden.",
+      "options": [
+        "Das kostet zu viel.",
+        "Das hat kein Ende.",
+        "That's a bottomless pit.",
+        "That's a barrel without a bottom."
+      ],
+      "correctIndex": 2,
+      "explanation": "Something that seems endless or consumes unlimited resources"
+    },
+    {
+      "id": 32,
+      "question": "Ich stehe auf dem Schlauch.",
+      "options": [
+        "Ich weiß nicht weiter.",
+        "Ich habe eine Blockade.",
+        "I'm standing on the hose.",
+        "I'm stuck."
+      ],
+      "correctIndex": 3,
+      "explanation": "Having a mental block, can't think of something"
+    },
+    {
+      "id": 33,
+      "question": "Das ist nicht von Pappe.",
+      "options": [
+        "Das ist beeindruckend.",
+        "Das ist gut gemacht.",
+        "That's impressive/substantial.",
+        "That's not made of cardboard."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Nicht von Pappe sein' means to be impressive/competent"
+    },
+    {
+      "id": 34,
+      "question": "Er ist auf dem Trockenen.",
+      "options": [
+        "Er hat kein Geld mehr.",
+        "Er ist pleite.",
+        "He's on the dry.",
+        "He's broke./Out of money."
+      ],
+      "correctIndex": 3,
+      "explanation": "Having no more alcohol, or colloquially: having no money"
+    },
+    {
+      "id": 35,
+      "question": "Die Kirche im Dorf lassen.",
+      "options": [
+        "Realistisch bleiben.",
+        "Don't get carried away.",
+        "Leave the church in the village.",
+        "Nicht übertreiben."
+      ],
+      "correctIndex": 1,
+      "explanation": "Stay grounded, don't exaggerate or get ahead of yourself"
+    },
+    {
+      "id": 36,
+      "question": "Da kannst du Gift drauf nehmen.",
+      "options": [
+        "Das ist sicher.",
+        "You can bet your life on it.",
+        "Das kannst du direr sein.",
+        "You can take poison on that."
+      ],
+      "correctIndex": 1,
+      "explanation": "Extremely certain about something"
+    },
+    {
+      "id": 37,
+      "question": "Er hat einen Vogel.",
+      "options": [
+        "He's crazy.",
+        "Er ist verrückt.",
+        "He has a bird.",
+        "Er spinnt."
+      ],
+      "correctIndex": 0,
+      "explanation": "Colloquial expression for being crazy"
+    },
+    {
+      "id": 38,
+      "question": "Das ist unter aller Sau.",
+      "options": [
+        "Das ist schlecht.",
+        "That's under all sow.",
+        "Das geht gar nicht.",
+        "That's terrible/unacceptable."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vulgar expression for something being really bad"
+    },
+    {
+      "id": 39,
+      "question": "Ich bin raus aus der Nummer.",
+      "options": [
+        "Ich mache nicht mehr mit.",
+        "I'm out of the number.",
+        "I'm done with that./Count me out.",
+        "Ich bin raus."
+      ],
+      "correctIndex": 2,
+      "explanation": "Withdrawing from a situation/commitment"
+    },
+    {
+      "id": 40,
+      "question": "Er hat sie alle nicht mehr.",
+      "options": [
+        "He's lost his marbles.",
+        "Er spinnt.",
+        "He doesn't have them all anymore.",
+        "Er ist nicht mehr ganz dicht."
+      ],
+      "correctIndex": 0,
+      "explanation": "Colloquial for being crazy or not thinking clearly"
+    },
+    {
+      "id": 41,
+      "question": "Das ist mir schnurzpiepegal.",
+      "options": [
+        "Das ist mir egal.",
+        "Das kümmert mich nicht.",
+        "I couldn't care less.",
+        "That's schnurzpiepegal to me."
+      ],
+      "correctIndex": 2,
+      "explanation": "Very colloquial expression for complete indifference"
+    },
+    {
+      "id": 42,
+      "question": "Da hast du den Salat.",
+      "options": [
+        "Das ist schiefgelaufen.",
+        "Now you've got a mess.",
+        "Jetzt hast du ein Problem.",
+        "There you have the salad."
+      ],
+      "correctIndex": 1,
+      "explanation": "Now there's trouble/a mess (from 'salad' meaning confusion)"
+    },
+    {
+      "id": 43,
+      "question": "Er ist auf Wolke sieben.",
+      "options": [
+        "He's on cloud nine./Ecstatic.",
+        "He's on cloud seven.",
+        "Er ist verliebt.",
+        "Er ist total glücklich."
+      ],
+      "correctIndex": 0,
+      "explanation": "German uses cloud seven, English uses cloud nine"
+    },
+    {
+      "id": 44,
+      "question": "Das geht auf keine Kuhhaut.",
+      "options": [
+        "Das ist zu viel.",
+        "That's unbelievable/outrageous.",
+        "Das ist unglaublich.",
+        "That doesn't go on any cowhide."
+      ],
+      "correctIndex": 1,
+      "explanation": "Something is so unbelievable it couldn't be written down"
+    },
+    {
+      "id": 45,
+      "question": "Ich habe die Schnauze voll.",
+      "options": [
+        "I have the snout full.",
+        "Ich bin sauer.",
+        "Ich habe genug.",
+        "I'm fed up."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vulgar way of saying you're fed up (like 'up to here')"
+    },
+    {
+      "id": 46,
+      "question": "Er ist auf dem Holzweg.",
+      "options": [
+        "Er ist falsch.",
+        "He's on the woodway.",
+        "Er hat sich geirrt.",
+        "He's barking up the wrong tree."
+      ],
+      "correctIndex": 3,
+      "explanation": "Completely mistaken, on the wrong track"
+    },
+    {
+      "id": 47,
+      "question": "Das macht nicht die Bohne.",
+      "options": [
+        "That doesn't matter at all.",
+        "Das ist unwichtig.",
+        "That doesn't make the bean.",
+        "Das macht nichts aus."
+      ],
+      "correctIndex": 0,
+      "explanation": "Something makes no difference whatsoever"
+    },
+    {
+      "id": 48,
+      "question": "Er ist nicht die hellste Kerze auf der Torte.",
+      "options": [
+        "He's not the brightest candle on the cake.",
+        "He's not the sharpest knife in the drawer.",
+        "Er ist langsam.",
+        "Er ist nicht besonders intelligent."
+      ],
+      "correctIndex": 1,
+      "explanation": "Euphemism for someone not being very smart"
+    },
+    {
+      "id": 49,
+      "question": "Ich habe keine Lust mehr, mir das anzutun.",
+      "options": [
+        "Das reicht mir.",
+        "I can't be bothered anymore.",
+        "I have no more desire to do that to myself.",
+        "Ich will das nicht mehr machen."
+      ],
+      "correctIndex": 1,
+      "explanation": "No longer willing to put up with something"
+    },
+    {
+      "id": 50,
+      "question": "Das ist ein typisches Rohrkrepierer.",
+      "options": [
+        "That's a damp squib.",
+        "That's a typical pipe-dud.",
+        "Das war nichts.",
+        "Das ist enttäuschend."
+      ],
+      "correctIndex": 0,
+      "explanation": "Something that fizzles out, fails to meet expectations"
+    },
+    {
+      "id": 51,
+      "question": "Er ist auf Kriegsfuß mit ihm.",
+      "options": [
+        "Sie streiten oft.",
+        "Sie können sich nicht leiden.",
+        "He's on war-foot with him.",
+        "He's at loggerheads with him."
+      ],
+      "correctIndex": 3,
+      "explanation": "Being in conflict/at odds with someone"
+    },
+    {
+      "id": 52,
+      "question": "Das hat er davon.",
+      "options": [
+        "Er hat es verdient.",
+        "That serves him right.",
+        "That's what he has from it.",
+        "Das ist seine Strafe."
+      ],
+      "correctIndex": 1,
+      "explanation": "Serves him right, he got what he deserved"
+    },
+    {
+      "id": 53,
+      "question": "Ich bin schwer von Begriff.",
+      "options": [
+        "I'm slow on the uptake.",
+        "Ich bin langsam.",
+        "I'm heavy of concept.",
+        "Ich verstehe nicht schnell."
+      ],
+      "correctIndex": 0,
+      "explanation": "Self-deprecating way of saying you're slow to understand"
+    },
+    {
+      "id": 54,
+      "question": "Er hat sie nicht alle.",
+      "options": [
+        "He's not all there.",
+        "Er ist nicht ganz dicht.",
+        "He doesn't have them all.",
+        "Er ist komisch."
+      ],
+      "correctIndex": 0,
+      "explanation": "Euphemism for being crazy or eccentric"
+    },
+    {
+      "id": 55,
+      "question": "Das ist nicht mein Bier.",
+      "options": [
+        "That's not my problem/concern.",
+        "Das ist nicht mein Problem.",
+        "Das geht mich nichts an.",
+        "That's not my beer."
+      ],
+      "correctIndex": 0,
+      "explanation": "None of my business, not my concern"
+    },
+    {
+      "id": 56,
+      "question": "Er hat einen Rappel.",
+      "options": [
+        "Er spinnt.",
+        "He has a rattle.",
+        "Er ist verrückt.",
+        "He's crazy/nuts."
+      ],
+      "correctIndex": 3,
+      "explanation": "Colloquial for temporary craziness or obsession"
+    },
+    {
+      "id": 57,
+      "question": "Das ist nicht mehr feierlich.",
+      "options": [
+        "That's not celebratory anymore.",
+        "That's unacceptable/outrageous.",
+        "Das ist unerträglich.",
+        "Das geht zu weit."
+      ],
+      "correctIndex": 1,
+      "explanation": "Something has gone beyond acceptable limits"
+    },
+    {
+      "id": 58,
+      "question": "Ich bin raus.",
+      "options": [
+        "I'm out.",
+        "Ich mache nicht mit.",
+        "Ich gehe.",
+        "I'm out of here./I'm done."
+      ],
+      "correctIndex": 3,
+      "explanation": "Leaving, done with something, not participating"
+    },
+    {
+      "id": 59,
+      "question": "Er hat den Schuss nicht gehört.",
+      "options": [
+        "Er ist nicht auf dem Laufenden.",
+        "Er hat es nicht verstanden.",
+        "He missed the boat./He's clueless.",
+        "He didn't hear the shot."
+      ],
+      "correctIndex": 2,
+      "explanation": "Missed an opportunity, didn't understand what's happening"
+    },
+    {
+      "id": 60,
+      "question": "Das ist weder Fisch noch Fleisch.",
+      "options": [
+        "Das ist unbestimmt.",
+        "That's neither fish nor meat.",
+        "Das ist nicht das eine oder andere.",
+        "That's neither fish nor fowl."
+      ],
+      "correctIndex": 3,
+      "explanation": "Something ambiguous, not clearly one thing or another"
+    },
+    {
+      "id": 61,
+      "question": "Er ist ein Schlawiner.",
+      "options": [
+        "Er ist gerissen.",
+        "He's a sly one.",
+        "He's a rascal/sly dog.",
+        "Er ist schlau."
+      ],
+      "correctIndex": 2,
+      "explanation": "Someone clever/sly in a slightly negative way"
+    },
+    {
+      "id": 62,
+      "question": "Das ist doch alles Käse.",
+      "options": [
+        "That's all cheese.",
+        "Das stimmt nicht.",
+        "That's all nonsense/rubbish.",
+        "Das ist Unsinn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Colloquial way of saying something is nonsense"
+    },
+    {
+      "id": 63,
+      "question": "Ich habe den Überblick verloren.",
+      "options": [
+        "I've lost track.",
+        "Ich bin verwirrt.",
+        "I've lost the overview.",
+        "Ich weiß nicht mehr Bescheid."
+      ],
+      "correctIndex": 0,
+      "explanation": "Can't keep track of everything anymore"
+    },
+    {
+      "id": 64,
+      "question": "Er hat den Bogen raus.",
+      "options": [
+        "He has the bow out.",
+        "He's got the hang of it.",
+        "Er kann es gut.",
+        "Er hat es verstanden."
+      ],
+      "correctIndex": 1,
+      "explanation": "Has figured out how to do something well"
+    },
+    {
+      "id": 65,
+      "question": "Das ist alles nur heiße Luft.",
+      "options": [
+        "Das sind leere Versprechungen.",
+        "Das ist alles nur Gerede.",
+        "That's all just hot air.",
+        "That's all just talk/no substance."
+      ],
+      "correctIndex": 3,
+      "explanation": "Same idiom as English - empty talk without substance"
+    },
+    {
+      "id": 66,
+      "question": "Er ist ein fauler Zauber.",
+      "options": [
+        "Er taugt nichts.",
+        "He's a lazy magic.",
+        "He's a good-for-nothing.",
+        "Er ist faul."
+      ],
+      "correctIndex": 2,
+      "explanation": "Someone unreliable, lazy, or of low quality"
+    },
+    {
+      "id": 67,
+      "question": "Das geht mir auf die Nerven.",
+      "options": [
+        "That gets on my nerves.",
+        "That goes on my nerves.",
+        "Das nervt mich.",
+        "Das ärgert mich."
+      ],
+      "correctIndex": 0,
+      "explanation": "Direct equivalent of 'getting on one's nerves'"
+    },
+    {
+      "id": 68,
+      "question": "Er hat den Dreh raus.",
+      "options": [
+        "Er kann es gut.",
+        "He's got the hang of it.",
+        "Er versteht es.",
+        "He has the turn out."
+      ],
+      "correctIndex": 1,
+      "explanation": "Has mastered the technique, knows how to do it"
+    },
+    {
+      "id": 69,
+      "question": "Das ist ein Scheißtag.",
+      "options": [
+        "Alles läuft schief.",
+        "Es ist ein schlechter Tag.",
+        "That's a shit day.",
+        "It's been a terrible day."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vulgar expression for a really bad day"
+    },
+    {
+      "id": 70,
+      "question": "Er macht einen auf dicke Hose.",
+      "options": [
+        "He makes one on thick pants.",
+        "Er gibt an.",
+        "He's acting all big and important.",
+        "Er tut so, als wäre er wichtig."
+      ],
+      "correctIndex": 2,
+      "explanation": "Acting arrogant, putting on airs"
+    },
+    {
+      "id": 71,
+      "question": "Ich bin am Ende.",
+      "options": [
+        "Ich bin fertig.",
+        "I'm at the end.",
+        "I'm exhausted/at my wit's end.",
+        "Ich kann nicht mehr."
+      ],
+      "correctIndex": 2,
+      "explanation": "Completely exhausted or out of options"
+    },
+    {
+      "id": 72,
+      "question": "Das ist zum Kotzen.",
+      "options": [
+        "Das ist schrecklich.",
+        "That's to vomit.",
+        "That's disgusting/awful.",
+        "Das ist eklig."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vulgar expression for something really bad/disgusting"
+    },
+    {
+      "id": 73,
+      "question": "Er ist ein armer Schlucker.",
+      "options": [
+        "Er ist ein armer Teufel.",
+        "Es geht ihm schlecht.",
+        "He's a poor gulper.",
+        "He's a poor devil/wretch."
+      ],
+      "correctIndex": 3,
+      "explanation": "Pitiful person in unfortunate circumstances"
+    },
+    {
+      "id": 74,
+      "question": "Das ist mir egal, wie das Kind heißt.",
+      "options": [
+        "I don't care what the child is called.",
+        "Das interessiert mich nicht.",
+        "Das ist mir egal.",
+        "I couldn't care less."
+      ],
+      "correctIndex": 3,
+      "explanation": "Emphatic way of saying you don't care at all"
+    },
+    {
+      "id": 75,
+      "question": "Er hat einen an der Waffel.",
+      "options": [
+        "Er spinnt.",
+        "He's crazy/not right.",
+        "Er ist verrückt.",
+        "He has one at the waffle."
+      ],
+      "correctIndex": 1,
+      "explanation": "Colloquial expression for being slightly crazy"
+    },
+    {
+      "id": 76,
+      "question": "Das ist alles Müll.",
+      "options": [
+        "That's all garbage.",
+        "Das ist alles Unsinn.",
+        "That's all rubbish/nonsense.",
+        "Das ist wertlos."
+      ],
+      "correctIndex": 2,
+      "explanation": "Something is completely worthless or untrue"
+    },
+    {
+      "id": 77,
+      "question": "Er ist ein armer Irrer.",
+      "options": [
+        "Er ist verrückt.",
+        "Er spinnt.",
+        "He's crazy/a lunatic.",
+        "He's a poor madman."
+      ],
+      "correctIndex": 2,
+      "explanation": "Colloquial, slightly pitying way of saying someone is crazy"
+    },
+    {
+      "id": 78,
+      "question": "Ich habe keinen Bock mehr.",
+      "options": [
+        "Ich habe keine Lust mehr.",
+        "I can't be bothered anymore.",
+        "Ich will nicht mehr.",
+        "I have no more buck."
+      ],
+      "correctIndex": 1,
+      "explanation": "Vulgar way of saying you've had enough, lost motivation"
+    },
+    {
+      "id": 79,
+      "question": "Das ist ja wohl der Hammer.",
+      "options": [
+        "Das ist unglaublich.",
+        "Das ist toll.",
+        "That's incredible/awesome.",
+        "That is indeed the hammer."
+      ],
+      "correctIndex": 2,
+      "explanation": "Expression of amazement (positive or negative)"
+    },
+    {
+      "id": 80,
+      "question": "Er ist nicht ganz dicht.",
+      "options": [
+        "Er spinnt.",
+        "Er ist komisch.",
+        "He's not quite tight.",
+        "He's not quite right/crazy."
+      ],
+      "correctIndex": 3,
+      "explanation": "Euphemism for someone being slightly crazy"
+    },
+    {
+      "id": 81,
+      "question": "Das ist doch alles hohles Geschwätz.",
+      "options": [
+        "That's all hollow chatter.",
+        "That's all empty talk.",
+        "Das ist alles nur Gerede.",
+        "Das hat keinen Sinn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Something is meaningless, empty talk without substance"
+    },
+    {
+      "id": 82,
+      "question": "Er ist ein armer Tropf.",
+      "options": [
+        "Er ist bemitleidenswert.",
+        "He's a poor sod/wretch.",
+        "He's a poor drop.",
+        "Er ist ein armer Teufel."
+      ],
+      "correctIndex": 1,
+      "explanation": "Pitiable, unfortunate person"
+    },
+    {
+      "id": 83,
+      "question": "Ich bin am Verzweifeln.",
+      "options": [
+        "I'm desperate.",
+        "Ich weiß nicht weiter.",
+        "I'm at despairing.",
+        "Ich verzweifle."
+      ],
+      "correctIndex": 0,
+      "explanation": "At the point of despair, don't know what to do"
+    },
+    {
+      "id": 84,
+      "question": "Das ist zum Mäusemelken.",
+      "options": [
+        "That's to milk mice.",
+        "Das ist sinnlos.",
+        "That's impossible/impossibly difficult.",
+        "Das ist unmöglich."
+      ],
+      "correctIndex": 2,
+      "explanation": "Idiom for something extremely difficult or pointless"
+    },
+    {
+      "id": 85,
+      "question": "Er ist ein fauler Hund.",
+      "options": [
+        "He's a lazy good-for-nothing.",
+        "He's a lazy dog.",
+        "Er ist faul.",
+        "Er taugt nichts."
+      ],
+      "correctIndex": 0,
+      "explanation": "Colloquial way of calling someone lazy/useless"
+    },
+    {
+      "id": 86,
+      "question": "Ich habe die Nase gestrichen voll.",
+      "options": [
+        "I'm absolutely fed up.",
+        "Ich bin sauer.",
+        "I have my nose rubbed full.",
+        "Ich habe genug."
+      ],
+      "correctIndex": 0,
+      "explanation": "Emphatic version of being fed up"
+    },
+    {
+      "id": 87,
+      "question": "Das ist doch alles Humbug.",
+      "options": [
+        "Das ist Unsinn.",
+        "That's all nonsense/rubbish.",
+        "Das stimmt nicht.",
+        "That's all humbug."
+      ],
+      "correctIndex": 1,
+      "explanation": "Old-fashioned but still used term for nonsense"
+    },
+    {
+      "id": 88,
+      "question": "Er ist ein armer Wicht.",
+      "options": [
+        "He's a poor creature.",
+        "Er ist bemitleidenswert.",
+        "He's a poor soul/wretch.",
+        "Er ist unglücklich."
+      ],
+      "correctIndex": 2,
+      "explanation": "Old-fashioned term for a pitiable person"
+    },
+    {
+      "id": 89,
+      "question": "Ich bin am Ende meiner Weisheit.",
+      "options": [
+        "I'm at the end of my wisdom.",
+        "Ich weiß nicht weiter.",
+        "I'm at my wit's end.",
+        "Ich bin ratlos."
+      ],
+      "correctIndex": 2,
+      "explanation": "Don't know what to do anymore, out of ideas"
+    },
+    {
+      "id": 90,
+      "question": "Das ist doch alles dummes Zeug.",
+      "options": [
+        "That's all stupid stuff.",
+        "That's all nonsense.",
+        "Das ist alles Unsinn.",
+        "Das ist alles Blödsinn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Dismissive way of saying something is nonsense"
+    },
+    {
+      "id": 91,
+      "question": "Er ist ein ganz Fieser.",
+      "options": [
+        "Er ist gemein.",
+        "He's a very nasty one.",
+        "He's really nasty/mean.",
+        "Er ist fies."
+      ],
+      "correctIndex": 2,
+      "explanation": "Colloquial way of saying someone is nasty/mean"
+    },
+    {
+      "id": 92,
+      "question": "Ich habe keine Nerven mehr dafür.",
+      "options": [
+        "I have no more nerves for that.",
+        "I can't deal with that anymore.",
+        "Ich bin genervt.",
+        "Ich kann das nicht mehr ertragen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Don't have the patience/nerves to deal with something"
+    },
+    {
+      "id": 93,
+      "question": "Das ist doch alles Makulatur.",
+      "options": [
+        "Das ist alles Unsinn.",
+        "Das ist alles wertlos.",
+        "That's all maculature.",
+        "That's all worthless/rubbish."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Makulatur' literally means waste paper, used for worthless things"
+    },
+    {
+      "id": 94,
+      "question": "Er ist ein ganz Übler.",
+      "options": [
+        "He's really bad/nasty.",
+        "Er ist schlimm.",
+        "Er ist böse.",
+        "He's a very bad one."
+      ],
+      "correctIndex": 0,
+      "explanation": "Colloquial way of saying someone is bad/nasty"
+    },
+    {
+      "id": 95,
+      "question": "Ich bin am Ende meines Lateins.",
+      "options": [
+        "Ich weiß nicht mehr weiter.",
+        "I'm at the end of my Latin.",
+        "I'm at my wit's end.",
+        "Ich bin ratlos."
+      ],
+      "correctIndex": 2,
+      "explanation": "Idiomatic expression for being out of ideas/solutions"
+    },
+    {
+      "id": 96,
+      "question": "Das ist doch alles Schnee von gestern.",
+      "options": [
+        "That's all old hat/water under the bridge.",
+        "That's all snow from yesterday.",
+        "Das ist alles vorbei.",
+        "Das interessiert niemanden mehr."
+      ],
+      "correctIndex": 0,
+      "explanation": "Something is outdated, no longer relevant"
+    },
+    {
+      "id": 97,
+      "question": "Er ist ein ganz Gemeiner.",
+      "options": [
+        "He's really mean/nasty.",
+        "He's a very common one.",
+        "Er ist gemein.",
+        "Er ist böse."
+      ],
+      "correctIndex": 0,
+      "explanation": "Colloquial way of saying someone is mean"
+    },
+    {
+      "id": 98,
+      "question": "Ich habe die Schnauze gestrichen voll.",
+      "options": [
+        "I'm absolutely fed up.",
+        "Ich bin sauer.",
+        "I have my snout rubbed full.",
+        "Ich habe genug."
+      ],
+      "correctIndex": 0,
+      "explanation": "Vulgar, emphatic way of saying you're fed up"
+    },
+    {
+      "id": 99,
+      "question": "Das ist doch alles Quatsch.",
+      "options": [
+        "That's all quatsch.",
+        "Das ist alles Unsinn.",
+        "That's all nonsense/rubbish.",
+        "Das ist alles Blödsinn."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Quatsch' is a common colloquial word for nonsense"
+    },
+    {
+      "id": 100,
+      "question": "Er ist ein armer Irrer.",
+      "options": [
+        "He's a poor crazy soul.",
+        "He's a poor madman.",
+        "Er ist verrückt.",
+        "Er spinnt."
+      ],
+      "correctIndex": 0,
+      "explanation": "Colloquial, slightly pitying term for someone crazy"
+    }
+  ]
+}

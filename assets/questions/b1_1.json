@@ -1,0 +1,1307 @@
+{
+  "level": "B1.1",
+  "title": "Intermediate German - Complex Discourse & Abstract Concepts",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Hättest du das Projekt angenommen, wenn du gewusst hättest, wie viel Arbeit es bedeutet?",
+      "englishTranslation": "Would you have accepted the project if you had known how much work it meant?",
+      "options": [
+        "Ja, auf jeden Fall.",
+        "Nein, ich hätte es unter keinen Umständen angenommen.",
+        "Ich weiß es nicht.",
+        "Vielleicht hätte ich es versucht."
+      ],
+      "correctIndex": 1,
+      "explanation": "Plusquamperfekt im Konjunktiv II"
+    },
+    {
+      "id": 2,
+      "question": "Was hätte geschehen können, wenn die Präsentation nicht erfolgreich verlaufen wäre?",
+      "englishTranslation": "What could have happened if the presentation had not been successful?",
+      "options": [
+        "Nichts wäre passiert.",
+        "Das Unternehmen hätte den Auftrag verloren und Entlassungen hätten folgen können.",
+        "Alle hätten gefeiert.",
+        "Es wäre besser geworden."
+      ],
+      "correctIndex": 1,
+      "explanation": "Konjunktiv II Plusquamperfekt für hypothetische Ketten"
+    },
+    {
+      "id": 3,
+      "question": "Er behauptet, dass er die Deadline eingehalten habe, obwohl...",
+      "englishTranslation": "He claims that he met the deadline, although everyone knows he delivered a week late.",
+      "options": [
+        "...niemand etwas sagt.",
+        "...alles gut war.",
+        "...er pünktlich war.",
+        "...jeder weiß, dass er eine Woche zu spät abgeliefert hat."
+      ],
+      "correctIndex": 3,
+      "explanation": "Konjunktiv I für indirekte Rede"
+    },
+    {
+      "id": 4,
+      "question": "Laut seinem Bericht sei die Situation unter Kontrolle gewesen, bevor...",
+      "englishTranslation": "According to his report, the situation had been under control before the new problems appeared.",
+      "options": [
+        "...die neuen Probleme aufgetaucht seien.",
+        "...alles gut war.",
+        "...wir angefangen haben.",
+        "...nichts passiert ist."
+      ],
+      "correctIndex": 0,
+      "explanation": "Konjunktiv I Perfekt in der indirekten Rede"
+    },
+    {
+      "id": 5,
+      "question": "Wenn ich an deiner Stelle gewesen wäre, hätte ich...",
+      "englishTranslation": "If I had been in your place, I wouldn't have agreed before I had known all the details.",
+      "options": [
+        "...nichts getan.",
+        "...sofort unterschrieben.",
+        "...nicht zugestimmt, bevor ich alle Details gekannt hätte.",
+        "...den Chef angerufen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Irreale Vergangenheit mit Plusquamperfekt"
+    },
+    {
+      "id": 6,
+      "question": "Die Tatsache, dass er nicht zum Meeting erschienen ist, lässt darauf schließen, dass...",
+      "englishTranslation": "The fact that he didn't appear at the meeting suggests that either there was an emergency or he lost interest.",
+      "options": [
+        "...er schläft.",
+        "...er krank ist.",
+        "...entweder ein Notfall vorlag oder er das Interesse verloren hat.",
+        "...nichts los ist."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nominalisierungen mit 'die Tatsache, dass'"
+    },
+    {
+      "id": 7,
+      "question": "Angenommen, das Unternehmen würde fusionieren, welche Konsequenzen hätte das für die Mitarbeiter?",
+      "englishTranslation": "Assuming the company were to merge, what consequences would that have for the employees?",
+      "options": [
+        "Es hätte zur Folge, dass einige Abteilungen geschlossen und Stellen gestrichen würden.",
+        "Nichts würde passieren.",
+        "Alle wären glücklich.",
+        "Es wäre gut."
+      ],
+      "correctIndex": 0,
+      "explanation": "Konjunktiv II für hypothetische Szenarien"
+    },
+    {
+      "id": 8,
+      "question": "Der Vorschlag, den er unterbreitet hat, lässt zu wünschen übrig, da...",
+      "englishTranslation": "The proposal he presented leaves something to be desired, as it seems neither feasible nor cost-efficient.",
+      "options": [
+        "...alle zustimmen.",
+        "...er gut ist.",
+        "...er weder praktikabel noch kosteneffizient zu sein scheint.",
+        "...er billig ist."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kritische Bewertung mit Infinitiv"
+    },
+    {
+      "id": 9,
+      "question": "Soweit mir bekannt ist, soll das neue Gesetz...",
+      "englishTranslation": "As far as I know, the new law is supposed to come into effect next month and affect all contracts.",
+      "options": [
+        "...bereits nächsten Monat in Kraft treten und alle Verträge betreffen.",
+        "...abgelehnt werden.",
+        "...nicht existieren.",
+        "...geschrieben werden."
+      ],
+      "correctIndex": 0,
+      "explanation": "Indirekte Rede mit 'sollen'"
+    },
+    {
+      "id": 10,
+      "question": "Ohne dass es ihm bewusst gewesen wäre, hatte er...",
+      "englishTranslation": "Without it having been conscious to him, he had compromised the entire course of the conversation.",
+      "options": [
+        "...gearbeitet.",
+        "...nichts getan.",
+        "...geschlafen.",
+        "...den gesamten Verlauf des Gesprächs kompromittiert."
+      ],
+      "correctIndex": 3,
+      "explanation": "Partizip Perfekt im Nebensatz"
+    },
+    {
+      "id": 11,
+      "question": "Es steht zu befürchten, dass...",
+      "englishTranslation": "It is to be feared that profits will decline significantly next quarter.",
+      "options": [
+        "...wir erfolgreich sind.",
+        "...alles gut wird.",
+        "...die Gewinne im nächsten Quartal deutlich sinken werden.",
+        "...nichts passiert."
+      ],
+      "correctIndex": 2,
+      "explanation": "Futurische Aussagen mit Konjunktiv I"
+    },
+    {
+      "id": 12,
+      "question": "Er gab zu, den Fehler begangen zu haben, ohne jedoch...",
+      "englishTranslation": "He admitted to having made the mistake without, however, offering a solution for the resulting chaos.",
+      "options": [
+        "...eine Lösung für das entstandene Chaos anzubieten.",
+        "...zu entschuldigen.",
+        "...zu arbeiten.",
+        "...zu kommen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Infinitivsätze mit 'ohne ... zu'"
+    },
+    {
+      "id": 13,
+      "question": "Im Falle einer Kündigung müssten wir damit rechnen, dass...",
+      "englishTranslation": "In the event of a termination, we would have to reckon with the remaining staff not being able to manage the additional work.",
+      "options": [
+        "...alle glücklich sind.",
+        "...alles gut bleibt.",
+        "...das Restpersonal die zusätzliche Arbeit nicht bewältigen könnte.",
+        "...nichts passiert."
+      ],
+      "correctIndex": 2,
+      "explanation": "Konjunktiv II für hypothetische Konsequenzen"
+    },
+    {
+      "id": 14,
+      "question": "Was den Umsatzrückgang anbelangt, so liegt die Vermutung nahe, dass...",
+      "englishTranslation": "Regarding the decline in sales, the suspicion arises that the competition poached our customers with better offers.",
+      "options": [
+        "...alles gut ist.",
+        "...wir erfolgreich waren.",
+        "...die Konkurrenz unsere Kunden mit besseren Angeboten abgeworben hat.",
+        "...die Wirtschaft boomt."
+      ],
+      "correctIndex": 2,
+      "explanation": "Formelle Einleitungen mit 'was ... anbelangt'"
+    },
+    {
+      "id": 15,
+      "question": "Er tat so, als ob er die Unterlagen bereits geprüft hätte, obwohl...",
+      "englishTranslation": "He acted as if he had already checked the documents, although they had only been sent to him an hour ago.",
+      "options": [
+        "...er fleißig war.",
+        "...alles in Ordnung war.",
+        "...sie ihm erst vor einer Stunde zugeschickt worden waren.",
+        "...niemand etwas wusste."
+      ],
+      "correctIndex": 2,
+      "explanation": "Irrealis mit 'als ob' und Plusquamperfekt"
+    },
+    {
+      "id": 16,
+      "question": "Die Notwendigkeit, das Budget zu kürzen, ergibt sich daraus, dass...",
+      "englishTranslation": "The necessity to cut the budget results from the fact that revenues have continuously fallen and costs have risen.",
+      "options": [
+        "...wir sparen wollen.",
+        "...die Einnahmen kontinuierlich gesunken und die Kosten gestiegen sind.",
+        "...es gut ist.",
+        "...wir reich sind."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nominalisierung mit 'die Notwendigkeit'"
+    },
+    {
+      "id": 17,
+      "question": "Es liegt auf der Hand, dass das Projekt scheitern wird, sofern...",
+      "englishTranslation": "It is obvious that the project will fail unless additional funds are provided immediately.",
+      "options": [
+        "...wir arbeiten.",
+        "...nicht unverzüglich zusätzliche Mittel bereitgestellt werden.",
+        "...der Chef kommt.",
+        "...alle helfen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Bedingungssätze mit 'sofern'"
+    },
+    {
+      "id": 18,
+      "question": "Man muss bedenken, dass eine Änderung der Strategie...",
+      "englishTranslation": "One must consider that a change in strategy could not be implemented overnight and would cause considerable costs.",
+      "options": [
+        "...billig ist.",
+        "...einfach ist.",
+        "...gut wäre.",
+        "...nicht von heute auf morging umzusetzen wäre und erhebliche Kosten verursachen würde."
+      ],
+      "correctIndex": 3,
+      "explanation": "Komplexe Konjunktiv II Konstruktionen"
+    },
+    {
+      "id": 19,
+      "question": "Er zweifelt daran, ob die geplanten Maßnahmen...",
+      "englishTranslation": "He doubts whether the planned measures will achieve the desired effect and solve the problem sustainably.",
+      "options": [
+        "...billig sind.",
+        "...gut sind.",
+        "...stattfinden.",
+        "...den gewünschten Effekt erzielen und das Problem nachhaltig lösen werden."
+      ],
+      "correctIndex": 3,
+      "explanation": "Zweifel ausdrücken mit Konjunktiv"
+    },
+    {
+      "id": 20,
+      "question": "Der Chef ließ durchblicken, dass er mit der aktuellen Leistung...",
+      "englishTranslation": "The boss hinted that he was not satisfied with the current performance and expected changes.",
+      "options": [
+        "...glücklich ist.",
+        "...nicht zufrieden sei und Änderungen erwarte.",
+        "...zufrieden ist.",
+        "...nichts sagen will."
+      ],
+      "correctIndex": 1,
+      "explanation": "Indirekte Rede mit 'durchblicken lassen'"
+    },
+    {
+      "id": 21,
+      "question": "Vorausgesetzt, dass alle Mitglieder zustimmen, könnten wir...",
+      "englishTranslation": "Provided that all members agree, we could begin the restructuring as early as next week.",
+      "options": [
+        "...nichts tun.",
+        "...bereits nächste Woche mit der Umstrukturierung beginnen.",
+        "...schlafen.",
+        "...nach Hause gehen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Bedingungssätze mit 'vorausgesetzt, dass'"
+    },
+    {
+      "id": 22,
+      "question": "Es ist nicht auszuschließen, dass...",
+      "englishTranslation": "It cannot be ruled out that the company will become insolvent if no investors are found.",
+      "options": [
+        "...die Firma insolvent geht, falls keine Investoren gefunden werden.",
+        "...alles gut wird.",
+        "...wir Erfolg haben.",
+        "...die Wirtschaft wächst."
+      ],
+      "correctIndex": 0,
+      "explanation": "Möglichkeiten ausschließen mit Konjunktiv"
+    },
+    {
+      "id": 23,
+      "question": "Die Frage, ob es sich lohnt, das Risiko einzugehen, hängt davon ab, ob...",
+      "englishTranslation": "The question of whether it is worth taking the risk depends on whether the potential gains exceed the possible losses.",
+      "options": [
+        "...wir Zeit haben.",
+        "...die potenziellen Gewinne die möglichen Verluste übersteigen.",
+        "...wir Lust haben.",
+        "...es einfach ist."
+      ],
+      "correctIndex": 1,
+      "explanation": "Verschachtelte indirekte Fragen"
+    },
+    {
+      "id": 24,
+      "question": "Er hat den Eindruck erweckt, als hätte er...",
+      "englishTranslation": "He gave the impression as if he had calculated the numbers himself instead of just copying them.",
+      "options": [
+        "...nichts getan.",
+        "...gearbeitet.",
+        "...geschlafen.",
+        "...die Zahlen selbst berechnet, statt sie nur abgeschrieben zu haben."
+      ],
+      "correctIndex": 3,
+      "explanation": "Irrealis mit 'als hätte' (Ellipse)"
+    },
+    {
+      "id": 25,
+      "question": "Zu bedauern ist, dass...",
+      "englishTranslation": "It is to be regretted that the cooperation had to be ended due to personal differences.",
+      "options": [
+        "...wir Erfolg haben.",
+        "...wir arbeiten.",
+        "...alles gut ist.",
+        "...die Zusammenarbeit aufgrund persönlicher Differenzen beendet werden musste."
+      ],
+      "correctIndex": 3,
+      "explanation": "Bewertungen mit Infinitivsätzen"
+    },
+    {
+      "id": 26,
+      "question": "Sollte sich herausstellen, dass die Angaben falsch sind, würde das...",
+      "englishTranslation": "Should it turn out that the information is false, it would have serious legal consequences for all of us.",
+      "options": [
+        "...nichts bedeuten.",
+        "...schwerwiegende rechtliche Konsequenzen für uns alle nach sich ziehen.",
+        "...gut sein.",
+        "...egal sein."
+      ],
+      "correctIndex": 1,
+      "explanation": "Irreale Bedingungssätze mit 'sollte'"
+    },
+    {
+      "id": 27,
+      "question": "Es besteht die Gefahr, dass...",
+      "englishTranslation": "There is a danger that customer trust will be permanently damaged and we will lose market shares.",
+      "options": [
+        "...die Wirtschaft wächst.",
+        "...wir Erfolg haben.",
+        "...alles gut wird.",
+        "...das Vertrauen der Kunden nachhaltig beschädigt wird und wir Marktanteile verlieren."
+      ],
+      "correctIndex": 3,
+      "explanation": "Gefahren beschreiben mit Nominalisierung"
+    },
+    {
+      "id": 28,
+      "question": "Wärest du zur Konferenz gefahren, hättest du gewusst, dass...",
+      "englishTranslation": "Would you have gone to the conference had you known that your biggest competitor is giving a lecture on your research?",
+      "options": [
+        "...es gut Essen gibt.",
+        "...dein wichtigster Konkurrent dort einen Vortrag über deine Forschung hält.",
+        "...das Wetter schön ist.",
+        "...viele Leute kommen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Konditionalsätze mit invertierter Wortstellung (Ellipse)"
+    },
+    {
+      "id": 29,
+      "question": "Es ist unwahrscheinlich, dass die These, die er verteidigt hat,...",
+      "englishTranslation": "It is unlikely that the thesis he defended will be recognized by the scientific community as it is too speculative.",
+      "options": [
+        "...falsch ist.",
+        "...gut ist.",
+        "...richtig ist.",
+        "...von der wissenschaftlichen Gemeinschaft anerkannt wird, da sie zu spekulativ ist."
+      ],
+      "correctIndex": 3,
+      "explanation": "Komplexe Relativsätze mit Passiv"
+    },
+    {
+      "id": 30,
+      "question": "Der Professor behauptete, er habe die Theorie bereits vor Jahren...",
+      "englishTranslation": "The professor claimed he had developed the theory years ago but had been prevented from publishing it.",
+      "options": [
+        "...gelesen.",
+        "...entwickelt, sei aber an der Veröffentlichung gehindert worden.",
+        "...verstanden.",
+        "...abgelehnt."
+      ],
+      "correctIndex": 1,
+      "explanation": "Konjunktiv I Perfekt mit Passiv"
+    },
+    {
+      "id": 31,
+      "question": "Hätte ich gewusst, wie schwierig das Studium ist, hätte ich...",
+      "englishTranslation": "Had I known how difficult the studies are, I would have prepared better and acquired more prior knowledge.",
+      "options": [
+        "...mich besser vorbereitet und mehr Vorwissen angeeignet.",
+        "...nicht angefangen.",
+        "...aufgegeben.",
+        "...gewechselt."
+      ],
+      "correctIndex": 0,
+      "explanation": "Plusquamperfekt in Konditionalsätzen"
+    },
+    {
+      "id": 32,
+      "question": "Die These, mit der er seine Dissertation verteidigt hat, besagt, dass...",
+      "englishTranslation": "The thesis with which he defended his dissertation states that cultural factors affect economic activity more strongly than previously assumed.",
+      "options": [
+        "...alles gut ist.",
+        "...kulturelle Faktoren stärker auf das Wirtschaftswirken einwirken, als bisher angenommen wurde.",
+        "...nichts passiert.",
+        "...die Welt rund ist."
+      ],
+      "correctIndex": 1,
+      "explanation": "Komplexe Relativsätze mit indirekter Rede"
+    },
+    {
+      "id": 33,
+      "question": "Es steht außer Frage, dass...",
+      "englishTranslation": "It is beyond question that scientific integrity must be maintained even if this brings disadvantages.",
+      "options": [
+        "...wir essen.",
+        "...wir schlafen.",
+        "...die wissenschaftliche Integrität gewahrt werden muss, auch wenn dies Nachteile bringt.",
+        "...nichts passiert."
+      ],
+      "correctIndex": 2,
+      "explanation": "Feststehende Tatsachen mit Konjunktiv I"
+    },
+    {
+      "id": 34,
+      "question": "Sollten die Prüfungsergebnisse nicht den Erwartungen entsprechen, könnte das...",
+      "englishTranslation": "Should the exam results not meet expectations, it could have the consequence that I would have to repeat the semester.",
+      "options": [
+        "...egal sein.",
+        "...gut sein.",
+        "...zur Folge haben, dass ich das Semester wiederholen müsste.",
+        "...schlecht sein."
+      ],
+      "correctIndex": 2,
+      "explanation": "Konjunktiv II Konsequenzen"
+    },
+    {
+      "id": 35,
+      "question": "Die Befürchtung, dass die Bibliothek geschlossen wird, beruht auf...",
+      "englishTranslation": "The fear that the library will be closed is based on the fact that the budget was cut and no alternatives were shown.",
+      "options": [
+        "...Gerüchten.",
+        "...nichts.",
+        "...der Tatsache, dass das Budget gekürzt wurde und keine Alternativen aufgezeigt wurden.",
+        "...Lügen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nominalisierung mit 'die Befürchtung'"
+    },
+    {
+      "id": 36,
+      "question": "Er gab vor, die Quellen gründlich geprüft zu haben, obwohl...",
+      "englishTranslation": "He pretended to have thoroughly checked the sources, although it was obvious that he had only used Wikipedia.",
+      "options": [
+        "...er fleißig war.",
+        "...offensichtlich war, dass er nur Wikipedia verwendet hatte.",
+        "...alles stimmte.",
+        "...nichts los war."
+      ],
+      "correctIndex": 1,
+      "explanation": "Vortäuschen mit Infinitiv Perfekt"
+    },
+    {
+      "id": 37,
+      "question": "Angesichts der Tatsache, dass die Deadline morgen ist, erscheint es...",
+      "englishTranslation": "In view of the fact that the deadline is tomorrow, it appears impossible to finish the work with high quality.",
+      "options": [
+        "...einfach.",
+        "...möglich.",
+        "...gut.",
+        "...unmöglich, die Arbeit noch qualitativ hochwertig fertigzustellen."
+      ],
+      "correctIndex": 3,
+      "explanation": "Angesichts + Genitiv/Nehensatz"
+    },
+    {
+      "id": 38,
+      "question": "Die Methodik, die er angewandt hat, lässt zu wünschen übrig,...",
+      "englishTranslation": "The methodology he applied leaves something to be desired as it is not reproducible and therefore scientifically worthless.",
+      "options": [
+        "...obwohl sie funktioniert.",
+        "...weil sie gut ist.",
+        "...da sie nicht reproduzierbar und daher wissenschaftlich wertlos ist.",
+        "...trotzdem sie funktioniert."
+      ],
+      "correctIndex": 2,
+      "explanation": "Wissenschaftliche Kritik üben"
+    },
+    {
+      "id": 39,
+      "question": "Es ist zu bezweifeln, ob die Forschungsergebnisse,...",
+      "englishTranslation": "It is doubtful whether the research results, achieved under time pressure, are valid and reliable.",
+      "options": [
+        "...existent sind.",
+        "...gut sind.",
+        "...schlecht sind.",
+        "...die unter Zeitdruck erzielt wurden, valide und reliable sind."
+      ],
+      "correctIndex": 3,
+      "explanation": "Zweifel anmelden mit Konjunktiv"
+    },
+    {
+      "id": 40,
+      "question": "Der Dekan ließ verlauten, dass er mit der Qualität der Abschlussarbeiten...",
+      "englishTranslation": "The dean let it be known that he would be satisfied with the quality of the theses as long as the formalities were adhered to.",
+      "options": [
+        "...zufrieden sei, solange die Formalien eingehalten würden.",
+        "...nicht zufrieden ist.",
+        "...ärgerlich ist.",
+        "...glücklich ist."
+      ],
+      "correctIndex": 0,
+      "explanation": "Indirekte Rede mit Bedingung"
+    },
+    {
+      "id": 41,
+      "question": "Wenn ich gewusst hätte, dass der Kurs so anspruchsvoll ist, hätte ich...",
+      "englishTranslation": "If I had known that the course was so demanding, I would have taken more time for preparation and obtained additional literature.",
+      "options": [
+        "...nicht teilgenommen.",
+        "...mir mehr Zeit für die Vorbereitung genommen und zusätzliche Literatur besorgt.",
+        "...aufgegeben.",
+        "...gewechselt."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kontrafaktische Vergangenheit"
+    },
+    {
+      "id": 42,
+      "question": "Die Hypothese, auf der sein ganzes Argument aufbaut, ist...",
+      "englishTranslation": "The hypothesis on which his entire argument is based is so fragile that it collapses at the slightest breeze.",
+      "options": [
+        "...so brüchig, dass sie beim leisesten Wind zusammenbricht.",
+        "...gut.",
+        "...stabil.",
+        "...richtig."
+      ],
+      "correctIndex": 0,
+      "explanation": "Metaphorische Kritik"
+    },
+    {
+      "id": 43,
+      "question": "Es bedarf keiner weiteren Erklärung, dass...",
+      "englishTranslation": "It requires no further explanation that plagiarism cannot be tolerated in academia.",
+      "options": [
+        "...wir lernen müssen.",
+        "...Plagiate im akademischen Betrieb nicht toleriert werden können.",
+        "...die Sonne scheint.",
+        "...essen wichtig ist."
+      ],
+      "correctIndex": 1,
+      "explanation": "Selbstverständlichkeiten ausdrücken"
+    },
+    {
+      "id": 44,
+      "question": "Angenommen, die Forschung würde ergeben, dass...",
+      "englishTranslation": "Assuming the research were to show that the current theory is wrong, all textbooks would have to be rewritten.",
+      "options": [
+        "...alles stimmt.",
+        "...die bisherige Theorie falsch ist, müssten alle Lehrbücher umgeschrieben werden.",
+        "...nichts los ist.",
+        "...wir Recht haben."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hypothetische Forschungsergebnisse"
+    },
+    {
+      "id": 45,
+      "question": "Der Verdacht, er habe bei der Prüfung geschummelt, wurde...",
+      "englishTranslation": "The suspicion that he cheated on the exam was confirmed by the surveillance videos showing him peeking.",
+      "options": [
+        "...durch die Überwachungsvideos bestätigt, die ihn beim Spicken zeigten.",
+        "...nicht bestätigt.",
+        "...abgelehnt.",
+        "...vergessen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Konjunktiv I für Gerüchte/Verdacht"
+    },
+    {
+      "id": 46,
+      "question": "Es ist nicht von der Hand zu weisen, dass...",
+      "englishTranslation": "It cannot be denied that study conditions have become more difficult in recent years.",
+      "options": [
+        "...nichts passiert.",
+        "...alles gut ist.",
+        "...die Studienbedingungen in den letzten Jahren schwieriger geworden sind.",
+        "...wir lernen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Unleugbare Tatsachen"
+    },
+    {
+      "id": 47,
+      "question": "Die Frage, ob es ethisch vertretbar ist, solche Experimente durchzuführen,...",
+      "englishTranslation": "The question of whether it is ethically justifiable to conduct such experiments will have to be intensively examined by the ethics committee.",
+      "options": [
+        "...nicht wichtig.",
+        "...ist einfach.",
+        "...wird von der Ethikkommission intensiv geprüft werden müssen.",
+        "...schon entschieden."
+      ],
+      "correctIndex": 2,
+      "explanation": "Indirekte Fragen mit Passiv"
+    },
+    {
+      "id": 48,
+      "question": "Er tat so, als hätte er die Quelle nicht absichtlich verschwiegen,...",
+      "englishTranslation": "He acted as if he hadn't intentionally concealed the source, although he knew exactly that citing was mandatory.",
+      "options": [
+        "...obwohl alles gut war.",
+        "...weil er ehrlich ist.",
+        "...obwohl er genau wusste, dass das Zitieren Pflicht war.",
+        "...weil er fleißig ist."
+      ],
+      "correctIndex": 2,
+      "explanation": "Absicht verschleiern mit Konjunktiv"
+    },
+    {
+      "id": 49,
+      "question": "Hinsichtlich der Note lässt sich sagen, dass...",
+      "englishTranslation": "Regarding the grade, it can be said that it would have turned out better had he made more effort.",
+      "options": [
+        "...sie besser ausgefallen wäre, hätte er sich mehr Mühe gegeben.",
+        "...sie gut ist.",
+        "...sie schlecht ist.",
+        "...sie existiert."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hinsichtlich + Konjunktiv II"
+    },
+    {
+      "id": 50,
+      "question": "Es bleibt abzuwarten, ob...",
+      "englishTranslation": "It remains to be seen whether the peer review processes will proceed fairly and impartially.",
+      "options": [
+        "...wir bestehen.",
+        "...die peer-review-Verfahren gerecht und unparteiisch ablaufen werden.",
+        "...wir lernen.",
+        "...es einfach ist."
+      ],
+      "correctIndex": 1,
+      "explanation": "Zukunftsaussagen mit Konjunktiv"
+    },
+    {
+      "id": 51,
+      "question": "Der Autor behauptete, seine Ergebnisse seien...",
+      "englishTranslation": "The author claimed his results were representative and generalizable, which however proved to be false.",
+      "options": [
+        "...falsch.",
+        "...gut.",
+        "...richtig.",
+        "...repräsentativ und generalisierbar, was sich jedoch als falsch erwies."
+      ],
+      "correctIndex": 3,
+      "explanation": "Wissenschaftliche Behauptungen mit Konjunktiv I"
+    },
+    {
+      "id": 52,
+      "question": "Es ist davon auszugehen, dass...",
+      "englishTranslation": "It is to be assumed that the submission deadline will not be extended regardless of the students' requests.",
+      "options": [
+        "...alles gut wird.",
+        "...die Abgabefrist nicht verlängert wird, unabhängig von den Bitten der Studenten.",
+        "...wir Zeit bekommen.",
+        "...es einfach wird."
+      ],
+      "correctIndex": 1,
+      "explanation": "Annahmen mit indirekter Rede"
+    },
+    {
+      "id": 53,
+      "question": "Die Annahme, dass alle Studenten die gleichen Voraussetzungen hätten,...",
+      "englishTranslation": "The assumption that all students have the same prerequisites is naive and ignores socioeconomic differences.",
+      "options": [
+        "...ist naiv und ignoriert sozioökonomische Unterschiede.",
+        "...ist richtig.",
+        "...ist gut.",
+        "...existiert nicht."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kritik an Annahmen"
+    },
+    {
+      "id": 54,
+      "question": "Sollte sich herausstellen, dass die Daten gefälscht sind, wäre das...",
+      "englishTranslation": "Should it turn out that the data were forged, it would be a death blow to his academic career and reputation.",
+      "options": [
+        "...egal.",
+        "...gut.",
+        "...ein Todesstoß für seine akademische Karriere und Reputation.",
+        "...interessant."
+      ],
+      "correctIndex": 2,
+      "explanation": "Dramatische Konsequenzen mit Konjunktiv"
+    },
+    {
+      "id": 55,
+      "question": "Es ist bedenklich, dass...",
+      "englishTranslation": "It is alarming that social inequality is increasing despite economic growth.",
+      "options": [
+        "...die soziale Ungleichheit trotz wirtschaftlichen Wachstums zunimmt.",
+        "...die Sonne scheint.",
+        "...wir essen können.",
+        "...alles gut ist."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bewertung gesellschaftlicher Entwicklungen"
+    },
+    {
+      "id": 56,
+      "question": "Die Behauptung, dass Klimawandel nicht menschengemacht sei,...",
+      "englishTranslation": "The claim that climate change is not man-made contradicts the scientific consensus and is therefore to be rejected.",
+      "options": [
+        "...ist richtig.",
+        "...widerspricht dem wissenschaftlichen Konsens und ist daher abzulehnen.",
+        "...ist gut.",
+        "...stimmt."
+      ],
+      "correctIndex": 1,
+      "explanation": "Indirekte Rede mit Konjunktiv I"
+    },
+    {
+      "id": 57,
+      "question": "Wenn die Regierung ihre Versprechen eingehalten hätte, wäre...",
+      "englishTranslation": "Had the government kept its promises, unemployment would not have risen so dramatically.",
+      "options": [
+        "...nichts passiert.",
+        "...alles gut.",
+        "...die Arbeitslosigkeit nicht so dramatisch gestiegen.",
+        "...die Wirtschaft geschrumpft."
+      ],
+      "correctIndex": 2,
+      "explanation": "Politische Kontrafaktika"
+    },
+    {
+      "id": 58,
+      "question": "Es steht außer Zweifel, dass...",
+      "englishTranslation": "It is beyond doubt that education is the key to overcoming poverty.",
+      "options": [
+        "...essen wichtig ist.",
+        "...wir schlafen müssen.",
+        "...Bildung der Schlüssel zur Überwindung von Armut ist.",
+        "...nichts funktioniert."
+      ],
+      "correctIndex": 2,
+      "explanation": "Selbstverständlichkeiten"
+    },
+    {
+      "id": 59,
+      "question": "Angesichts der Tatsache, dass Ressourcen knapp werden, sollten wir...",
+      "englishTranslation": "In view of the fact that resources are becoming scarce, we should seriously consider sustainable alternatives.",
+      "options": [
+        "...uns ernsthaft Gedanken über nachhaltige Alternativen machen.",
+        "...mehr verbrauchen.",
+        "...nichts tun.",
+        "...weitermachen wie bisher."
+      ],
+      "correctIndex": 0,
+      "explanation": "Angesichts + Handlungsempfehlung"
+    },
+    {
+      "id": 60,
+      "question": "Es lässt sich nicht leugnen, dass...",
+      "englishTranslation": "It cannot be denied that digitization has fundamentally changed our society.",
+      "options": [
+        "...alles gleich bleibt.",
+        "...nichts passiert.",
+        "...die Digitalisierung unsere Gesellschaft grundlegend verändert hat.",
+        "...Technik schlecht ist."
+      ],
+      "correctIndex": 2,
+      "explanation": "Unleugbare Veränderungen"
+    },
+    {
+      "id": 61,
+      "question": "Die Befürchtung, Minderheiten würden diskriminiert,...",
+      "englishTranslation": "The fear that minorities would be discriminated against has unfortunately proven to be justified, as statistics show.",
+      "options": [
+        "...hat sich leider als begründet erwiesen, wie die Statistiken zeigen.",
+        "...war falsch.",
+        "...hat sich nicht bewahrheitet.",
+        "...war übertrieben."
+      ],
+      "correctIndex": 0,
+      "explanation": "Konjunktiv I für Befürchtungen"
+    },
+    {
+      "id": 62,
+      "question": "Es ist zu befürchten, dass...",
+      "englishTranslation": "It is to be feared that social tensions will continue to increase if nothing is done.",
+      "options": [
+        "...die sozialen Spannungen weiter zunehmen werden, wenn nichts unternommen wird.",
+        "...alles gut wird.",
+        "...Frieden herrscht.",
+        "...nichts passiert."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zukunftsbefürchtungen"
+    },
+    {
+      "id": 63,
+      "question": "Wäre ich Politiker, würde ich...",
+      "englishTranslation": "Were I a politician, I would advocate for a fairer distribution of wealth.",
+      "options": [
+        "...mich für eine gerechtere Verteilung des Wohlstands einsetzen.",
+        "...mehr verdienen.",
+        "...nichts tun.",
+        "...nur reden."
+      ],
+      "correctIndex": 0,
+      "explanation": "Konjunktiv II für politische Wünsche"
+    },
+    {
+      "id": 64,
+      "question": "Es ist fraglich, ob...",
+      "englishTranslation": "It is questionable whether the current measures are sufficient to solve the problem sustainably.",
+      "options": [
+        "...alles gut wird.",
+        "...wir Erfolg haben.",
+        "...die aktuellen Maßnahmen ausreichen, um das Problem nachhaltig zu lösen.",
+        "...wir arbeiten."
+      ],
+      "correctIndex": 2,
+      "explanation": "Zweifel an Maßnahmen"
+    },
+    {
+      "id": 65,
+      "question": "Die These, Kultur sei nur ein Luxusgut,...",
+      "englishTranslation": "The thesis that culture is only a luxury good overlooks that it shapes fundamental identity characteristics of a society.",
+      "options": [
+        "...ist gut.",
+        "...ist richtig.",
+        "...stimmt.",
+        "...übersieht, dass sie fundamentale Identitätsmerkmale einer Gesellschaft prägt."
+      ],
+      "correctIndex": 3,
+      "explanation": "Widerlegung mit Konjunktiv I"
+    },
+    {
+      "id": 66,
+      "question": "Hätten wir früher gehandelt, könnten wir jetzt...",
+      "englishTranslation": "Had we acted earlier, we could now still prevent the catastrophic consequences.",
+      "options": [
+        "...die katastrophalen Folgen noch verhindern.",
+        "...schlafen.",
+        "...essen.",
+        "...nichts tun."
+      ],
+      "correctIndex": 0,
+      "explanation": "Retrospektive Handlungsalternativen"
+    },
+    {
+      "id": 67,
+      "question": "Es bedarf keiner weiteren Diskussion, dass...",
+      "englishTranslation": "No further discussion is needed that fundamental rights must apply to all citizens without restriction.",
+      "options": [
+        "...nichts passiert.",
+        "...wir essen müssen.",
+        "...schlafen wichtig ist.",
+        "...Grundrechte für alle Bürger uneingeschränkt gelten müssen."
+      ],
+      "correctIndex": 3,
+      "explanation": "Selbstverständlichkeiten betonen"
+    },
+    {
+      "id": 68,
+      "question": "Der Mythos, dass Technik alle Probleme lösen werde,...",
+      "englishTranslation": "The myth that technology will solve all problems disproves itself in view of the growing social divide.",
+      "options": [
+        "...ist wahr.",
+        "...widerlegt sich angesichts der wachsenden sozialen Kluft von selbst.",
+        "...stimmt.",
+        "...ist gut."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mythen widerlegen"
+    },
+    {
+      "id": 69,
+      "question": "Es ist nicht einzusehen, warum...",
+      "englishTranslation": "It is not understandable why the rich should pay less taxes than average earners.",
+      "options": [
+        "...wir essen.",
+        "...wir arbeiten.",
+        "...wir lernen.",
+        "...Reiche weniger Steuern zahlen sollen als Normalverdiener."
+      ],
+      "correctIndex": 3,
+      "explanation": "Unverständnis ausdrücken"
+    },
+    {
+      "id": 70,
+      "question": "Sollte sich die Wirtschaftslage weiter verschlechtern, dürfte das...",
+      "englishTranslation": "Should the economic situation deteriorate further, it would likely lead to social unrest and an increase in crime.",
+      "options": [
+        "...soziale Unruhen und einen Anstieg der Kriminalität zur Folge haben.",
+        "...gut sein.",
+        "...egal sein.",
+        "...positiv sein."
+      ],
+      "correctIndex": 0,
+      "explanation": "Konjunktiv II für Prognosen"
+    },
+    {
+      "id": 71,
+      "question": "Es ist bezeichnend, dass...",
+      "englishTranslation": "It is characteristic that those who benefit most from society give back the least.",
+      "options": [
+        "...diejenigen, die am meisten von der Gesellschaft profitieren, am wenigsten zurückgeben.",
+        "...die Sonne scheint.",
+        "...wir leben.",
+        "...alles gut ist."
+      ],
+      "correctIndex": 0,
+      "explanation": "Charakterisierende Beobachtungen"
+    },
+    {
+      "id": 72,
+      "question": "Die Annahme, jeder habe die gleichen Chancen,...",
+      "englishTranslation": "The assumption that everyone has the same opportunities ignores structural barriers that disadvantage certain groups.",
+      "options": [
+        "...ist gut.",
+        "...ist richtig.",
+        "...stimmt.",
+        "...ignoriert strukturelle Barrieren, die bestimmte Gruppen benachteiligen."
+      ],
+      "correctIndex": 3,
+      "explanation": "Chancengleichheit kritisieren"
+    },
+    {
+      "id": 73,
+      "question": "Wäre es nach mir gegangen, hätten wir...",
+      "englishTranslation": "Had it been up to me, we would have invested in renewable energies earlier and taken climate change seriously.",
+      "options": [
+        "...geschlafen.",
+        "...nichts getan.",
+        "...frühzeitiger in erneuerbare Energien investiert und den Klimawandel ernst genommen.",
+        "...gewartet."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kontrafaktische Entscheidungen"
+    },
+    {
+      "id": 74,
+      "question": "Es ist symptomatisch für unsere Zeit, dass...",
+      "englishTranslation": "It is symptomatic of our time that short-term profits are valued more highly than long-term sustainability.",
+      "options": [
+        "...nichts passiert.",
+        "...alles gut ist.",
+        "...wir glücklich sind.",
+        "...kurzfristige Gewinne höher bewertet werden als langfristige Nachhaltigkeit."
+      ],
+      "correctIndex": 3,
+      "explanation": "Zeitdiagnosen stellen"
+    },
+    {
+      "id": 75,
+      "question": "Die Frage, ob Kunst subventioniert werden sollte,...",
+      "englishTranslation": "The question of whether art should be subsidized cannot be answered with a simple yes or no.",
+      "options": [
+        "...hat keine Bedeutung.",
+        "...ist einfach.",
+        "...lässt sich nicht mit einem einfachen Ja oder Nein beantworten.",
+        "...ist entschieden."
+      ],
+      "correctIndex": 2,
+      "explanation": "Komplexe Fragen"
+    },
+    {
+      "id": 76,
+      "question": "Es bleibt das unbeantwortete Problem, wie...",
+      "englishTranslation": "The unanswered problem remains how we can distribute prosperity fairly without damaging the economy.",
+      "options": [
+        "...wir arbeiten können.",
+        "...wir schlafen können.",
+        "...wir essen können.",
+        "...wir den Wohlstand gerecht verteilen können, ohne die Wirtschaft zu schädigen."
+      ],
+      "correctIndex": 3,
+      "explanation": "Unbeantwortete Probleme"
+    },
+    {
+      "id": 77,
+      "question": "Hätten die Warnungen ernster genommen werden, wäre...",
+      "englishTranslation": "Had the warnings been taken more seriously, the catastrophe would probably have been avoidable.",
+      "options": [
+        "...nichts passiert.",
+        "...die Katastrophe vermutlich vermeidbar gewesen.",
+        "...alles gut.",
+        "...es egal."
+      ],
+      "correctIndex": 1,
+      "explanation": "Retrospektive Warnungen"
+    },
+    {
+      "id": 78,
+      "question": "Es ist kaum zu glauben, dass...",
+      "englishTranslation": "It is hard to believe that despite all progress, people still have to go hungry.",
+      "options": [
+        "...wir leben.",
+        "...die Sonne scheint.",
+        "...trotz aller Fortschritte immer noch Menschen hungern müssen.",
+        "...essen existiert."
+      ],
+      "correctIndex": 2,
+      "explanation": "Unglauben ausdrücken"
+    },
+    {
+      "id": 79,
+      "question": "Die Überzeugung, dass Technologie demokratisch wirke,...",
+      "englishTranslation": "The conviction that technology works democratically has proven to be an illusion, as algorithms reinforce existing inequalities.",
+      "options": [
+        "...ist richtig.",
+        "...ist wahr.",
+        "...stimmt.",
+        "...hat sich als Illusion erwiesen, da Algorithmen bestehende Ungleichheiten verstärken."
+      ],
+      "correctIndex": 3,
+      "explanation": "Technologiekritik"
+    },
+    {
+      "id": 80,
+      "question": "Es kommt darauf an, wie...",
+      "englishTranslation": "It depends on how one interprets the situation and what priorities one sets.",
+      "options": [
+        "...man arbeitet.",
+        "...man schläft.",
+        "...man isst.",
+        "...man die Situation interpretiert und welche Prioritäten man setzt."
+      ],
+      "correctIndex": 3,
+      "explanation": "Interpretationsspielräume"
+    },
+    {
+      "id": 81,
+      "question": "Angenommen, du hättest die Wahl zwischen...",
+      "englishTranslation": "Assuming you had the choice between a well-paid job you hate and a poorly paid one you love.",
+      "options": [
+        "...Arbeiten und Lernen.",
+        "...Schlafen und Essen.",
+        "...einem gut bezahlten Job, den du hasst, und einem schlecht bezahlten, den du liebst.",
+        "...nichts und nichts."
+      ],
+      "correctIndex": 2,
+      "explanation": "Komplexe Entscheidungen"
+    },
+    {
+      "id": 82,
+      "question": "Es ist nicht ausgeschlossen, dass...",
+      "englishTranslation": "It is not excluded that we were wrong about the matter and the solution lies somewhere completely different.",
+      "options": [
+        "...wir Recht haben.",
+        "...wir uns in der Sache geirrt haben und die Lösung ganz woanders liegt.",
+        "...alles stimmt.",
+        "...nichts passiert."
+      ],
+      "correctIndex": 1,
+      "explanation": "Fehler eingestehen"
+    },
+    {
+      "id": 83,
+      "question": "Die Schwierigkeit besteht darin, dass...",
+      "englishTranslation": "The difficulty is that neither time nor money is available in sufficient quantities.",
+      "options": [
+        "...alles gut ist.",
+        "...weder Zeit noch Geld in ausreichender Menge zur Verfügung stehen.",
+        "...nichts los ist.",
+        "...wir glücklich sind."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ressourcenmangel beschreiben"
+    },
+    {
+      "id": 84,
+      "question": "Ohne dass ich es beabsichtigt hätte, habe ich...",
+      "englishTranslation": "Without having intended it, I have directed attention to a much larger problem.",
+      "options": [
+        "...gearbeitet.",
+        "...nichts getan.",
+        "...geschlafen.",
+        "...die Aufmerksamkeit auf ein viel größeres Problem gelenkt."
+      ],
+      "correctIndex": 3,
+      "explanation": "Unbeabsichtigte Folgen"
+    },
+    {
+      "id": 85,
+      "question": "Es liegt nahe, dass...",
+      "englishTranslation": "It is reasonable to assume that the delay is due to organizational problems.",
+      "options": [
+        "...wir Erfolg haben.",
+        "...alles gut ist.",
+        "...nichts passiert.",
+        "...die Verzögerung auf organisatorische Probleme zurückzuführen ist."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vermutungen anstellen"
+    },
+    {
+      "id": 86,
+      "question": "Wäre die Kommunikation besser gewesen, hätten wir...",
+      "englishTranslation": "Had communication been better, we could have avoided the misunderstanding from the start.",
+      "options": [
+        "...das Missverständnis von Anfang an vermeiden können.",
+        "...nichts gemacht.",
+        "...geschlafen.",
+        "...gegessen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kommunikationsprobleme"
+    },
+    {
+      "id": 87,
+      "question": "Es ist davon auszugehen, dass...",
+      "englishTranslation": "It is to be assumed that the repair will take several days and become correspondingly expensive.",
+      "options": [
+        "...es billig ist.",
+        "...alles schnell geht.",
+        "...die Reparatur mehrere Tage in Anspruch nehmen und entsprechend teuer werden wird.",
+        "...nichts passiert."
+      ],
+      "correctIndex": 2,
+      "explanation": "Realistische Einschätzungen"
+    },
+    {
+      "id": 88,
+      "question": "Die Herausforderung liegt darin,...",
+      "englishTranslation": "The challenge is to satisfy all parties involved without making compromises on quality.",
+      "options": [
+        "...zu arbeiten.",
+        "...zu schlafen.",
+        "...zu essen.",
+        "...alle Beteiligten zufriedenzustellen, ohne dabei Kompromisse bei der Qualität einzugehen."
+      ],
+      "correctIndex": 3,
+      "explanation": "Herausforderungen definieren"
+    },
+    {
+      "id": 89,
+      "question": "Es wäre wünschenswert, wenn...",
+      "englishTranslation": "It would be desirable if everyone stuck to the agreements and delivered on time.",
+      "options": [
+        "...sich alle an die Absprachen hielten und pünktlich liefern würden.",
+        "...wir schlafen könnten.",
+        "...wir essen könnten.",
+        "...nichts passieren würde."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wünsche formulieren"
+    },
+    {
+      "id": 90,
+      "question": "Der Grund, warum ich zögere, ist, dass...",
+      "englishTranslation": "The reason why I hesitate is that I cannot yet assess the long-term consequences.",
+      "options": [
+        "...ich hungrig bin.",
+        "...ich müde bin.",
+        "...ich die langfristigen Konsequenzen noch nicht abschätzen kann.",
+        "...keiner Grund."
+      ],
+      "correctIndex": 2,
+      "explanation": "Zögern begründen"
+    },
+    {
+      "id": 91,
+      "question": "Es steht zu befürchten, dass...",
+      "englishTranslation": "It is to be feared that the situation will get worse before it gets better.",
+      "options": [
+        "...wir Erfolg haben.",
+        "...alles gut wird.",
+        "...nichts passiert.",
+        "...sich die Situation verschlimmert, bevor sie besser wird."
+      ],
+      "correctIndex": 3,
+      "explanation": "Negative Prognosen"
+    },
+    {
+      "id": 92,
+      "question": "Hätte ich früher davon erfahren, wäre ich...",
+      "englishTranslation": "Had I heard about it earlier, I would certainly have proceeded differently and brought in experts.",
+      "options": [
+        "...sicher anders vorgegangen und hätte Experten hinzugezogen.",
+        "...nicht gekommen.",
+        "...schlafen gegangen.",
+        "...zuhause geblieben."
+      ],
+      "correctIndex": 0,
+      "explanation": "Retrospektive Handlungsanalyse"
+    },
+    {
+      "id": 93,
+      "question": "Es ist charakteristisch für ihn, dass...",
+      "englishTranslation": "It is characteristic of him that he only becomes active at the last minute instead of planning ahead.",
+      "options": [
+        "...er immer erst in letzter Minute aktiv wird, statt vorausschauend zu planen.",
+        "...er pünktlich ist.",
+        "...er nett ist.",
+        "...er hilft."
+      ],
+      "correctIndex": 0,
+      "explanation": "Charakterisierungen"
+    },
+    {
+      "id": 94,
+      "question": "Die Frage, ob es sich lohnt,...",
+      "englishTranslation": "The question of whether it is worth it depends on how much time and energy one must invest.",
+      "options": [
+        "...ist einfach.",
+        "...hängt davon ab, wie viel Zeit und Energie man investieren muss.",
+        "...nicht wichtig.",
+        "...schon entschieden."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kosten-Nutzen-Abwägungen"
+    },
+    {
+      "id": 95,
+      "question": "Es kommt nicht in Frage, dass...",
+      "englishTranslation": "It is out of the question that we lower quality standards just to finish faster.",
+      "options": [
+        "...wir arbeiten.",
+        "...wir Qualitätsstandards senken, nur um schneller fertig zu werden.",
+        "...wir essen.",
+        "...wir schlafen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Prinzipien betonen"
+    },
+    {
+      "id": 96,
+      "question": "Wäre die Situation anders, würde ich...",
+      "englishTranslation": "Were the situation different, I would agree immediately, but under these circumstances I must decline.",
+      "options": [
+        "...nichts tun.",
+        "...sofort zustimmen, aber unter diesen Umständen muss ich ablehnen.",
+        "...schlafen.",
+        "...essen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Bedingte Zustimmung"
+    },
+    {
+      "id": 97,
+      "question": "Es ist nicht zu leugnen, dass...",
+      "englishTranslation": "It cannot be denied that we have made mistakes and must learn from them.",
+      "options": [
+        "...wir perfekt sind.",
+        "...alles perfekt ist.",
+        "...nichts passiert.",
+        "...wir Fehler gemacht haben und daraus lernen müssen."
+      ],
+      "correctIndex": 3,
+      "explanation": "Fehler eingestehen"
+    },
+    {
+      "id": 98,
+      "question": "Der einzige Weg, wie wir das schaffen können, ist, wenn...",
+      "englishTranslation": "The only way we can manage this is if we all work together and pool our resources.",
+      "options": [
+        "...wir alle zusammenarbeiten und unsere Ressourcen bündeln.",
+        "...wir schlafen.",
+        "...wir essen.",
+        "...wir warten."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lösungswege aufzeigen"
+    },
+    {
+      "id": 99,
+      "question": "Es ist unwahrscheinlich, dass...",
+      "englishTranslation": "It is unlikely that circumstances will change as quickly as we wish.",
+      "options": [
+        "...sich die Umstände so schnell ändern werden, wie wir uns das wünschen.",
+        "...wir Erfolg haben.",
+        "...alles gut wird.",
+        "...wir arbeiten."
+      ],
+      "correctIndex": 0,
+      "explanation": "Realistische Einschätzungen"
+    },
+    {
+      "id": 100,
+      "question": "Sollte sich herausstellen, dass ich unrecht habe,...",
+      "englishTranslation": "Should it turn out that I am wrong, I will admit it publicly and apologize.",
+      "options": [
+        "...werde ich weglaufen.",
+        "...werde ich schweigen.",
+        "...werde ich nichts sagen.",
+        "...werde ich es öffentlich zugeben und mich entschuldigen."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ehrlichkeit und Integrität"
+    }
+  ]
+}
