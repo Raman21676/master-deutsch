@@ -7,6 +7,7 @@ import '../utils/constants.dart';
 import 'levels_screen.dart';
 import 'progress_screen.dart';
 import 'settings_screen.dart';
+import 'translator_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
@@ -123,39 +124,61 @@ class HomeScreen extends StatelessWidget {
                   ),
                   const SizedBox(height: 16),
 
-                  // Action Cards
-                  Row(
+                  // Action Cards - 2x2 Grid
+                  GridView.count(
+                    shrinkWrap: true,
+                    physics: const NeverScrollableScrollPhysics(),
+                    crossAxisCount: 2,
+                    mainAxisSpacing: 12,
+                    crossAxisSpacing: 12,
+                    childAspectRatio: 1.5,
                     children: [
-                      Expanded(
-                        child: _buildActionCard(
+                      _buildActionCard(
+                        context,
+                        icon: Icons.play_circle_fill,
+                        title: 'Start Quiz',
+                        subtitle: 'Begin learning',
+                        color: AppColors.primaryLight,
+                        onTap: () => Navigator.push(
                           context,
-                          icon: Icons.play_circle_fill,
-                          title: 'Start Quiz',
-                          subtitle: 'Begin learning',
-                          color: AppColors.primaryLight,
-                          onTap: () => Navigator.push(
-                            context,
-                            MaterialPageRoute(
-                              builder: (_) => const LevelsScreen(),
-                            ),
+                          MaterialPageRoute(
+                            builder: (_) => const LevelsScreen(),
                           ),
                         ),
                       ),
-                      const SizedBox(width: 16),
-                      Expanded(
-                        child: _buildActionCard(
+                      _buildActionCard(
+                        context,
+                        icon: Icons.translate,
+                        title: 'Translator',
+                        subtitle: 'Offline EN ↔ DE',
+                        color: AppColors.accentLight,
+                        onTap: () => Navigator.push(
                           context,
-                          icon: Icons.show_chart,
-                          title: 'Progress',
-                          subtitle: 'View stats',
-                          color: AppColors.secondaryLight,
-                          onTap: () => Navigator.push(
-                            context,
-                            MaterialPageRoute(
-                              builder: (_) => const ProgressScreen(),
-                            ),
+                          MaterialPageRoute(
+                            builder: (_) => const TranslatorScreen(),
                           ),
                         ),
+                      ),
+                      _buildActionCard(
+                        context,
+                        icon: Icons.show_chart,
+                        title: 'Progress',
+                        subtitle: 'View stats',
+                        color: AppColors.secondaryLight,
+                        onTap: () => Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (_) => const ProgressScreen(),
+                          ),
+                        ),
+                      ),
+                      _buildActionCard(
+                        context,
+                        icon: Icons.menu_book,
+                        title: 'Word of Day',
+                        subtitle: 'Daily vocabulary',
+                        color: Colors.orange,
+                        onTap: () => Navigator.pushNamed(context, '/word-of-day'),
                       ),
                     ],
                   ),

@@ -25,39 +25,40 @@ class CorrectFeedbackScreen extends StatelessWidget {
           ),
         ),
         child: SafeArea(
-          child: Column(
-            children: [
-              // Header with celebration
-              Expanded(
-                flex: 2,
-                child: Center(
+          child: CustomScrollView(
+            physics: const BouncingScrollPhysics(),
+            slivers: [
+              // Header with celebration - Fixed height, non-scrollable
+              SliverToBoxAdapter(
+                child: Container(
+                  padding: const EdgeInsets.symmetric(vertical: 24),
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       const Icon(
                         Icons.celebration,
-                        size: 100,
+                        size: 80,
                         color: Colors.white,
                       ).animate().scale(
                         duration: 600.ms,
                         curve: Curves.elasticOut,
                       ),
-                      const SizedBox(height: 24),
+                      const SizedBox(height: 16),
                       Text(
-                            'Richtig!',
-                            style: Theme.of(context).textTheme.displayLarge
-                                ?.copyWith(
-                                  color: Colors.white,
-                                  fontWeight: FontWeight.bold,
-                                ),
-                          )
-                          .animate()
-                          .fadeIn(delay: 200.ms)
-                          .slideY(begin: -0.3, duration: 400.ms),
-                      const SizedBox(height: 8),
+                        'Richtig!',
+                        style: Theme.of(context).textTheme.headlineLarge
+                            ?.copyWith(
+                              color: Colors.white,
+                              fontWeight: FontWeight.bold,
+                            ),
+                      )
+                      .animate()
+                      .fadeIn(delay: 200.ms)
+                      .slideY(begin: -0.3, duration: 400.ms),
+                      const SizedBox(height: 4),
                       Text(
                         'Correct!',
-                        style: Theme.of(context).textTheme.headlineMedium
+                        style: Theme.of(context).textTheme.titleLarge
                             ?.copyWith(color: Colors.white70),
                       ).animate().fadeIn(delay: 300.ms),
                     ],
@@ -65,126 +66,129 @@ class CorrectFeedbackScreen extends StatelessWidget {
                 ),
               ),
 
-              // Content card
-              Expanded(
-                flex: 5,
-                child:
-                    Container(
-                          margin: const EdgeInsets.all(16),
-                          decoration: BoxDecoration(
-                            color: Theme.of(context).cardColor,
-                            borderRadius: BorderRadius.circular(24),
-                            boxShadow: [
-                              BoxShadow(
-                                color: Colors.black.withOpacity(0.2),
-                                blurRadius: 20,
-                                offset: const Offset(0, 10),
-                              ),
-                            ],
-                          ),
-                          child: SingleChildScrollView(
-                            padding: const EdgeInsets.all(24),
-                            child: Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                // Question
-                                _buildSection(
-                                  context,
-                                  title: 'Frage / Question',
-                                  content: question.questionText,
-                                  icon: Icons.help_outline,
-                                  color: Colors.blue,
-                                ),
+              // Content card - Scrollable
+              SliverToBoxAdapter(
+                child: Container(
+                  margin: const EdgeInsets.symmetric(horizontal: 16),
+                  decoration: BoxDecoration(
+                    color: Theme.of(context).cardColor,
+                    borderRadius: BorderRadius.circular(24),
+                    boxShadow: [
+                      BoxShadow(
+                        color: Colors.black.withOpacity(0.2),
+                        blurRadius: 20,
+                        offset: const Offset(0, 10),
+                      ),
+                    ],
+                  ),
+                  child: Padding(
+                    padding: const EdgeInsets.all(20),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        // Question
+                        _buildSection(
+                          context,
+                          title: 'Frage / Question',
+                          content: question.questionText,
+                          icon: Icons.help_outline,
+                          color: Colors.blue,
+                        ),
 
-                                const SizedBox(height: 24),
+                        const SizedBox(height: 16),
 
-                                // Correct Answer
-                                _buildSection(
-                                  context,
-                                  title: 'Richtige Antwort / Correct Answer',
-                                  content: question.correctAnswer,
-                                  icon: Icons.check_circle,
-                                  color: Colors.green,
-                                ),
+                        // Correct Answer
+                        _buildSection(
+                          context,
+                          title: 'Richtige Antwort / Correct Answer',
+                          content: question.correctAnswer,
+                          icon: Icons.check_circle,
+                          color: Colors.green,
+                        ),
 
-                                const SizedBox(height: 24),
+                        const SizedBox(height: 16),
 
-                                // English Translation
-                                _buildSection(
-                                  context,
-                                  title: 'Übersetzung / Translation',
-                                  content: question.englishTranslation,
-                                  icon: Icons.translate,
-                                  color: Colors.orange,
-                                ),
+                        // English Translation
+                        _buildSection(
+                          context,
+                          title: 'Übersetzung / Translation',
+                          content: question.englishTranslation,
+                          icon: Icons.translate,
+                          color: Colors.orange,
+                        ),
 
-                                const SizedBox(height: 24),
+                        const SizedBox(height: 16),
 
-                                // Explanation
-                                _buildSection(
-                                  context,
-                                  title: 'Erklärung / Explanation',
-                                  content: question.explanation,
-                                  icon: Icons.lightbulb_outline,
-                                  color: Colors.purple,
-                                ),
-                              ],
-                            ),
-                          ),
-                        )
-                        .animate()
-                        .fadeIn(delay: 400.ms)
-                        .slideY(begin: 0.3, duration: 500.ms),
+                        // Explanation
+                        _buildSection(
+                          context,
+                          title: 'Erklärung / Explanation',
+                          content: question.explanation,
+                          icon: Icons.lightbulb_outline,
+                          color: Colors.purple,
+                        ),
+                      ],
+                    ),
+                  ),
+                )
+                .animate()
+                .fadeIn(delay: 400.ms)
+                .slideY(begin: 0.3, duration: 500.ms),
               ),
 
-              // Next button
-              Padding(
-                    padding: const EdgeInsets.all(24),
-                    child: SizedBox(
-                      width: double.infinity,
-                      height: 56,
-                      child: ElevatedButton(
-                        onPressed: () {
-                          if (quizProvider.isLastQuestion) {
-                            quizProvider.endQuiz();
-                            Navigator.pushReplacementNamed(context, '/results');
-                          } else {
-                            quizProvider.nextQuestion();
-                            Navigator.pop(context);
-                          }
-                        },
-                        style: ElevatedButton.styleFrom(
-                          backgroundColor: Colors.white,
-                          foregroundColor: Colors.green.shade700,
-                          shape: RoundedRectangleBorder(
-                            borderRadius: BorderRadius.circular(16),
-                          ),
-                          elevation: 5,
+              // Spacer
+              const SliverPadding(padding: EdgeInsets.only(top: 16)),
+
+              // Next button - Fixed at bottom
+              SliverToBoxAdapter(
+                child: Padding(
+                  padding: const EdgeInsets.fromLTRB(24, 8, 24, 24),
+                  child: SizedBox(
+                    width: double.infinity,
+                    height: 56,
+                    child: ElevatedButton(
+                      onPressed: () {
+                        if (quizProvider.isLastQuestion) {
+                          quizProvider.endQuiz();
+                          Navigator.pushReplacementNamed(context, '/results');
+                        } else {
+                          quizProvider.nextQuestion();
+                          Navigator.pop(context);
+                        }
+                      },
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.white,
+                        foregroundColor: Colors.green.shade700,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(16),
                         ),
-                        child: Row(
-                          mainAxisAlignment: MainAxisAlignment.center,
-                          children: [
-                            Text(
-                              quizProvider.isLastQuestion
-                                  ? 'Ergebnisse anzeigen / Show Results'
-                                  : 'Nächste Frage / Next',
-                              style: const TextStyle(
-                                fontSize: 18,
-                                fontWeight: FontWeight.bold,
-                              ),
+                        elevation: 5,
+                      ),
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          Text(
+                            quizProvider.isLastQuestion
+                                ? 'Ergebnisse anzeigen / Show Results'
+                                : 'Nächste Frage / Next',
+                            style: const TextStyle(
+                              fontSize: 18,
+                              fontWeight: FontWeight.bold,
                             ),
-                            if (!quizProvider.isLastQuestion) ...[
-                              const SizedBox(width: 8),
-                              const Icon(Icons.arrow_forward),
-                            ],
+                          ),
+                          if (!quizProvider.isLastQuestion) ...[
+                            const SizedBox(width: 8),
+                            const Icon(Icons.arrow_forward),
                           ],
-                        ),
+                        ],
                       ),
                     ),
-                  )
-                  .animate()
-                  .fadeIn(delay: 600.ms)
-                  .slideY(begin: 0.5, duration: 400.ms),
+                  ),
+                )
+                .animate()
+                .fadeIn(delay: 600.ms)
+                .slideY(begin: 0.5, duration: 400.ms),
+              ),
             ],
           ),
         ),
