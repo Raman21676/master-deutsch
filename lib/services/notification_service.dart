@@ -119,7 +119,7 @@ class NotificationService {
       'showDailyWord',
       frequency: const Duration(hours: 24),
       initialDelay: _getDelayUntil9AM(),
-      constraints: Constraints(networkType: NetworkType.notRequired),
+      constraints: Constraints(networkType: NetworkType.connected),
     );
   }
 

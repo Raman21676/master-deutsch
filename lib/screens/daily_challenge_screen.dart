@@ -101,7 +101,7 @@ class DailyChallengeScreen extends StatelessWidget {
                   const SizedBox(height: 16),
                   
                   _buildBenefitCard(
-                    icon: Icons.brain,
+                    icon: Icons.psychology,
                     title: 'Build Consistency',
                     description: 'Learning a little every day is better than cramming once a week.',
                     color: Colors.blue,
@@ -315,7 +315,7 @@ class DailyChallengeScreen extends StatelessWidget {
 
   Widget _buildMilestones(int currentStreak) {
     final milestones = [
-      {'days': 3, 'title': 'Getting Started', 'icon': Icons.seedling},
+      {'days': 3, 'title': 'Getting Started', 'icon': Icons.spa},
       {'days': 7, 'title': 'First Week!', 'icon': Icons.local_fire_department},
       {'days': 14, 'title': 'Two Weeks Strong', 'icon': Icons.fitness_center},
       {'days': 30, 'title': 'Monthly Master', 'icon': Icons.emoji_events},
