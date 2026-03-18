@@ -6,21 +6,32 @@ import 'quiz_screen.dart';
 import 'package:provider/provider.dart';
 
 class LevelsScreen extends StatelessWidget {
-  const LevelsScreen({super.key});
+  final String? selectedLevelId;
+  
+  const LevelsScreen({super.key, this.selectedLevelId});
 
   @override
   Widget build(BuildContext context) {
+    // Filter levels if a specific level is selected
+    final levelsToShow = selectedLevelId != null
+        ? quizLevels.where((level) => level.id == selectedLevelId).toList()
+        : quizLevels;
+    
+    // Get the selected level for the app bar title
+    final selectedLevel = selectedLevelId != null
+        ? quizLevels.firstWhere((level) => level.id == selectedLevelId)
+        : null;
     
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Select Level'),
+        title: Text(selectedLevel != null ? selectedLevel.name : 'Select Level'),
         elevation: 0,
       ),
       body: ListView.builder(
         padding: const EdgeInsets.all(16),
-        itemCount: quizLevels.length,
+        itemCount: levelsToShow.length,
         itemBuilder: (context, index) {
-          final level = quizLevels[index];
+          final level = levelsToShow[index];
           return _buildLevelSection(context, level);
         },
       ),

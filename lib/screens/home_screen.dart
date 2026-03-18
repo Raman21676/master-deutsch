@@ -4,10 +4,13 @@ import '../models/quiz_level.dart';
 import '../providers/theme_provider.dart';
 import '../providers/user_provider.dart';
 import '../utils/constants.dart';
+import 'daily_challenge_screen.dart';
 import 'levels_screen.dart';
+import 'mistake_review_screen.dart';
 import 'progress_screen.dart';
 import 'settings_screen.dart';
 import 'translator_screen.dart';
+import '../providers/progress_provider.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
@@ -124,21 +127,21 @@ class HomeScreen extends StatelessWidget {
                   ),
                   const SizedBox(height: 16),
 
-                  // Action Cards - 2x2 Grid
+                  // Action Cards - 3x2 Grid with new features
                   GridView.count(
                     shrinkWrap: true,
                     physics: const NeverScrollableScrollPhysics(),
-                    crossAxisCount: 2,
-                    mainAxisSpacing: 12,
-                    crossAxisSpacing: 12,
-                    childAspectRatio: 1.5,
+                    crossAxisCount: 3,
+                    mainAxisSpacing: 10,
+                    crossAxisSpacing: 10,
+                    childAspectRatio: 0.85,
                     children: [
                       _buildActionCard(
                         context,
                         icon: Icons.play_circle_fill,
                         title: 'Start Quiz',
                         subtitle: 'Begin learning',
-                        color: AppColors.primaryLight,
+                        color: AppColors.accentLight,
                         onTap: () => Navigator.push(
                           context,
                           MaterialPageRoute(
@@ -151,7 +154,7 @@ class HomeScreen extends StatelessWidget {
                         icon: Icons.translate,
                         title: 'Translator',
                         subtitle: 'Offline EN ↔ DE',
-                        color: AppColors.accentLight,
+                        color: AppColors.secondaryLight,
                         onTap: () => Navigator.push(
                           context,
                           MaterialPageRoute(
@@ -164,7 +167,7 @@ class HomeScreen extends StatelessWidget {
                         icon: Icons.show_chart,
                         title: 'Progress',
                         subtitle: 'View stats',
-                        color: AppColors.secondaryLight,
+                        color: Colors.purple,
                         onTap: () => Navigator.push(
                           context,
                           MaterialPageRoute(
@@ -179,6 +182,73 @@ class HomeScreen extends StatelessWidget {
                         subtitle: 'Daily vocabulary',
                         color: Colors.orange,
                         onTap: () => Navigator.pushNamed(context, '/word-of-day'),
+                      ),
+                      _buildActionCard(
+                        context,
+                        icon: Icons.local_fire_department,
+                        title: 'Daily Challenge',
+                        subtitle: 'Keep streak alive',
+                        color: const Color(0xFFFF6B6B),
+                        onTap: () => Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (_) => const DailyChallengeScreen(),
+                          ),
+                        ),
+                        badge: Consumer<ProgressProvider>(
+                          builder: (context, provider, child) {
+                            if (provider.todayCompleted) {
+                              return const Icon(
+                                Icons.check_circle,
+                                color: Colors.green,
+                                size: 20,
+                              );
+                            }
+                            return Text(
+                              '${provider.currentDailyStreak}',
+                              style: const TextStyle(
+                                color: Color(0xFFFF6B6B),
+                                fontWeight: FontWeight.bold,
+                                fontSize: 14,
+                              ),
+                            );
+                          },
+                        ),
+                      ),
+                      _buildActionCard(
+                        context,
+                        icon: Icons.refresh,
+                        title: 'Review Mistakes',
+                        subtitle: 'Practice weak areas',
+                        color: Colors.teal,
+                        onTap: () => Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (_) => const MistakeReviewScreen(),
+                          ),
+                        ),
+                        badge: Consumer<ProgressProvider>(
+                          builder: (context, provider, child) {
+                            if (provider.hasWrongAnswers) {
+                              return Container(
+                                padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                                decoration: BoxDecoration(
+                                  color: Colors.red,
+                                  borderRadius: BorderRadius.circular(10),
+                                ),
+                                child: Text(
+                                  '${provider.wrongAnswersCount}',
+                                  style: const TextStyle(
+                                    color: Colors.white,
+                                    fontWeight: FontWeight.bold,
+                                    fontSize: 12,
+                                  ),
+                                ),
+                              );
+                            }
+                            return const SizedBox.shrink();
+                          },
+                        ),
                       ),
                     ],
                   ),
@@ -256,6 +326,7 @@ class HomeScreen extends StatelessWidget {
     required String subtitle,
     required Color color,
     required VoidCallback onTap,
+    Widget? badge,
   }) {
     return Card(
       elevation: 4,
@@ -263,30 +334,54 @@ class HomeScreen extends StatelessWidget {
       child: InkWell(
         onTap: onTap,
         borderRadius: BorderRadius.circular(16),
-        child: Padding(
-          padding: const EdgeInsets.all(20),
+        child: Container(
+          padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 12),
           child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            mainAxisSize: MainAxisSize.min,
             children: [
-              Container(
-                padding: const EdgeInsets.all(12),
-                decoration: BoxDecoration(
-                  color: color.withOpacity(0.1),
-                  borderRadius: BorderRadius.circular(12),
-                ),
-                child: Icon(icon, color: color, size: 32),
+              Stack(
+                clipBehavior: Clip.none,
+                children: [
+                  Container(
+                    padding: const EdgeInsets.all(10),
+                    decoration: BoxDecoration(
+                      color: color.withOpacity(0.15),
+                      borderRadius: BorderRadius.circular(12),
+                    ),
+                    child: Icon(icon, color: color, size: 26),
+                  ),
+                  if (badge != null)
+                    Positioned(
+                      top: -6,
+                      right: -6,
+                      child: badge,
+                    ),
+                ],
               ),
-              const SizedBox(height: 12),
+              const SizedBox(height: 8),
               Text(
                 title,
                 style: const TextStyle(
                   fontWeight: FontWeight.bold,
-                  fontSize: 16,
+                  fontSize: 13,
+                  height: 1.2,
                 ),
+                textAlign: TextAlign.center,
+                maxLines: 1,
+                overflow: TextOverflow.ellipsis,
               ),
-              const SizedBox(height: 4),
+              const SizedBox(height: 2),
               Text(
                 subtitle,
-                style: TextStyle(fontSize: 12, color: Colors.grey[600]),
+                style: TextStyle(
+                  fontSize: 10, 
+                  color: Colors.grey[600],
+                  height: 1.2,
+                ),
+                textAlign: TextAlign.center,
+                maxLines: 1,
+                overflow: TextOverflow.ellipsis,
               ),
             ],
           ),
@@ -305,7 +400,7 @@ class HomeScreen extends StatelessWidget {
       child: InkWell(
         onTap: () => Navigator.push(
           context,
-          MaterialPageRoute(builder: (_) => const LevelsScreen()),
+          MaterialPageRoute(builder: (_) => LevelsScreen(selectedLevelId: level.id)),
         ),
         borderRadius: BorderRadius.circular(12),
         child: Padding(
