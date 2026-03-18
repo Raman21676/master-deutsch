@@ -5,6 +5,8 @@ import 'package:shared_preferences/shared_preferences.dart';
 class ProgressProvider with ChangeNotifier {
   static const String _progressKey = 'quiz_progress';
   static const String _statsKey = 'quiz_stats';
+  static const String _dailyStreakKey = 'daily_streak';
+  static const String _wrongAnswersKey = 'wrong_answers';
   
   Map<String, Map<String, dynamic>> _progress = {};
   Map<String, int> _stats = {
@@ -15,9 +17,22 @@ class ProgressProvider with ChangeNotifier {
     'bestStreak': 0,
   };
   
+  // Daily challenge streak
+  Map<String, dynamic> _dailyStreak = {
+    'lastCompletionDate': null,
+    'currentDailyStreak': 0,
+    'bestDailyStreak': 0,
+    'todayCompleted': false,
+  };
+  
+  // Wrong answers for review
+  List<Map<String, dynamic>> _wrongAnswers = [];
+  
   ProgressProvider() {
     _loadProgress();
     _loadStats();
+    _loadDailyStreak();
+    _loadWrongAnswers();
   }
   
   // Getters
@@ -34,6 +49,16 @@ class ProgressProvider with ChangeNotifier {
     if (totalQuestionsAnswered == 0) return 0.0;
     return (totalCorrectAnswers / totalQuestionsAnswered) * 100;
   }
+  
+  // Daily streak getters
+  int get currentDailyStreak => _dailyStreak['currentDailyStreak'] ?? 0;
+  int get bestDailyStreak => _dailyStreak['bestDailyStreak'] ?? 0;
+  bool get todayCompleted => _dailyStreak['todayCompleted'] ?? false;
+  
+  // Wrong answers getters
+  List<Map<String, dynamic>> get wrongAnswers => List.unmodifiable(_wrongAnswers);
+  int get wrongAnswersCount => _wrongAnswers.length;
+  bool get hasWrongAnswers => _wrongAnswers.isNotEmpty;
   
   // Progress methods
   Future<void> _loadProgress() async {
@@ -66,8 +91,142 @@ class ProgressProvider with ChangeNotifier {
     await prefs.setString(_statsKey, jsonEncode(_stats));
   }
   
+  // Daily streak methods
+  Future<void> _loadDailyStreak() async {
+    final prefs = await SharedPreferences.getInstance();
+    final streakJson = prefs.getString(_dailyStreakKey);
+    if (streakJson != null) {
+      _dailyStreak = Map<String, dynamic>.from(jsonDecode(streakJson));
+      _checkAndResetDailyStreak();
+      notifyListeners();
+    }
+  }
+  
+  Future<void> _saveDailyStreak() async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setString(_dailyStreakKey, jsonEncode(_dailyStreak));
+  }
+  
+  void _checkAndResetDailyStreak() {
+    final lastCompletion = _dailyStreak['lastCompletionDate'];
+    if (lastCompletion != null) {
+      final lastDate = DateTime.parse(lastCompletion);
+      final now = DateTime.now();
+      final yesterday = now.subtract(const Duration(days: 1));
+      
+      // Check if last completion was yesterday or today
+      final isYesterday = lastDate.year == yesterday.year && 
+                         lastDate.month == yesterday.month && 
+                         lastDate.day == yesterday.day;
+      final isToday = lastDate.year == now.year && 
+                     lastDate.month == now.month && 
+                     lastDate.day == now.day;
+      
+      if (isToday) {
+        _dailyStreak['todayCompleted'] = true;
+      } else if (!isYesterday) {
+        // Streak broken - more than 1 day gap
+        _dailyStreak['currentDailyStreak'] = 0;
+        _dailyStreak['todayCompleted'] = false;
+      } else {
+        _dailyStreak['todayCompleted'] = false;
+      }
+    }
+  }
+  
+  Future<void> markDailyChallengeComplete() async {
+    final now = DateTime.now();
+    final lastCompletion = _dailyStreak['lastCompletionDate'];
+    
+    if (lastCompletion != null) {
+      final lastDate = DateTime.parse(lastCompletion);
+      final yesterday = now.subtract(const Duration(days: 1));
+      
+      final isYesterday = lastDate.year == yesterday.year && 
+                         lastDate.month == yesterday.month && 
+                         lastDate.day == yesterday.day;
+      
+      if (isYesterday) {
+        // Continue streak
+        _dailyStreak['currentDailyStreak'] = (_dailyStreak['currentDailyStreak'] ?? 0) + 1;
+      } else {
+        final isToday = lastDate.year == now.year && 
+                       lastDate.month == now.month && 
+                       lastDate.day == now.day;
+        if (!isToday) {
+          // New streak
+          _dailyStreak['currentDailyStreak'] = 1;
+        }
+      }
+    } else {
+      // First completion
+      _dailyStreak['currentDailyStreak'] = 1;
+    }
+    
+    // Update best streak
+    if ((_dailyStreak['currentDailyStreak'] ?? 0) > (_dailyStreak['bestDailyStreak'] ?? 0)) {
+      _dailyStreak['bestDailyStreak'] = _dailyStreak['currentDailyStreak'];
+    }
+    
+    _dailyStreak['lastCompletionDate'] = now.toIso8601String();
+    _dailyStreak['todayCompleted'] = true;
+    
+    await _saveDailyStreak();
+    notifyListeners();
+  }
+  
+  // Wrong answers methods
+  Future<void> _loadWrongAnswers() async {
+    final prefs = await SharedPreferences.getInstance();
+    final wrongJson = prefs.getString(_wrongAnswersKey);
+    if (wrongJson != null) {
+      final decoded = jsonDecode(wrongJson) as List;
+      _wrongAnswers = decoded.map((e) => Map<String, dynamic>.from(e)).toList();
+      notifyListeners();
+    }
+  }
+  
+  Future<void> _saveWrongAnswers() async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setString(_wrongAnswersKey, jsonEncode(_wrongAnswers));
+  }
+  
+  Future<void> addWrongAnswer(Map<String, dynamic> answerData) async {
+    // Check if this question is already in wrong answers (avoid duplicates)
+    final questionId = answerData['questionId'];
+    final existingIndex = _wrongAnswers.indexWhere((wa) => wa['questionId'] == questionId);
+    
+    if (existingIndex >= 0) {
+      // Update existing entry with new attempt count
+      _wrongAnswers[existingIndex]['attempts'] = (_wrongAnswers[existingIndex]['attempts'] ?? 1) + 1;
+      _wrongAnswers[existingIndex]['lastWrongAt'] = DateTime.now().toIso8601String();
+    } else {
+      // Add new wrong answer
+      _wrongAnswers.add({
+        ...answerData,
+        'addedAt': DateTime.now().toIso8601String(),
+        'attempts': 1,
+      });
+    }
+    
+    await _saveWrongAnswers();
+    notifyListeners();
+  }
+  
+  Future<void> removeWrongAnswer(int questionId) async {
+    _wrongAnswers.removeWhere((wa) => wa['questionId'] == questionId);
+    await _saveWrongAnswers();
+    notifyListeners();
+  }
+  
+  Future<void> clearAllWrongAnswers() async {
+    _wrongAnswers.clear();
+    await _saveWrongAnswers();
+    notifyListeners();
+  }
+  
   Future<void> saveQuizProgress(String setId, int score, int totalQuestions, 
-      List<Map<String, dynamic>> answers) async {
+      List<Map<String, dynamic>> answers, {bool isDailyChallenge = false}) async {
     final percentage = (score / totalQuestions) * 100;
     final now = DateTime.now().toIso8601String();
     
@@ -98,6 +257,26 @@ class ProgressProvider with ChangeNotifier {
       }
     } else {
       _stats['currentStreak'] = 0;
+    }
+    
+    // Save wrong answers for review
+    for (final answer in answers) {
+      if (answer['isCorrect'] == false) {
+        await addWrongAnswer({
+          'questionId': answer['questionId'],
+          'question': answer['question'],
+          'selectedAnswer': answer['selectedAnswer'],
+          'correctAnswer': answer['correctAnswer'],
+          'explanation': answer['explanation'],
+          'englishTranslation': answer['englishTranslation'],
+          'setId': setId,
+        });
+      }
+    }
+    
+    // Mark daily challenge complete if applicable
+    if (isDailyChallenge) {
+      await markDailyChallengeComplete();
     }
     
     await _saveProgress();
