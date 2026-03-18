@@ -14,7 +14,6 @@ class OnboardingScreen extends StatefulWidget {
 
 class _OnboardingScreenState extends State<OnboardingScreen> {
   final _formKey = GlobalKey<FormState>();
-  final _emailController = TextEditingController();
   final _nameController = TextEditingController();
   final _nicknameController = TextEditingController();
   final _ageController = TextEditingController();
@@ -24,7 +23,6 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
 
   @override
   void dispose() {
-    _emailController.dispose();
     _nameController.dispose();
     _nicknameController.dispose();
     _ageController.dispose();
@@ -38,7 +36,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
 
     try {
       final profile = UserProfile(
-        email: _emailController.text.trim(),
+        email: '', // No longer required
         fullName: _nameController.text.trim(),
         gender: _selectedGender,
         age: int.parse(_ageController.text.trim()),
@@ -158,26 +156,6 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                             textAlign: TextAlign.center,
                           ),
                           const SizedBox(height: 24),
-
-                          // Email Field
-                          TextFormField(
-                            controller: _emailController,
-                            decoration: const InputDecoration(
-                              labelText: 'Email',
-                              prefixIcon: Icon(Icons.email_outlined),
-                            ),
-                            keyboardType: TextInputType.emailAddress,
-                            validator: (value) {
-                              if (value == null || value.trim().isEmpty) {
-                                return 'Please enter your email';
-                              }
-                              if (!value.contains('@')) {
-                                return 'Please enter a valid email';
-                              }
-                              return null;
-                            },
-                          ),
-                          const SizedBox(height: 16),
 
                           // Full Name Field
                           TextFormField(
