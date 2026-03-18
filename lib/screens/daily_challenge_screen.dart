@@ -2,9 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 import '../providers/progress_provider.dart';
-import '../providers/quiz_provider.dart';
 import '../utils/constants.dart';
-import 'quiz_screen.dart';
+import 'daily_challenge_quiz_screen.dart';
 
 class DailyChallengeScreen extends StatelessWidget {
   const DailyChallengeScreen({super.key});
@@ -392,20 +391,10 @@ class DailyChallengeScreen extends StatelessWidget {
   void _startDailyChallenge(BuildContext context) {
     HapticFeedback.mediumImpact();
     
-    // Show coming soon or navigate to quiz
-    showDialog(
-      context: context,
-      builder: (context) => AlertDialog(
-        title: const Text('Daily Challenge'),
-        content: const Text(
-          'Complete 5 random questions to keep your streak alive!\n\nThis feature will be available in the next update.',
-        ),
-        actions: [
-          TextButton(
-            onPressed: () => Navigator.pop(context),
-            child: const Text('OK'),
-          ),
-        ],
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (_) => const DailyChallengeQuizScreen(),
       ),
     );
   }
